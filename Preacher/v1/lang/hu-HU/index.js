@@ -9,13 +9,6 @@ var info = [
 
 		"en-EN": "Hungarian",
 		"hu-HU": "Magyar",
-	}, {
-		"meta": "en-US",
-		"dir": "en-EN",
-
-
-		"en-EN": "English",
-		"hu-HU": "Angol",
 	}
 ]
 
