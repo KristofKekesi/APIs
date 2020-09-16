@@ -15,4 +15,4 @@ var info = [
 	}
 ]
 
-document.getElementsByTagName("body")[0].innerHTML = JSON.stringify(info);
+document.getElementsByTagName("html")[0].innerHTML = JSON.stringify(info);
