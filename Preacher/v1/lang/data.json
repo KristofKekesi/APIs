@@ -1,13 +1,13 @@
 [
   {
     "meta": "hu-HU",
-    "dir": "hu-HU",
+    "dir": "hu-HU/data.json",
     "en-EN": "Hungarian",
     "hu-HU": "Magyar"
   },
   {
     "meta": "en-US",
-    "dir": "en-EN",
+    "dir": "en-EN/data.json",
     "en-EN": "English",
     "hu-HU": "Angol"
   }

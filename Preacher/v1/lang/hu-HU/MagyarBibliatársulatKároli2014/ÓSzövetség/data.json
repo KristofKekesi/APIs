@@ -1,278 +1,276 @@
-var info = [
+[
 	{
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "1Móz1",
+		"dir": "1Móz1/data.json",
 
 		"name": "Mózes első könyve",
 		"description": "A teremtésről"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "2Móz2",
+		"dir": "2Móz2/data.json",
 
 		"name": "Mózes második könyve",
 		"description": "A zsidóknak Égyiptomból kijöveteléről"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "3Móz3",
+		"dir": "3Móz3/data.json",
 
 		"name": "Mózes harmadik könyve",
 		"description": "A léviták egyházi szolgálatáról"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "4Móz4",
+		"dir": "4Móz4/data.json",
 
 		"name": "Mózes negyedik könyve",
 		"description": "Az izraeliták megszámlálásáról"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "5Móz5",
+		"dir": "5Móz5/data.json",
 
 		"name": "Mózes ötödik könyve",
 		"description": "A törvény summája"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "6Józs",
+		"dir": "6Józs/data.json",
 
 		"name": "Józsué könyve",
 		"description": "-"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "7Bír",
+		"dir": "7Bír/data.json",
 
 		"name": "A bírák könyve",
 		"description": "-"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "8Ruth",
+		"dir": "8Ruth/data.json",
 
 		"name": "Ruth könyve",
 		"description": "-"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "9Sám1",
+		"dir": "9Sám1/data.json",
 
 		"name": "Sámuel első könyve",
 		"description": "-"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "10Sám2",
+		"dir": "10Sám2/data.json",
 
 		"name": "Sámuel második könyve",
 		"description": "-"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "11Kir1",
+		"dir": "11Kir1/data.json",
 
 		"name": "A királyok első könyve",
 		"description": "-"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "12Kir2",
+		"dir": "12Kir2/data.json",
 
 		"name": "A királyok második könyve",
 		"description": "-"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "13Krón1",
+		"dir": "13Krón1/data.json",
 
 		"name": "A krónikák első könyve",
 		"description": "-"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "14Krón2",
+		"dir": "14Krón2/data.json",
 
 		"name": "A krónikák második könyve",
 		"description": "-"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "15Ezsd",
+		"dir": "15Ezsd/data.json",
 
 		"name": "Ezsdrás könyve",
 		"description": "-"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "16Neh",
+		"dir": "16Neh/data.json",
 
 		"name": "Nehémiás könyve könyve",
 		"description": "-"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "17Eszt",
+		"dir": "17Eszt/data.json",
 
 		"name": "Eszter könyve",
 		"description": "-"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "18Jób",
+		"dir": "18Jób/data.json",
 
 		"name": "Jób könyve",
 		"description": "-"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "19Zsolt",
+		"dir": "19Zsolt/data.json",
 
 		"name": "A zsoltárok könyve",
 		"description": "-"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "20Péld",
+		"dir": "20Péld/data.json",
 
 		"name": "A példabeszédek könyve",
 		"description": "Bölcs Salamonnak példabeszédei"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "21Préd",
+		"dir": "21Préd/data.json",
 
 		"name": "A prédikátorok könyve",
 		"description": "A prédikátor Salamon könyve"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "22Énekek",
+		"dir": "22Énekek/data.json",
 
 		"name": "Énekek könyve",
 		"description": "Salamon énekek éneke"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "23Ézs",
+		"dir": "23Ézs/data.json",
 
 		"name": "Ézsaiás próféta könyve",
 		"description": "-"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "24Jer",
+		"dir": "24Jer/data.json",
 
 		"name": "Jeremiás próféta könyve",
 		"description": "-"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "25JSir",
+		"dir": "25JSir/data.json",
 
 		"name": "Jeremiás siralmai",
 		"description": "-"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "26Ez",
+		"dir": "26Ez/data.json",
 
 		"name": "Ezékiel könyve",
 		"description": "-"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "27Dán",
+		"dir": "27Dán/data.json",
 
 		"name": "Dániel próféta könyve",
 		"description": "-"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "28Hós",
+		"dir": "28Hós/data.json",
 
 		"name": "Hóseás próféta könyve",
 		"description": "-"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "29Jóel",
+		"dir": "29Jóel/data.json",
 
 		"name": "Jóel próféta könyve",
 		"description": "-"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "30Ám",
+		"dir": "30Ám/data.json",
 
 		"name": "Ámósz próféta könyve",
 		"description": "-"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "31Abd",
+		"dir": "31Abd/data.json",
 
 		"name": "Abdiás próféta könyve",
 		"description": "-"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "32Jón",
+		"dir": "32Jón/data.json",
 
 		"name": "Jónás próféta könyve",
 		"description": "-"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "33Mik",
+		"dir": "33Mik/data.json",
 
 		"name": "Mikeás próféta könyve",
 		"description": "-"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "34Náh",
+		"dir": "34Náh/data.json",
 
 		"name": "Náhum próféta könyve",
 		"description": "-"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "35Hab",
+		"dir": "35Hab/data.json",
 
 		"name": "Habakuk próféta könyve",
 		"description": "-"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "36Zof",
+		"dir": "36Zof/data.json",
 
 		"name": "Zofóniás próféta könyve",
 		"description": "-"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "37Hag",
+		"dir": "37Hag/data.json",
 
 		"name": "Haggeus próféta könyve",
 		"description": "-"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "38Zak",
+		"dir": "38Zak/data.json",
 
 		"name": "Zakariás próféta könyve",
 		"description": "-"
 	}, {
 		"meta-all": "Az Ó Szövetség könyvei",
 		"meta": "Könyv",
-		"dir": "39Mal",
+		"dir": "39Mal/data.json",
 
 		"name": "Malakiás próféta könyve",
 		"description": "-"
 	}
 ]
-
-document.getElementsByTagName("body")[0].innerHTML = JSON.stringify(info);

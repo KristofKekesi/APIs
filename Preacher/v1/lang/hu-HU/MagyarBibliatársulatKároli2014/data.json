@@ -1,0 +1,15 @@
+[
+	{
+		"meta-all": "Szövetségek",
+		"meta": "Szövetség",
+		"dir": "ÓSzövetség/data.json",
+
+		"name": "Ó szövetség"
+	}, {
+		"meta-all": "Szövetségek",
+		"meta": "Szövetség",
+		"dir": "ÚjSzövetség/data.json",
+
+		"name": "Új szövetség"
+	}
+]
