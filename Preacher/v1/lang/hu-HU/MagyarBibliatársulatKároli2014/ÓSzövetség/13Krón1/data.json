@@ -1,176 +1,182 @@
-[
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "13Krón1_1/data.json",
-    "name": "1"
+{
+  "meta": {
+    "type": "folder",
+    "url": "lang/hu-HU/MagyarBibliatársulatKároli2014/ÓSzövetség/"
   },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "13Krón1_2/data.json",
-    "name": "2"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "13Krón1_3/data.json",
-    "name": "3"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "13Krón1_4/data.json",
-    "name": "4"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "13Krón1_5/data.json",
-    "name": "5"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "13Krón1_6/data.json",
-    "name": "6"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "13Krón1_7/data.json",
-    "name": "7"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "13Krón1_8/data.json",
-    "name": "8"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "13Krón1_9/data.json",
-    "name": "9"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "13Krón1_10/data.json",
-    "name": "10"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "13Krón1_11/data.json",
-    "name": "11"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "13Krón1_12/data.json",
-    "name": "12"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "13Krón1_13/data.json",
-    "name": "13"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "13Krón1_14/data.json",
-    "name": "14"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "13Krón1_15/data.json",
-    "name": "15"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "13Krón1_16/data.json",
-    "name": "16"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "13Krón1_17/data.json",
-    "name": "17"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "13Krón1_18/data.json",
-    "name": "18"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "13Krón1_19/data.json",
-    "name": "19"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "13Krón1_20/data.json",
-    "name": "20"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "13Krón1_21/data.json",
-    "name": "21"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "13Krón1_22/data.json",
-    "name": "22"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "13Krón1_23/data.json",
-    "name": "23"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "13Krón1_24/data.json",
-    "name": "24"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "13Krón1_25/data.json",
-    "name": "25"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "13Krón1_26/data.json",
-    "name": "26"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "13Krón1_27/data.json",
-    "name": "27"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "13Krón1_28/data.json",
-    "name": "28"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "13Krón1_29/data.json",
-    "name": "29"
-  }
-]
+  "data": [
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "13Krón1_1/data.json",
+      "name": "1"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "13Krón1_2/data.json",
+      "name": "2"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "13Krón1_3/data.json",
+      "name": "3"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "13Krón1_4/data.json",
+      "name": "4"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "13Krón1_5/data.json",
+      "name": "5"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "13Krón1_6/data.json",
+      "name": "6"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "13Krón1_7/data.json",
+      "name": "7"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "13Krón1_8/data.json",
+      "name": "8"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "13Krón1_9/data.json",
+      "name": "9"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "13Krón1_10/data.json",
+      "name": "10"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "13Krón1_11/data.json",
+      "name": "11"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "13Krón1_12/data.json",
+      "name": "12"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "13Krón1_13/data.json",
+      "name": "13"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "13Krón1_14/data.json",
+      "name": "14"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "13Krón1_15/data.json",
+      "name": "15"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "13Krón1_16/data.json",
+      "name": "16"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "13Krón1_17/data.json",
+      "name": "17"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "13Krón1_18/data.json",
+      "name": "18"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "13Krón1_19/data.json",
+      "name": "19"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "13Krón1_20/data.json",
+      "name": "20"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "13Krón1_21/data.json",
+      "name": "21"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "13Krón1_22/data.json",
+      "name": "22"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "13Krón1_23/data.json",
+      "name": "23"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "13Krón1_24/data.json",
+      "name": "24"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "13Krón1_25/data.json",
+      "name": "25"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "13Krón1_26/data.json",
+      "name": "26"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "13Krón1_27/data.json",
+      "name": "27"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "13Krón1_28/data.json",
+      "name": "28"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "13Krón1_29/data.json",
+      "name": "29"
+    }
+  ]
+}

@@ -1,165 +1,144 @@
-[
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "3Móz3_1/data.json",
-
-    "name": "1"
-  }, {
-  "meta-all": "Fejezetek",
-  "meta": "Fejezet",
-  "dir": "3Móz3_2/data.json",
-
-  "name": "2"
-}, {
-  "meta-all": "Fejezetek",
-  "meta": "Fejezet",
-  "dir": "3Móz3_3/data.json",
-
-  "name": "3"
-}, {
-  "meta-all": "Fejezetek",
-  "meta": "Fejezet",
-  "dir": "3Móz3_4/data.json",
-
-  "name": "4"
-}, {
-  "meta-all": "Fejezetek",
-  "meta": "Fejezet",
-  "dir": "3Móz3_5/data.json",
-
-  "name": "5"
-}, {
-  "meta-all": "Fejezetek",
-  "meta": "Fejezet",
-  "dir": "3Móz3_6/data.json",
-
-  "name": "6"
-}, {
-  "meta-all": "Fejezetek",
-  "meta": "Fejezet",
-  "dir": "3Móz3_7/data.json",
-
-  "name": "7"
-}, {
-  "meta-all": "Fejezetek",
-  "meta": "Fejezet",
-  "dir": "3Móz3_8/data.json",
-
-  "name": "8"
-}, {
-  "meta-all": "Fejezetek",
-  "meta": "Fejezet",
-  "dir": "3Móz3_9/data.json",
-
-  "name": "9"
-}, {
-  "meta-all": "Fejezetek",
-  "meta": "Fejezet",
-  "dir": "3Móz3_10/data.json",
-
-  "name": "10"
-}, {
-  "meta-all": "Fejezetek",
-  "meta": "Fejezet",
-  "dir": "3Móz3_11/data.json",
-
-  "name": "11"
-}, {
-  "meta-all": "Fejezetek",
-  "meta": "Fejezet",
-  "dir": "3Móz3_12/data.json",
-
-  "name": "12"
-}, {
-  "meta-all": "Fejezetek",
-  "meta": "Fejezet",
-  "dir": "3Móz3_13/data.json",
-
-  "name": "13"
-}, {
-  "meta-all": "Fejezetek",
-  "meta": "Fejezet",
-  "dir": "3Móz3_14/data.json",
-
-  "name": "14"
-}, {
-  "meta-all": "Fejezetek",
-  "meta": "Fejezet",
-  "dir": "3Móz3_15/data.json",
-
-  "name": "15"
-}, {
-  "meta-all": "Fejezetek",
-  "meta": "Fejezet",
-  "dir": "3Móz3_16/data.json",
-
-  "name": "16"
-}, {
-  "meta-all": "Fejezetek",
-  "meta": "Fejezet",
-  "dir": "3Móz3_17/data.json",
-
-  "name": "17"
-}, {
-  "meta-all": "Fejezetek",
-  "meta": "Fejezet",
-  "dir": "3Móz3_18/data.json",
-
-  "name": "18"
-}, {
-  "meta-all": "Fejezetek",
-  "meta": "Fejezet",
-  "dir": "3Móz3_19/data.json",
-
-  "name": "19"
-}, {
-  "meta-all": "Fejezetek",
-  "meta": "Fejezet",
-  "dir": "3Móz3_20/data.json",
-
-  "name": "20"
-}, {
-  "meta-all": "Fejezetek",
-  "meta": "Fejezet",
-  "dir": "3Móz3_21/data.json",
-
-  "name": "21"
-}, {
-  "meta-all": "Fejezetek",
-  "meta": "Fejezet",
-  "dir": "3Móz3_22/data.json",
-
-  "name": "22"
-}, {
-  "meta-all": "Fejezetek",
-  "meta": "Fejezet",
-  "dir": "3Móz3_23/data.json",
-
-  "name": "23"
-}, {
-  "meta-all": "Fejezetek",
-  "meta": "Fejezet",
-  "dir": "3Móz3_24/data.json",
-
-  "name": "24"
-}, {
-  "meta-all": "Fejezetek",
-  "meta": "Fejezet",
-  "dir": "3Móz3_25/data.json",
-
-  "name": "25"
-}, {
-  "meta-all": "Fejezetek",
-  "meta": "Fejezet",
-  "dir": "3Móz3_26/data.json",
-
-  "name": "26"
-}, {
-  "meta-all": "Fejezetek",
-  "meta": "Fejezet",
-  "dir": "3Móz3_27/data.json",
-
-  "name": "27"
+{
+  "meta": {
+    "type": "folder",
+    "url": "lang/hu-HU/MagyarBibliatársulatKároli2014/ÓSzövetség/3Móz3/",
+    "name": "Fejezetek"
+  },
+  "data": [
+    {
+      "dir": "3Móz3_1/data.json",
+      "name": "1. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "3Móz3_2/data.json",
+      "name": "2. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "3Móz3_3/data.json",
+      "name": "3. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "3Móz3_4/data.json",
+      "name": "4. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "3Móz3_5/data.json",
+      "name": "5. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "3Móz3_6/data.json",
+      "name": "6. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "3Móz3_7/data.json",
+      "name": "7. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "3Móz3_8/data.json",
+      "name": "8. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "3Móz3_9/data.json",
+      "name": "9. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "3Móz3_10/data.json",
+      "name": "10. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "3Móz3_11/data.json",
+      "name": "11. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "3Móz3_12/data.json",
+      "name": "12. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "3Móz3_13/data.json",
+      "name": "13. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "3Móz3_14/data.json",
+      "name": "14. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "3Móz3_15/data.json",
+      "name": "15. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "3Móz3_16/data.json",
+      "name": "16. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "3Móz3_17/data.json",
+      "name": "17. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "3Móz3_18/data.json",
+      "name": "18. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "3Móz3_19/data.json",
+      "name": "19. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "3Móz3_20/data.json",
+      "name": "20. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "3Móz3_21/data.json",
+      "name": "21. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "3Móz3_22/data.json",
+      "name": "22. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "3Móz3_23/data.json",
+      "name": "23. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "3Móz3_24/data.json",
+      "name": "24. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "3Móz3_25/data.json",
+      "name": "25. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "3Móz3_26/data.json",
+      "name": "26. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "3Móz3_27/data.json",
+      "name": "27. Fejezet",
+      "description": ""
+    }
+  ]
 }
-]

@@ -1,4 +1,6 @@
-[
+{
+  "meta": {"type":  "folder", "url":  "lang/hu-HU/MagyarBibliatársulatKároli2014/ÓSzövetség/"},
+  "data": [
   {
     "meta-all": "Fejezetek",
     "meta": "Fejezet",
@@ -144,3 +146,4 @@
     "name": "24"
   }
 ]
+}

@@ -1,14 +1,21 @@
-[
-  {
-    "meta": "hu-HU",
-    "dir": "hu-HU/data.json",
-    "en-EN": "Hungarian",
-    "hu-HU": "Magyar"
+{
+  "meta": {
+    "type": "languages",
+    "url": "lang/"
   },
-  {
-    "meta": "en-US",
-    "dir": "en-EN/data.json",
-    "en-EN": "English",
-    "hu-HU": "Angol"
-  }
-]
+  "data": [
+    {
+      "meta": "hu-HU",
+      "dir": "hu-HU/data.json",
+      "en-EN": "Hungarian",
+      "hu-HU": "Magyar"
+    },
+    {
+      "meta": "en-US",
+      "url": "lang/",
+      "dir": "en-EN/data.json",
+      "en-EN": "English",
+      "hu-HU": "Angol"
+    }
+  ]
+}

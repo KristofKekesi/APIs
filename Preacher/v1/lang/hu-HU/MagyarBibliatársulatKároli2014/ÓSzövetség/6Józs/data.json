@@ -1,146 +1,152 @@
-[
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "6Józs_1/data.json",
-    "name": "1"
+{
+  "meta": {
+    "type": "folder",
+    "url": "lang/hu-HU/MagyarBibliatársulatKároli2014/ÓSzövetség/"
   },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "6Józs_2/data.json",
-    "name": "2"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "6Józs_3/data.json",
-    "name": "3"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "6Józs_4/data.json",
-    "name": "4"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "6Józs_5/data.json",
-    "name": "5"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "6Józs_6/data.json",
-    "name": "6"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "6Józs_7/data.json",
-    "name": "7"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "6Józs_8/data.json",
-    "name": "8"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "6Józs_9/data.json",
-    "name": "9"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "6Józs_10/data.json",
-    "name": "10"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "6Józs_11/data.json",
-    "name": "11"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "6Józs_12/data.json",
-    "name": "12"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "6Józs_13/data.json",
-    "name": "13"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "6Józs_14/data.json",
-    "name": "14"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "6Józs_15/data.json",
-    "name": "15"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "6Józs_16/data.json",
-    "name": "16"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "6Józs_17/data.json",
-    "name": "17"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "6Józs_18/data.json",
-    "name": "18"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "6Józs_19/data.json",
-    "name": "19"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "6Józs_20/data.json",
-    "name": "20"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "6Józs_21/data.json",
-    "name": "21"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "6Józs_22/data.json",
-    "name": "22"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "6Józs_23/data.json",
-    "name": "23"
-  },
-  {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
-    "dir": "6Józs_24/data.json",
-    "name": "24"
-  }
-]
+  "data": [
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "6Józs_1/data.json",
+      "name": "1"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "6Józs_2/data.json",
+      "name": "2"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "6Józs_3/data.json",
+      "name": "3"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "6Józs_4/data.json",
+      "name": "4"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "6Józs_5/data.json",
+      "name": "5"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "6Józs_6/data.json",
+      "name": "6"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "6Józs_7/data.json",
+      "name": "7"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "6Józs_8/data.json",
+      "name": "8"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "6Józs_9/data.json",
+      "name": "9"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "6Józs_10/data.json",
+      "name": "10"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "6Józs_11/data.json",
+      "name": "11"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "6Józs_12/data.json",
+      "name": "12"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "6Józs_13/data.json",
+      "name": "13"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "6Józs_14/data.json",
+      "name": "14"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "6Józs_15/data.json",
+      "name": "15"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "6Józs_16/data.json",
+      "name": "16"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "6Józs_17/data.json",
+      "name": "17"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "6Józs_18/data.json",
+      "name": "18"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "6Józs_19/data.json",
+      "name": "19"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "6Józs_20/data.json",
+      "name": "20"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "6Józs_21/data.json",
+      "name": "21"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "6Józs_22/data.json",
+      "name": "22"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "6Józs_23/data.json",
+      "name": "23"
+    },
+    {
+      "meta-all": "Fejezetek",
+      "meta": "Fejezet",
+      "dir": "6Józs_24/data.json",
+      "name": "24"
+    }
+  ]
+}
