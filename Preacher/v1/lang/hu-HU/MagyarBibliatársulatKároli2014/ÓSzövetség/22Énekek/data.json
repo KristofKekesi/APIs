@@ -1,50 +1,49 @@
-[
+{
+  "meta": {
+    "type": "folder",
+    "url": "lang/hu-HU/MagyarBibliatársulatKároli2014/ÓSzövetség/22Énekek/",
+    "name": "Fejezetek"
+  },
+  "data": [
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "22Énekek_1/data.json",
-    "name": "1"
+    "name": "1. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "22Énekek_2/data.json",
-    "name": "2"
+    "name": "2. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "22Énekek_3/data.json",
-    "name": "3"
+    "name": "3. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "22Énekek_4/data.json",
-    "name": "4"
+    "name": "4. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "22Énekek_5/data.json",
-    "name": "5"
+    "name": "5. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "22Énekek_6/data.json",
-    "name": "6"
+    "name": "6. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "22Énekek_7/data.json",
-    "name": "7"
+    "name": "7. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "22Énekek_8/data.json",
-    "name": "8"
+    "name": "8. Fejezet",
+	"description": ""
   }
 ]
+}

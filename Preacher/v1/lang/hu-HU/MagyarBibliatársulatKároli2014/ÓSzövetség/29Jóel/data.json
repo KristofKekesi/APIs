@@ -1,20 +1,24 @@
-[
+{
+  "meta": {
+    "type": "folder",
+    "url": "lang/hu-HU/MagyarBibliatársulatKároli2014/ÓSzövetség/29Jóel/",
+    "name": "Fejezetek"
+  },
+  "data": [
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "29Jóel_1/data.json",
-    "name": "1"
+    "name": "1. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "29Jóel_2/data.json",
-    "name": "2"
+    "name": "2. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "29Jóel_3/data.json",
-    "name": "3"
+    "name": "3. Fejezet",
+	"description": ""
   }
 ]
+}

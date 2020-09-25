@@ -1,86 +1,78 @@
-[
+{
+  "meta": {
+    "type": "folder",
+    "url": "lang/hu-HU/MagyarBibliatársulatKároli2014/ÓSzövetség/28Hós/",
+    "name": "Fejezetek"
+  },
+  "data": [
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "28Hós_1/data.json",
-    "name": "1"
+    "name": "1. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "28Hós_2/data.json",
-    "name": "2"
+    "name": "2. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "28Hós_3/data.json",
-    "name": "3"
+    "name": "3. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "28Hós_4/data.json",
-    "name": "4"
+    "name": "4. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "28Hós_5/data.json",
-    "name": "5"
+    "name": "5. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "28Hós_6/data.json",
-    "name": "6"
+    "name": "6. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "28Hós_7/data.json",
-    "name": "7"
+    "name": "7. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "28Hós_8/data.json",
-    "name": "8"
+    "name": "8. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "28Hós_9/data.json",
-    "name": "9"
+    "name": "9. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "28Hós_10/data.json",
-    "name": "10"
+    "name": "10. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "28Hós_11/data.json",
-    "name": "11"
+    "name": "11. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "28Hós_12/data.json",
-    "name": "12"
+    "name": "12. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "28Hós_13/data.json",
-    "name": "13"
+    "name": "13. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "28Hós_14/data.json",
-    "name": "14"
+    "name": "14. Fejezet",
+	"description": ""
   }
 ]

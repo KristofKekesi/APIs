@@ -1,134 +1,114 @@
 {
   "meta": {
-    "type:": "folder",
-    "url": "lang/hu-HU/MagyarBibliatársulatKároli2014/ÓSzövetség/"
+    "type": "folder",
+    "url": "lang/hu-HU/MagyarBibliatársulatKároli2014/ÓSzövetség/7Bír1/",
+	"name": "Fejezetek"
   },
   "data": [
     {
-      "meta-all": "Fejezetek",
-      "meta": "Fejezet",
       "dir": "7Bír_1/data.json",
-      "name": "1"
+      "name": "1. Fejezet",
+	"description": ""
     },
     {
-      "meta-all": "Fejezetek",
-      "meta": "Fejezet",
       "dir": "7Bír_2/data.json",
-      "name": "2"
+      "name": "2. Fejezet",
+	"description": ""
     },
     {
-      "meta-all": "Fejezetek",
-      "meta": "Fejezet",
       "dir": "7Bír_3/data.json",
-      "name": "3"
+      "name": "3. Fejezet",
+	"description": ""
     },
     {
-      "meta-all": "Fejezetek",
-      "meta": "Fejezet",
       "dir": "7Bír_4/data.json",
-      "name": "4"
+      "name": "4. Fejezet",
+	"description": ""
     },
     {
-      "meta-all": "Fejezetek",
-      "meta": "Fejezet",
       "dir": "7Bír_5/data.json",
-      "name": "5"
+      "name": "5. Fejezet",
+	"description": ""
     },
     {
-      "meta-all": "Fejezetek",
-      "meta": "Fejezet",
       "dir": "7Bír_6/data.json",
-      "name": "6"
+      "name": "6. Fejezet",
+	"description": ""
     },
     {
-      "meta-all": "Fejezetek",
-      "meta": "Fejezet",
       "dir": "7Bír_7/data.json",
-      "name": "7"
+      "name": "7. Fejezet",
+	"description": ""
     },
     {
-      "meta-all": "Fejezetek",
-      "meta": "Fejezet",
       "dir": "7Bír_8/data.json",
-      "name": "8"
+      "name": "8. Fejezet",
+	"description": ""
     },
     {
-      "meta-all": "Fejezetek",
-      "meta": "Fejezet",
       "dir": "7Bír_9/data.json",
-      "name": "9"
+      "name": "9. Fejezet",
+	"description": ""
     },
     {
-      "meta-all": "Fejezetek",
-      "meta": "Fejezet",
       "dir": "7Bír_10/data.json",
-      "name": "10"
+      "name": "10. Fejezet",
+	"description": ""
     },
     {
-      "meta-all": "Fejezetek",
-      "meta": "Fejezet",
       "dir": "7Bír_11/data.json",
-      "name": "11"
+      "name": "11. Fejezet",
+	"description": ""
     },
     {
-      "meta-all": "Fejezetek",
-      "meta": "Fejezet",
       "dir": "7Bír_12/data.json",
-      "name": "12"
+      "name": "12. Fejezet",
+	"description": ""
     },
     {
-      "meta-all": "Fejezetek",
-      "meta": "Fejezet",
       "dir": "7Bír_13/data.json",
-      "name": "13"
+      "name": "13. Fejezet",
+	"description": ""
     },
     {
-      "meta-all": "Fejezetek",
-      "meta": "Fejezet",
       "dir": "7Bír_14/data.json",
-      "name": "14"
+      "name": "14. Fejezet",
+	"description": ""
     },
     {
-      "meta-all": "Fejezetek",
-      "meta": "Fejezet",
       "dir": "7Bír_15/data.json",
-      "name": "15"
+      "name": "15. Fejezet",
+	"description": ""
     },
     {
-      "meta-all": "Fejezetek",
-      "meta": "Fejezet",
       "dir": "7Bír_16/data.json",
-      "name": "16"
+      "name": "16. Fejezet",
+	"description": ""
     },
     {
-      "meta-all": "Fejezetek",
-      "meta": "Fejezet",
       "dir": "7Bír_17/data.json",
-      "name": "17"
+      "name": "17. Fejezet",
+	"description": ""
     },
     {
-      "meta-all": "Fejezetek",
-      "meta": "Fejezet",
       "dir": "7Bír_18/data.json",
-      "name": "18"
+      "name": "18. Fejezet",
+	"description": ""
     },
     {
-      "meta-all": "Fejezetek",
-      "meta": "Fejezet",
       "dir": "7Bír_19/data.json",
-      "name": "19"
+      "name": "19. Fejezet",
+	"description": ""
     },
     {
-      "meta-all": "Fejezetek",
-      "meta": "Fejezet",
       "dir": "7Bír_20/data.json",
-      "name": "20"
+      "name": "20. Fejezet",
+	"description": ""
     },
     {
-      "meta-all": "Fejezetek",
-      "meta": "Fejezet",
       "dir": "7Bír_21/data.json",
-      "name": "21"
+      "name": "21. Fejezet",
+	"description": ""
     }
   ]
 }

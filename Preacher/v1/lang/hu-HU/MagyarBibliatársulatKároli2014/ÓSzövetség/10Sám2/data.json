@@ -1,149 +1,129 @@
 {
-  "meta": {"type":  "folder", "url":  "lang/hu-HU/MagyarBibliatársulatKároli2014/ÓSzövetség/"},
+  "meta": {
+	"type": "folder",
+	"url": "lang/hu-HU/MagyarBibliatársulatKároli2014/ÓSzövetség/10Sám2/",
+	"name": "Fejezetek"
+  },
   "data": [
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "10Sám2_1/data.json",
-    "name": "1"
+    "name": "1. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "10Sám2_2/data.json",
-    "name": "2"
+    "name": "2. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "10Sám2_3/data.json",
-    "name": "3"
+    "name": "3. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "10Sám2_4/data.json",
-    "name": "4"
+    "name": "4. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "10Sám2_5/data.json",
-    "name": "5"
+    "name": "5. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "10Sám2_6/data.json",
-    "name": "6"
+    "name": "6. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "10Sám2_7/data.json",
-    "name": "7"
+    "name": "7. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "10Sám2_8/data.json",
-    "name": "8"
+    "name": "8. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "10Sám2_9/data.json",
-    "name": "9"
+    "name": "9. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "10Sám2_10/data.json",
-    "name": "10"
+    "name": "10. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "10Sám2_11/data.json",
-    "name": "11"
+    "name": "11. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "10Sám2_12/data.json",
-    "name": "12"
+    "name": "12. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "10Sám2_13/data.json",
-    "name": "13"
+    "name": "13. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "10Sám2_14/data.json",
-    "name": "14"
+    "name": "14. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "10Sám2_15/data.json",
-    "name": "15"
+    "name": "15. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "10Sám2_16/data.json",
-    "name": "16"
+    "name": "16. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "10Sám2_17/data.json",
-    "name": "17"
+    "name": "17. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "10Sám2_18/data.json",
-    "name": "18"
+    "name": "18. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "10Sám2_19/data.json",
-    "name": "19"
+    "name": "19. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "10Sám2_20/data.json",
-    "name": "20"
+    "name": "20. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "10Sám2_21/data.json",
-    "name": "21"
+    "name": "21. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "10Sám2_22/data.json",
-    "name": "22"
+    "name": "22. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "10Sám2_23/data.json",
-    "name": "23"
+    "name": "23. Fejezet",
+	"description": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "10Sám2_24/data.json",
-    "name": "24"
+    "name": "24. Fejezet",
+	"description": ""
   }
 ]
 }

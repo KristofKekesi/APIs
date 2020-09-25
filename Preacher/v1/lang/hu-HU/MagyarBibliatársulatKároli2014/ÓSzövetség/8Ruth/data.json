@@ -1,32 +1,29 @@
 {
   "meta": {
     "type": "folder",
-    "url": "lang/hu-HU/MagyarBibliatársulatKároli2014/ÓSzövetség/"
+    "url": "lang/hu-HU/MagyarBibliatársulatKároli2014/ÓSzövetség/8Ruth/",
+	"name": "Fejezetek"
   },
   "data": [
     {
-      "meta-all": "Fejezetek",
-      "meta": "Fejezet",
       "dir": "8Ruth_1/data.json",
-      "name": "1"
+      "name": "1. Fejezet",
+	"description": ""
     },
-    {
-      "meta-all": "Fejezetek",
-      "meta": "Fejezet",
+    {,
       "dir": "8Ruth_2/data.json",
-      "name": "2"
+      "name": "2. Fejezet",
+	"description": ""
     },
     {
-      "meta-all": "Fejezetek",
-      "meta": "Fejezet",
       "dir": "8Ruth_3/data.json",
-      "name": "3"
+      "name": "3. Fejezet",
+	"description": ""
     },
     {
-      "meta-all": "Fejezetek",
-      "meta": "Fejezet",
       "dir": "8Ruth_4/data.json",
-      "name": "4"
+      "name": "4. Fejezet",
+	"description": ""
     }
   ]
 }

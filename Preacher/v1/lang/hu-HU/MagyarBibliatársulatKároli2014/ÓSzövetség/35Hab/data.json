@@ -1,20 +1,19 @@
-[
+{
+"meta": {"type": "folder", "url": "lang/hu-HU/MagyarBibliatársulatKároli2014/ÓSzövetség/35Hab/", "name": "Fejezetek"},
+"data": [
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "35Hab_1/data.json",
-    "name": "1"
+    "name": "1. Fejezet",
+	"descrption": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "35Hab_2/data.json",
-    "name": "2"
+    "name": "2. Fejezet",
+	"descrption": ""
   },
   {
-    "meta-all": "Fejezetek",
-    "meta": "Fejezet",
     "dir": "35Hab_3/data.json",
-    "name": "3"
+    "name": "3. Fejezet",
+	"descrption": ""
   }
 ]
