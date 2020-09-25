@@ -4,8 +4,6 @@
 
 <img src="https://img.shields.io/badge/Contributors-1-blue.svg" alt=""> [![Discord](https://img.shields.io/discord/639186082214445116.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/7URAMuc)
 
-<span style="text-align: justify;">A modern app to track the cemical elements. Including all 118 elements, with their weight, radiation, consistency, type, block, and electronnegativity. If you are a seventh grader or higher, you should use it to help your studying, or use it as a cheat sheat.</span>
-
 # Preacher
 
 ## Contributors <img src="https://img.shields.io/badge/1-blue.svg" alt="">
