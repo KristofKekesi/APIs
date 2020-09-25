@@ -2,18 +2,18 @@
   "meta": {
     "type": "folder",
     "url": "lang/hu-HU/MagyarBibliatársulatKároli2014/ÓSzövetség/12Kir2/",
-	"name": "Fejezetek"
+    "name": "Fejezetek"
   },
   "data": [
     {
       "dir": "12Kir2_1/data.json",
       "name": "1. Fejezet",
-	  "description": ""
+      "description": ""
     },
     {
       "dir": "12Kir2_2/data.json",
       "name": "2. Fejezet",
-	  "description": ""
+      "description": ""
     },
     {
       "dir": "12Kir2_3/data.json",
@@ -22,112 +22,112 @@
     {
       "dir": "12Kir2_4/data.json",
       "name": "4. Fejezet",
-	  "description": ""
+      "description": ""
     },
     {
       "dir": "12Kir2_5/data.json",
       "name": "5. Fejezet",
-	  "description": ""
+      "description": ""
     },
     {
       "dir": "12Kir2_6/data.json",
       "name": "6. Fejezet",
-	  "description": ""
+      "description": ""
     },
     {
       "dir": "12Kir2_7/data.json",
       "name": "7. Fejezet",
-	  "description": ""
+      "description": ""
     },
     {
       "dir": "12Kir2_8/data.json",
       "name": "8. Fejezet",
-	  "description": ""
+      "description": ""
     },
     {
       "dir": "12Kir2_9/data.json",
       "name": "9. Fejezet",
-	  "description": ""
+      "description": ""
     },
     {
       "dir": "12Kir2_10/data.json",
       "name": "10. Fejezet",
-	  "description": ""
+      "description": ""
     },
     {
       "dir": "12Kir2_11/data.json",
       "name": "11. Fejezet",
-	  "description": ""
+      "description": ""
     },
     {
       "dir": "12Kir2_12/data.json",
       "name": "12. Fejezet",
-	  "description": ""
+      "description": ""
     },
     {
       "dir": "12Kir2_13/data.json",
       "name": "13. Fejezet",
-	  "description": ""
+      "description": ""
     },
     {
       "dir": "12Kir2_14/data.json",
       "name": "14. Fejezet",
-	  "description": ""
+      "description": ""
     },
     {
       "dir": "12Kir2_15/data.json",
       "name": "15. Fejezet",
-	  "description": ""
+      "description": ""
     },
     {
       "dir": "12Kir2_16/data.json",
       "name": "16. Fejezet",
-	  "description": ""
+      "description": ""
     },
     {
       "dir": "12Kir2_17/data.json",
       "name": "17. Fejezet",
-	  "description": ""
+      "description": ""
     },
     {
       "dir": "12Kir2_18/data.json",
       "name": "18. Fejezet",
-	  "description": ""
+      "description": ""
     },
     {
       "dir": "12Kir2_19/data.json",
       "name": "19. Fejezet",
-	  "description": ""
+      "description": ""
     },
     {
       "dir": "12Kir2_20/data.json",
       "name": "20. Fejezet",
-	  "description": ""
+      "description": ""
     },
     {
       "dir": "12Kir2_21/data.json",
       "name": "21. Fejezet",
-	  "description": ""
+      "description": ""
     },
     {
       "dir": "12Kir2_22/data.json",
       "name": "22. Fejezet",
-	  "description": ""
+      "description": ""
     },
     {
       "dir": "12Kir2_23/data.json",
       "name": "23. Fejezet",
-	  "description": ""
+      "description": ""
     },
     {
       "dir": "12Kir2_24/data.json",
       "name": "24. Fejezet",
-	  "description": ""
+      "description": ""
     },
     {
       "dir": "12Kir2_25/data.json",
       "name": "25. Fejezet",
-	  "description": ""
+      "description": ""
     }
   ]
 }

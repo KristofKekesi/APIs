@@ -1,754 +1,759 @@
 {
-"meta": {"type": "folder", "url": "lang/hu-HU/MagyarBibliatársulatKároli2014/ÓSzövetség/19Zsolt/", "name": "Fejezetek"},
-"data": [
-  {
-    "dir": "19Zsolt_1/data.json",
-    "name": "1. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_2/data.json",
-    "name": "2. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_3/data.json",
-    "name": "3. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_4/data.json",
-    "name": "4. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_5/data.json",
-    "name": "5. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_6/data.json",
-    "name": "6. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_7/data.json",
-    "name": "7. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_8/data.json",
-    "name": "8. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_9/data.json",
-    "name": "9. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_10/data.json",
-    "name": "10. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_11/data.json",
-    "name": "11. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_12/data.json",
-    "name": "12. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_13/data.json",
-    "name": "13. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_14/data.json",
-    "name": "14. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_15/data.json",
-    "name": "15. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_16/data.json",
-    "name": "16. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_17/data.json",
-    "name": "17. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_18/data.json",
-    "name": "18. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_19/data.json",
-    "name": "19. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_20/data.json",
-    "name": "20. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_21/data.json",
-    "name": "21. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_22/data.json",
-    "name": "22. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_23/data.json",
-    "name": "23. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_24/data.json",
-    "name": "24. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_25/data.json",
-    "name": "25. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_26/data.json",
-    "name": "26. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_27/data.json",
-    "name": "27. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_28/data.json",
-    "name": "28. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_29/data.json",
-    "name": "29. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_30/data.json",
-    "name": "30. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_31/data.json",
-    "name": "31. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_32/data.json",
-    "name": "32. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_33/data.json",
-    "name": "33. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_34/data.json",
-    "name": "34. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_35/data.json",
-    "name": "35. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_36/data.json",
-    "name": "36. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_37/data.json",
-    "name": "37. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_38/data.json",
-    "name": "38. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_39/data.json",
-    "name": "39. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_40/data.json",
-    "name": "40. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_41/data.json",
-    "name": "41. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_42/data.json",
-    "name": "42. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_43/data.json",
-    "name": "43. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_44/data.json",
-    "name": "44. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_45/data.json",
-    "name": "45. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_46/data.json",
-    "name": "46. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_47/data.json",
-    "name": "47. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_48/data.json",
-    "name": "48. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_49/data.json",
-    "name": "49. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_50/data.json",
-    "name": "50. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_51/data.json",
-    "name": "51. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_52/data.json",
-    "name": "52. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_53/data.json",
-    "name": "53. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_54/data.json",
-    "name": "54. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_55/data.json",
-    "name": "55. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_56/data.json",
-    "name": "56. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_57/data.json",
-    "name": "57. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_58/data.json",
-    "name": "58. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_59/data.json",
-    "name": "59. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_60/data.json",
-    "name": "60. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_61/data.json",
-    "name": "61. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_62/data.json",
-    "name": "62. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_63/data.json",
-    "name": "63. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_64/data.json",
-    "name": "64. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_65/data.json",
-    "name": "65. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_66/data.json",
-    "name": "66. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_67/data.json",
-    "name": "67. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_68/data.json",
-    "name": "68. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_69/data.json",
-    "name": "69. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_70/data.json",
-    "name": "70. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_71/data.json",
-    "name": "71. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_72/data.json",
-    "name": "72. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_73/data.json",
-    "name": "73. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_74/data.json",
-    "name": "74. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_75/data.json",
-    "name": "75. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_76/data.json",
-    "name": "76. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_77/data.json",
-    "name": "77. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_78/data.json",
-    "name": "78. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_79/data.json",
-    "name": "79. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_80/data.json",
-    "name": "80. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_81/data.json",
-    "name": "81. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_82/data.json",
-    "name": "82. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_83/data.json",
-    "name": "83. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_84/data.json",
-    "name": "84. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_85/data.json",
-    "name": "85. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_86/data.json",
-    "name": "86. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_87/data.json",
-    "name": "87. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_88/data.json",
-    "name": "88. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_89/data.json",
-    "name": "89. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_90/data.json",
-    "name": "90. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_91/data.json",
-    "name": "91. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_92/data.json",
-    "name": "92. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_93/data.json",
-    "name": "93. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_94/data.json",
-    "name": "94. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_95/data.json",
-    "name": "95. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_96/data.json",
-    "name": "96. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_97/data.json",
-    "name": "97. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_98/data.json",
-    "name": "98. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_99/data.json",
-    "name": "99. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_100/data.json",
-    "name": "100. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_101/data.json",
-    "name": "101. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_102/data.json",
-    "name": "102. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_103/data.json",
-    "name": "103. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_104/data.json",
-    "name": "104. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_105/data.json",
-    "name": "105. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_106/data.json",
-    "name": "106. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_107/data.json",
-    "name": "107. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_108/data.json",
-    "name": "108. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_109/data.json",
-    "name": "109. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_110/data.json",
-    "name": "110. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_111/data.json",
-    "name": "111. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_112/data.json",
-    "name": "112. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_113/data.json",
-    "name": "113. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_114/data.json",
-    "name": "114. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_115/data.json",
-    "name": "115. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_116/data.json",
-    "name": "116. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_117/data.json",
-    "name": "117. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_118/data.json",
-    "name": "118. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_119/data.json",
-    "name": "119. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_120/data.json",
-    "name": "120. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_121/data.json",
-    "name": "121. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_122/data.json",
-    "name": "122. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_123/data.json",
-    "name": "123. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_124/data.json",
-    "name": "124. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_125/data.json",
-    "name": "125. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_126/data.json",
-    "name": "126. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_127/data.json",
-    "name": "127. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_128/data.json",
-    "name": "128. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_129/data.json",
-    "name": "129. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_130/data.json",
-    "name": "130. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_131/data.json",
-    "name": "131. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_132/data.json",
-    "name": "132. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_133/data.json",
-    "name": "133. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_134/data.json",
-    "name": "134. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_135/data.json",
-    "name": "135. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_136/data.json",
-    "name": "136. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_137/data.json",
-    "name": "137. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_138/data.json",
-    "name": "138. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_139/data.json",
-    "name": "139. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_140/data.json",
-    "name": "140. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_141/data.json",
-    "name": "141. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_142/data.json",
-    "name": "142. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_143/data.json",
-    "name": "143. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_144/data.json",
-    "name": "144. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_145/data.json",
-    "name": "145. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_146/data.json",
-    "name": "146. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_147/data.json",
-    "name": "147. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_148/data.json",
-    "name": "148. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_149/data.json",
-    "name": "149. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "19Zsolt_150/data.json",
-    "name": "150. Fejezet",
-	"description": ""
-  }
-]}
+  "meta": {
+    "type": "folder",
+    "url": "lang/hu-HU/MagyarBibliatársulatKároli2014/ÓSzövetség/19Zsolt/",
+    "name": "Fejezetek"
+  },
+  "data": [
+    {
+      "dir": "19Zsolt_1/data.json",
+      "name": "1. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_2/data.json",
+      "name": "2. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_3/data.json",
+      "name": "3. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_4/data.json",
+      "name": "4. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_5/data.json",
+      "name": "5. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_6/data.json",
+      "name": "6. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_7/data.json",
+      "name": "7. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_8/data.json",
+      "name": "8. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_9/data.json",
+      "name": "9. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_10/data.json",
+      "name": "10. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_11/data.json",
+      "name": "11. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_12/data.json",
+      "name": "12. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_13/data.json",
+      "name": "13. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_14/data.json",
+      "name": "14. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_15/data.json",
+      "name": "15. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_16/data.json",
+      "name": "16. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_17/data.json",
+      "name": "17. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_18/data.json",
+      "name": "18. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_19/data.json",
+      "name": "19. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_20/data.json",
+      "name": "20. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_21/data.json",
+      "name": "21. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_22/data.json",
+      "name": "22. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_23/data.json",
+      "name": "23. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_24/data.json",
+      "name": "24. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_25/data.json",
+      "name": "25. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_26/data.json",
+      "name": "26. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_27/data.json",
+      "name": "27. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_28/data.json",
+      "name": "28. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_29/data.json",
+      "name": "29. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_30/data.json",
+      "name": "30. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_31/data.json",
+      "name": "31. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_32/data.json",
+      "name": "32. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_33/data.json",
+      "name": "33. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_34/data.json",
+      "name": "34. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_35/data.json",
+      "name": "35. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_36/data.json",
+      "name": "36. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_37/data.json",
+      "name": "37. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_38/data.json",
+      "name": "38. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_39/data.json",
+      "name": "39. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_40/data.json",
+      "name": "40. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_41/data.json",
+      "name": "41. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_42/data.json",
+      "name": "42. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_43/data.json",
+      "name": "43. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_44/data.json",
+      "name": "44. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_45/data.json",
+      "name": "45. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_46/data.json",
+      "name": "46. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_47/data.json",
+      "name": "47. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_48/data.json",
+      "name": "48. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_49/data.json",
+      "name": "49. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_50/data.json",
+      "name": "50. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_51/data.json",
+      "name": "51. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_52/data.json",
+      "name": "52. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_53/data.json",
+      "name": "53. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_54/data.json",
+      "name": "54. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_55/data.json",
+      "name": "55. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_56/data.json",
+      "name": "56. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_57/data.json",
+      "name": "57. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_58/data.json",
+      "name": "58. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_59/data.json",
+      "name": "59. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_60/data.json",
+      "name": "60. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_61/data.json",
+      "name": "61. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_62/data.json",
+      "name": "62. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_63/data.json",
+      "name": "63. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_64/data.json",
+      "name": "64. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_65/data.json",
+      "name": "65. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_66/data.json",
+      "name": "66. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_67/data.json",
+      "name": "67. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_68/data.json",
+      "name": "68. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_69/data.json",
+      "name": "69. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_70/data.json",
+      "name": "70. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_71/data.json",
+      "name": "71. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_72/data.json",
+      "name": "72. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_73/data.json",
+      "name": "73. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_74/data.json",
+      "name": "74. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_75/data.json",
+      "name": "75. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_76/data.json",
+      "name": "76. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_77/data.json",
+      "name": "77. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_78/data.json",
+      "name": "78. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_79/data.json",
+      "name": "79. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_80/data.json",
+      "name": "80. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_81/data.json",
+      "name": "81. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_82/data.json",
+      "name": "82. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_83/data.json",
+      "name": "83. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_84/data.json",
+      "name": "84. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_85/data.json",
+      "name": "85. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_86/data.json",
+      "name": "86. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_87/data.json",
+      "name": "87. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_88/data.json",
+      "name": "88. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_89/data.json",
+      "name": "89. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_90/data.json",
+      "name": "90. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_91/data.json",
+      "name": "91. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_92/data.json",
+      "name": "92. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_93/data.json",
+      "name": "93. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_94/data.json",
+      "name": "94. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_95/data.json",
+      "name": "95. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_96/data.json",
+      "name": "96. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_97/data.json",
+      "name": "97. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_98/data.json",
+      "name": "98. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_99/data.json",
+      "name": "99. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_100/data.json",
+      "name": "100. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_101/data.json",
+      "name": "101. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_102/data.json",
+      "name": "102. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_103/data.json",
+      "name": "103. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_104/data.json",
+      "name": "104. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_105/data.json",
+      "name": "105. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_106/data.json",
+      "name": "106. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_107/data.json",
+      "name": "107. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_108/data.json",
+      "name": "108. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_109/data.json",
+      "name": "109. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_110/data.json",
+      "name": "110. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_111/data.json",
+      "name": "111. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_112/data.json",
+      "name": "112. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_113/data.json",
+      "name": "113. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_114/data.json",
+      "name": "114. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_115/data.json",
+      "name": "115. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_116/data.json",
+      "name": "116. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_117/data.json",
+      "name": "117. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_118/data.json",
+      "name": "118. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_119/data.json",
+      "name": "119. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_120/data.json",
+      "name": "120. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_121/data.json",
+      "name": "121. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_122/data.json",
+      "name": "122. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_123/data.json",
+      "name": "123. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_124/data.json",
+      "name": "124. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_125/data.json",
+      "name": "125. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_126/data.json",
+      "name": "126. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_127/data.json",
+      "name": "127. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_128/data.json",
+      "name": "128. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_129/data.json",
+      "name": "129. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_130/data.json",
+      "name": "130. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_131/data.json",
+      "name": "131. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_132/data.json",
+      "name": "132. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_133/data.json",
+      "name": "133. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_134/data.json",
+      "name": "134. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_135/data.json",
+      "name": "135. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_136/data.json",
+      "name": "136. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_137/data.json",
+      "name": "137. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_138/data.json",
+      "name": "138. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_139/data.json",
+      "name": "139. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_140/data.json",
+      "name": "140. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_141/data.json",
+      "name": "141. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_142/data.json",
+      "name": "142. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_143/data.json",
+      "name": "143. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_144/data.json",
+      "name": "144. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_145/data.json",
+      "name": "145. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_146/data.json",
+      "name": "146. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_147/data.json",
+      "name": "147. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_148/data.json",
+      "name": "148. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_149/data.json",
+      "name": "149. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "19Zsolt_150/data.json",
+      "name": "150. Fejezet",
+      "description": ""
+    }
+  ]
+}

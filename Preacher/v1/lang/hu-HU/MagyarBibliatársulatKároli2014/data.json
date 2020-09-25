@@ -5,7 +5,8 @@
     "name": "Szövetségek",
     "cover": "assets/cover.jpg",
     "hidden": false,
-    "finished": false
+    "finished": false,
+    "exlusive": false
   },
   "data": [
     {

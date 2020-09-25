@@ -5,333 +5,334 @@
     "name": "Fejezetek"
   },
   "data": [
-  {
-    "dir": "23Ézs_1/data.json",
-    "name": "1. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_2/data.json",
-    "name": "2. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_3/data.json",
-    "name": "3. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_4/data.json",
-    "name": "4. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_5/data.json",
-    "name": "5. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_6/data.json",
-    "name": "6. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_7/data.json",
-    "name": "7. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_8/data.json",
-    "name": "8. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_9/data.json",
-    "name": "9. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_10/data.json",
-    "name": "10. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_11/data.json",
-    "name": "11. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_12/data.json",
-    "name": "12. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_13/data.json",
-    "name": "13. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_14/data.json",
-    "name": "14. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_15/data.json",
-    "name": "15. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_16/data.json",
-    "name": "16. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_17/data.json",
-    "name": "17. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_18/data.json",
-    "name": "18. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_19/data.json",
-    "name": "19. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_20/data.json",
-    "name": "20. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_21/data.json",
-    "name": "21. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_22/data.json",
-    "name": "22. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_23/data.json",
-    "name": "23. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_24/data.json",
-    "name": "24"
-  },
-  {
-    "dir": "23Ézs_25/data.json",
-    "name": "25. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_26/data.json",
-    "name": "26. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_27/data.json",
-    "name": "27. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_28/data.json",
-    "name": "28. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_29/data.json",
-    "name": "29. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_30/data.json",
-    "name": "30. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_31/data.json",
-    "name": "31. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_32/data.json",
-    "name": "32. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_33/data.json",
-    "name": "33. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_34/data.json",
-    "name": "34. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_35/data.json",
-    "name": "35. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_36/data.json",
-    "name": "36. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_37/data.json",
-    "name": "37. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_38/data.json",
-    "name": "38. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_39/data.json",
-    "name": "39. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_40/data.json",
-    "name": "40. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_41/data.json",
-    "name": "41. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_42/data.json",
-    "name": "42. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_43/data.json",
-    "name": "43. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_44/data.json",
-    "name": "44. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_45/data.json",
-    "name": "45. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_46/data.json",
-    "name": "46. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_47/data.json",
-    "name": "47. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_48/data.json",
-    "name": "48. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_49/data.json",
-    "name": "49. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_50/data.json",
-    "name": "50. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_51/data.json",
-    "name": "51. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_52/data.json",
-    "name": "52. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_53/data.json",
-    "name": "53. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_54/data.json",
-    "name": "54. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_55/data.json",
-    "name": "55. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_56/data.json",
-    "name": "56. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_57/data.json",
-    "name": "57. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_58/data.json",
-    "name": "58. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_59/data.json",
-    "name": "59. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_60/data.json",
-    "name": "60. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_61/data.json",
-    "name": "61. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_62/data.json",
-    "name": "62. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_63/data.json",
-    "name": "63. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_64/data.json",
-    "name": "64. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_65/data.json",
-    "name": "65. Fejezet",
-	"description": ""
-  },
-  {
-    "dir": "23Ézs_66/data.json",
-    "name": "66. Fejezet",
-	"description": ""
-  }
-]
+    {
+      "dir": "23Ézs_1/data.json",
+      "name": "1. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_2/data.json",
+      "name": "2. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_3/data.json",
+      "name": "3. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_4/data.json",
+      "name": "4. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_5/data.json",
+      "name": "5. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_6/data.json",
+      "name": "6. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_7/data.json",
+      "name": "7. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_8/data.json",
+      "name": "8. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_9/data.json",
+      "name": "9. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_10/data.json",
+      "name": "10. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_11/data.json",
+      "name": "11. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_12/data.json",
+      "name": "12. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_13/data.json",
+      "name": "13. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_14/data.json",
+      "name": "14. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_15/data.json",
+      "name": "15. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_16/data.json",
+      "name": "16. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_17/data.json",
+      "name": "17. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_18/data.json",
+      "name": "18. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_19/data.json",
+      "name": "19. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_20/data.json",
+      "name": "20. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_21/data.json",
+      "name": "21. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_22/data.json",
+      "name": "22. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_23/data.json",
+      "name": "23. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_24/data.json",
+      "name": "24"
+    },
+    {
+      "dir": "23Ézs_25/data.json",
+      "name": "25. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_26/data.json",
+      "name": "26. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_27/data.json",
+      "name": "27. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_28/data.json",
+      "name": "28. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_29/data.json",
+      "name": "29. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_30/data.json",
+      "name": "30. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_31/data.json",
+      "name": "31. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_32/data.json",
+      "name": "32. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_33/data.json",
+      "name": "33. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_34/data.json",
+      "name": "34. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_35/data.json",
+      "name": "35. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_36/data.json",
+      "name": "36. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_37/data.json",
+      "name": "37. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_38/data.json",
+      "name": "38. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_39/data.json",
+      "name": "39. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_40/data.json",
+      "name": "40. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_41/data.json",
+      "name": "41. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_42/data.json",
+      "name": "42. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_43/data.json",
+      "name": "43. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_44/data.json",
+      "name": "44. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_45/data.json",
+      "name": "45. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_46/data.json",
+      "name": "46. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_47/data.json",
+      "name": "47. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_48/data.json",
+      "name": "48. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_49/data.json",
+      "name": "49. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_50/data.json",
+      "name": "50. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_51/data.json",
+      "name": "51. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_52/data.json",
+      "name": "52. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_53/data.json",
+      "name": "53. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_54/data.json",
+      "name": "54. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_55/data.json",
+      "name": "55. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_56/data.json",
+      "name": "56. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_57/data.json",
+      "name": "57. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_58/data.json",
+      "name": "58. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_59/data.json",
+      "name": "59. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_60/data.json",
+      "name": "60. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_61/data.json",
+      "name": "61. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_62/data.json",
+      "name": "62. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_63/data.json",
+      "name": "63. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_64/data.json",
+      "name": "64. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_65/data.json",
+      "name": "65. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Ézs_66/data.json",
+      "name": "66. Fejezet",
+      "description": ""
+    }
+  ]
+}
