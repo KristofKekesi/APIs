@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "lang/hu-HU/MagyarBibliatársulatKároli2014/ÓjSzövetség/23Jn1/",
+    "name": "Fejezetek"
+  },
+  "data": [
+    {
+      "dir": "23Jn1_1/data.json",
+      "name": "1. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Jn1_2/data.json",
+      "name": "2. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Jn1_3/data.json",
+      "name": "3. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Jn1_4/data.json",
+      "name": "4. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "23Jn1_5/data.json",
+      "name": "5. Fejezet",
+      "description": ""
+    }
+  ]
+}

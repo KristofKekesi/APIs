@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "lang/hu-HU/MagyarBibliatársulatKároli2014/ÓjSzövetség/22Pt2/",
+    "name": "Fejezetek"
+  },
+  "data": [
+    {
+      "dir": "22Pt2_1/data.json",
+      "name": "1. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "22Pt2_2/data.json",
+      "name": "2. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "22Pt2_3/data.json",
+      "name": "3. Fejezet",
+      "description": ""
+    }
+  ]
+}

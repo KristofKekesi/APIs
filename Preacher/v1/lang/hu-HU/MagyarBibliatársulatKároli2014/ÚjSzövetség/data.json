@@ -1,0 +1,144 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "lang/hu-HU/MagyarBibliatársulatKároli2014/ÚjSzövetség/",
+    "name": "Az Új Szövetség könyvei"
+  },
+  "data": [
+    {
+      "dir": "1Mt/data.json",
+      "name": "Máté evangéliuma",
+      "description": ""
+    },
+    {
+      "dir": "2Mk/data.json",
+      "name": "Márk evangéliuma",
+      "description": ""
+    },
+    {
+      "dir": "3Lk/data.json",
+      "name": "Lukács evangéliuma",
+      "description": ""
+    },
+    {
+      "dir": "4Jn/data.json",
+      "name": "János evangéliuma",
+      "description": ""
+    },
+    {
+      "dir": "5ApCsel/data.json",
+      "name": "Az Apostolok cselekedetei",
+      "description": ""
+    },
+    {
+      "dir": "6Róm/data.json",
+      "name": "Pál levele a rómaiakhoz",
+      "description": ""
+    },
+    {
+      "dir": "7Kor1/data.json",
+      "name": "Pál első levele a korinthusiakhoz",
+      "description": ""
+    },
+    {
+      "dir": "8Kor2/data.json",
+      "name": "Pál második levele a korinthusiakhoz",
+      "description": ""
+    },
+    {
+      "dir": "9Gal/data.json",
+      "name": "Pál levele a galatákhoz",
+      "description": ""
+    },
+    {
+      "dir": "10Ef/data.json",
+      "name": "Pál levele az efezusiakhoz",
+      "description": ""
+    },
+    {
+      "dir": "11Fil/data.json",
+      "name": "Pál levele a filippiekhez",
+      "description": ""
+    },
+    {
+      "dir": "12Kol/data.json",
+      "name": "Pál levele a kolosséiakhoz",
+      "description": ""
+    },
+    {
+      "dir": "13Thessz1/data.json",
+      "name": "Pál első levele a thesszalonikaiakhoz",
+      "description": ""
+    },
+    {
+      "dir": "14Thessz2/data.json",
+      "name": "Pál második levele a thesszalonikaiakhoz",
+      "description": ""
+    },
+    {
+      "dir": "15Tim1/data.json",
+      "name": "Pál első levele Timóteushoz",
+      "description": ""
+    },
+    {
+      "dir": "16Tim2/data.json",
+      "name": "Pál második levele Timóteushoz",
+      "description": ""
+    },
+    {
+      "dir": "17Tit/data.json",
+      "name": "Pál levele Tituszhoz",
+      "description": ""
+    },
+    {
+      "dir": "18Filem/data.json",
+      "name": "Pál levele a Filemonhoz",
+      "description": ""
+    },
+    {
+      "dir": "19Zsid/data.json",
+      "name": "A zsidókhoz írt levél",
+      "description": ""
+    },
+    {
+      "dir": "20Jak/data.json",
+      "name": "Jakab levele",
+      "description": ""
+    },
+    {
+      "dir": "21Pt1/data.json",
+      "name": "Péter első levele",
+      "description": ""
+    },
+    {
+      "dir": "22Pt2/data.json",
+      "name": "Péter második levele",
+      "description": ""
+    },
+    {
+      "dir": "23Jn1/data.json",
+      "name": "János első levele",
+      "description": ""
+    },
+    {
+      "dir": "24Jn2/data.json",
+      "name": "János második levele",
+      "description": ""
+    },
+    {
+      "dir": "25Jn3/data.json",
+      "name": "János harmadik levele",
+      "description": ""
+    },
+    {
+      "dir": "26Júd/data.json",
+      "name": "Júdás levele",
+      "description": ""
+    },
+    {
+      "dir": "27Jel/data.json",
+      "name": "A Jelenések könyve",
+      "description": ""
+    }
+  ]
+}

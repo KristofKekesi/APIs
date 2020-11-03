@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "lang/hu-HU/MagyarBibliatársulatKároli2014/ÓjSzövetség/9Gal/",
+    "name": "Fejezetek"
+  },
+  "data": [
+    {
+      "dir": "9Gal_1/data.json",
+      "name": "1. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "9Gal_2/data.json",
+      "name": "2. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "9Gal_3/data.json",
+      "name": "3. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "9Gal_4/data.json",
+      "name": "4. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "9Gal_5/data.json",
+      "name": "5. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "9Gal_6/data.json",
+      "name": "6. Fejezet",
+      "description": ""
+    }
+  ]
+}

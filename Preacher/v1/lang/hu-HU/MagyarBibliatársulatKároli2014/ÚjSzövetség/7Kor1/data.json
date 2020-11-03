@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "lang/hu-HU/MagyarBibliatársulatKároli2014/ÓjSzövetség/7Kor1/",
+    "name": "Fejezetek"
+  },
+  "data": [
+    {
+      "dir": "7Kor1_1/data.json",
+      "name": "1. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "7Kor1_2/data.json",
+      "name": "2. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "7Kor1_3/data.json",
+      "name": "3. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "7Kor1_4/data.json",
+      "name": "4. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "7Kor1_5/data.json",
+      "name": "5. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "7Kor1_6/data.json",
+      "name": "6. Fejezet",
+      "description": ""
+    },
+    {"dir": "7Kor1_7/data.json",
+      "name": "7. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "7Kor1_8/data.json",
+      "name": "8. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "7Kor1_9/data.json",
+      "name": "9. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "7Kor1_10/data.json",
+      "name": "10. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "7Kor1_11/data.json",
+      "name": "11. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "7Kor1_12/data.json",
+      "name": "12. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "7Kor1_13/data.json",
+      "name": "13. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "7Kor1_14/data.json",
+      "name": "14. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "7Kor1_15/data.json",
+      "name": "15. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "7Kor1_16/data.json",
+      "name": "16. Fejezet",
+      "description": ""
+    }
+  ]
+}

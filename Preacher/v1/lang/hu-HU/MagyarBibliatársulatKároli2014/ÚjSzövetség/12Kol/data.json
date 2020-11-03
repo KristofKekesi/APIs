@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "lang/hu-HU/MagyarBibliatársulatKároli2014/ÓjSzövetség/12Kol/",
+    "name": "Fejezetek"
+  },
+  "data": [
+    {
+      "dir": "12Kol_1/data.json",
+      "name": "1. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "12Kol_2/data.json",
+      "name": "2. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "12Kol_3/data.json",
+      "name": "3. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "12Kol_4/data.json",
+      "name": "4. Fejezet",
+      "description": ""
+    }
+  ]
+}

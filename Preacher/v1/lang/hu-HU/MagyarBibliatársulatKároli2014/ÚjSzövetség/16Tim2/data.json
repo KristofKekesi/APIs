@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "lang/hu-HU/MagyarBibliatársulatKároli2014/ÓjSzövetség/16Tim2/",
+    "name": "Fejezetek"
+  },
+  "data": [
+    {
+      "dir": "16Tim2_1/data.json",
+      "name": "1. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "16Tim2_2/data.json",
+      "name": "2. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "16Tim2_3/data.json",
+      "name": "3. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "16Tim2_4/data.json",
+      "name": "4. Fejezet",
+      "description": ""
+    }
+  ]
+}

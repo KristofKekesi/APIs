@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "lang/hu-HU/MagyarBibliatársulatKároli2014/ÓjSzövetség/26Júd/",
+    "name": "Fejezetek"
+  },
+  "data": [
+    {
+      "dir": "26Júd_1/data.json",
+      "name": "1. Fejezet",
+      "description": ""
+    }
+  ]
+}

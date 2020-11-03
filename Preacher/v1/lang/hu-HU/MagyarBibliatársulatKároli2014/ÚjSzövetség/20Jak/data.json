@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "lang/hu-HU/MagyarBibliatársulatKároli2014/ÓjSzövetség/20Jak/",
+    "name": "Fejezetek"
+  },
+  "data": [
+    {
+      "dir": "20Jak_1/data.json",
+      "name": "1. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "20Jak_2/data.json",
+      "name": "2. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "20Jak_3/data.json",
+      "name": "3. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "20Jak_4/data.json",
+      "name": "4. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "20Jak_5/data.json",
+      "name": "5. Fejezet",
+      "description": ""
+    }
+  ]
+}
