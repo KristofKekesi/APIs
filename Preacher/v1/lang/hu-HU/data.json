@@ -6,11 +6,13 @@
   "data": [
     {
       "dir": "MagyarBibliatársulatKároli2014/data.json",
-      "name": "Biblia",
+      "name": "Károli Biblia",
       "authors": "Magyar Bibliatársulat",
       "year": 2014,
       "en-EN": "Hungarian",
-      "hu-HU": "Magyar"
+      "hu-HU": "Magyar",
+	  "img-portrait": "portrait.png",
+	  "img-landscape": "landscape.png"
     }
   ]
 }
