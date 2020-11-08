@@ -7,7 +7,7 @@
 # Preacher
 [Documentation](https://github.com/KristofKekesi/APIs/blob/master/Preacher/README.md)
 
-## Contributors <img src="https://img.shields.io/badge/1-blue.svg" alt="">
+## Contributors <img src="https://img.shields.io/badge/2-blue.svg" alt="">
 * _[Programming]_  - [__Kristóf Kékesi__](https://github.com/KristofKekesi)
 * _[JSON Formatting]_ - [__Kristóf Kékesi__](https://github.com/KristofKekesi), [__Klári Bory__](https://www.instagram.com/boryklara/)
  
