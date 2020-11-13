@@ -1,9 +1,10 @@
 {
   "meta": {
     "type": "book",
-    "url": "lang/hu-HU/",
+    "url": "lang/hu-HU/MagyaeBibliatársulatKároli2014/",
     "name": "Szövetségek",
-    "cover": "assets/cover.jpg",
+    "portrait": "assets/portrait.jpg",
+    "landscape": "assets/landscape.jpg",
     "hidden": false,
     "finished": false,
     "exclusive": false
