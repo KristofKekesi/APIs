@@ -12,7 +12,6 @@
     },
     {
       "code": "en-US",
-      "url": "lang/",
       "dir": "en-EN/data.json",
       "en-EN": "English",
       "hu-HU": "Angol"
