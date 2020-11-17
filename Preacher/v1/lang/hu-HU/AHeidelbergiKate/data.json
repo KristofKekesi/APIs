@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "type": "book",
+    "url": "lang/hu-HU/MagyaeBibliatársulatKároli2014/",
+    "name": "Szövetségek",
+    "portrait": "assets/portrait.jpg",
+    "landscape": "assets/landscape.jpg",
+    "hidden": false,
+    "finished": false,
+    "exclusive": false
+  },
+  "data": [
+    {
+      "dir": "ÓSzövetség/data.json",
+      "name": "Ó szövetség",
+      "description": ""
+    },
+    {
+      "dir": "ÚjSzövetség/data.json",
+      "name": "Új szövetség",
+      "description": ""
+    }
+  ]
+}
