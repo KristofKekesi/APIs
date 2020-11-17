@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "type": "language",
+    "url": "lang/en-EN/"
+  },
+  "data": [
+    {
+      "dir": "test/data.json",
+      "name": "Test Book",
+      "authors": "Kristóf Kékesi",
+      "year": 1616,
+	  "img-portrait": "portrait.png",
+	  "img-landscape": "landscape.png"
+    }
+  ]
+}
