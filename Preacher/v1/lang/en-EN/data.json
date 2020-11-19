@@ -5,26 +5,20 @@
   },
   "data": [
     {
-      "dir": "test/data.json",
-      "name": "Test Book",
-      "authors": "Kristóf Kékesi",
-      "year": 1616,
+      "dir": "Quran/data.json",
+      "name": "Quran",
+      "authors": "",
+      "year": ,
 	  "img-portrait": "portrait.png",
 	  "img-landscape": "landscape.png"
-    }, {
-      "dir": "test/data.json",
-      "name": "Test Book",
-      "authors": "Kristóf Kékesi",
-      "year": 1616,
+    },
+	{
+      "dir": "Hadith/data.json",
+      "name": "Hadith",
+      "authors": "",
+      "year": ,
 	  "img-portrait": "portrait.png",
 	  "img-landscape": "landscape.png"
-    }, {
-      "dir": "test/data.json",
-      "name": "Test Book",
-      "authors": "Kristóf Kékesi",
-      "year": 1616,
-	  "img-portrait": "portrait.png",
-	  "img-landscape": "landscape.png"
-    }
+    },
   ]
 }

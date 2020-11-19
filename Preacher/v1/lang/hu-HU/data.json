@@ -19,6 +19,14 @@
       "year": 2016,
 	  "img-portrait": "portrait.png",
 	  "img-landscape": "landscape.png"
+    },
+	{
+      "dir": "Koran/data.json",
+      "name": "Korán",
+      "authors": "",
+      "year": ,
+	  "img-portrait": "portrait.png",
+	  "img-landscape": "landscape.png"
     }
   ]
 }
