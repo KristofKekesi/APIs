@@ -8,7 +8,7 @@
       "dir": "Quran/data.json",
       "name": "Quran",
       "authors": "",
-      "year": ,
+      "year": "",
 	  "img-portrait": "portrait.png",
 	  "img-landscape": "landscape.png"
     },
@@ -16,7 +16,7 @@
       "dir": "Hadith/data.json",
       "name": "Hadith",
       "authors": "",
-      "year": ,
+      "year": "",
 	  "img-portrait": "portrait.png",
 	  "img-landscape": "landscape.png"
     },
