@@ -9,6 +9,7 @@
       "name": "Quran",
       "authors": "",
       "year": "",
+	  "color": "0xffbe394a",
 	  "img-portrait": "portrait.png",
 	  "img-landscape": "landscape.png"
     },
@@ -17,6 +18,7 @@
       "name": "Hadith",
       "authors": "",
       "year": "",
+	  "color": "0xffaa1630",
 	  "img-portrait": "portrait.png",
 	  "img-landscape": "landscape.png"
     }

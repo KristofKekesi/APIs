@@ -9,6 +9,7 @@
       "name": "Károli Biblia",
       "authors": "Magyar Bibliatársulat",
       "year": 2014,
+      "color": "0xff586ad7",
 	  "img-portrait": "portrait.png",
 	  "img-landscape": "landscape.png"
     },
@@ -17,6 +18,7 @@
       "name": "A Heidelbergi Káté",
       "authors": "Magyar Református Egyház",
       "year": 2016,
+      "color": "0xff8aad69",
 	  "img-portrait": "portrait.png",
 	  "img-landscape": "landscape.png"
     },
@@ -25,6 +27,7 @@
       "name": "Korán",
       "authors": "",
       "year": "",
+	  "color": "0xffbe394a",
 	  "img-portrait": "portrait.png",
 	  "img-landscape": "landscape.png"
     }
