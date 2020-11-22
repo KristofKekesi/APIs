@@ -5,6 +5,14 @@
   },
   "data": [
     {
+      "dir": "KingaJamesBible/data.json",
+      "name": "King James Bible",
+      "authors": "",
+      "year": "",
+	  "color": "0xff586ad7",
+	  "img-portrait": "portrait.png",
+	  "img-landscape": "landscape.png"
+    }, {
       "dir": "Quran/data.json",
       "name": "Quran",
       "authors": "",
