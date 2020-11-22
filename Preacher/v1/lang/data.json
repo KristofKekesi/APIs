@@ -15,6 +15,28 @@
       "dir": "en-EN/data.json",
       "en-EN": "English",
       "hu-HU": "Angol"
+    }, {
+      "code": "hu-HU",
+      "dir": "hu-HU/data.json",
+      "en-EN": "Hungarian",
+      "hu-HU": "Magyar"
+    },
+    {
+      "code": "en-US",
+      "dir": "en-EN/data.json",
+      "en-EN": "English",
+      "hu-HU": "Angol"
+    }, {
+      "code": "hu-HU",
+      "dir": "hu-HU/data.json",
+      "en-EN": "Hungarian",
+      "hu-HU": "Magyar"
+    },
+    {
+      "code": "en-US",
+      "dir": "en-EN/data.json",
+      "en-EN": "English",
+      "hu-HU": "Angol"
     }
   ]
 }
