@@ -1,6 +1,6 @@
 {
   "meta": {
-	"outdated": true,
+	"outdated": false,
 	"latestSupportedBuild": 1,
     "type": "languages",
     "url": "lang/"
