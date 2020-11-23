@@ -1,8 +1,7 @@
 {
   "meta": {
 	"outdated": true,
-	"oldestSupportedVersion": "1.0",
-	"latestSupportedVersion": "1.0",
+	"latestSupportedBuild": 1,
     "type": "languages",
     "url": "lang/"
   },
