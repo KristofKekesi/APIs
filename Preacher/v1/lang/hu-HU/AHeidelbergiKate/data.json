@@ -1,8 +1,8 @@
 {
   "meta": {
     "type": "book",
-    "url": "lang/hu-HU/MagyaeBibliatársulatKároli2014/",
-    "name": "Szövetségek",
+    "url": "lang/hu-HU/AHeidelbergiKate/",
+    "name": "Részei",
     "portrait": "assets/portrait.jpg",
     "landscape": "assets/landscape.jpg",
     "hidden": false,
@@ -11,14 +11,24 @@
   },
   "data": [
     {
-      "dir": "ÓSzövetség/data.json",
-      "name": "Ó szövetség",
-      "description": ""
+      "dir": "elsoKerdes/data.json",
+      "name": "Első kérdések",
+      "description": "1-2"
+    },
+	{
+      "dir": "iResz/data.json",
+      "name": "I. Rész",
+      "description": "3-11"
+    },
+	{
+      "dir": "iResz/data.json",
+      "name": "II. Rész",
+      "description": "12-85"
     },
     {
-      "dir": "ÚjSzövetség/data.json",
-      "name": "Új szövetség",
-      "description": ""
+      "dir": "iiiResz/data.json",
+      "name": "III. Rész",
+      "description": "86-129"
     }
   ]
 }
