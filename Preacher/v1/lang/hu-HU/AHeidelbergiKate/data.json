@@ -13,22 +13,22 @@
     {
       "dir": "elsoKerdes/data.json",
       "name": "Első kérdések",
-      "description": "1-2"
+      "description": "Kérdéesk 1-től 2-ig."
     },
 	{
       "dir": "iResz/data.json",
       "name": "I. Rész",
-      "description": "3-11"
+      "description": "Kérdések 3-tól 11-ig."
     },
 	{
       "dir": "iResz/data.json",
       "name": "II. Rész",
-      "description": "12-85"
+      "description": "Kérdések 12-től 85-ig."
     },
     {
       "dir": "iiiResz/data.json",
       "name": "III. Rész",
-      "description": "86-129"
+      "description": "Kérdések 86-tól 129-ig."
     }
   ]
 }
