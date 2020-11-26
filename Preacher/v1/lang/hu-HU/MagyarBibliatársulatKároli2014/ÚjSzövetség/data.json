@@ -7,83 +7,83 @@
   "data": [
     {
       "dir": "1Mt/data.json",
-      "name": "Máté evangéliuma",
-      "description": ""
+      "name": "Mt",
+      "description": "Máté evangéliuma"
     },
     {
       "dir": "2Mk/data.json",
-      "name": "Márk evangéliuma",
-      "description": ""
+      "name": "Mk",
+      "description": "Márk evangéliuma"
     },
     {
       "dir": "3Lk/data.json",
-      "name": "Lukács evangéliuma",
-      "description": ""
+      "name": "Lk",
+      "description": "Lukács evangéliuma"
     },
     {
       "dir": "4Jn/data.json",
-      "name": "János evangéliuma",
-      "description": ""
+      "name": "Jn",
+      "description": "János evangéliuma"
     },
     {
       "dir": "5ApCsel/data.json",
-      "name": "Az Apostolok cselekedetei",
-      "description": ""
+      "name": "ApCsel",
+      "description": "Az Apostolok cselekedetei"
     },
     {
       "dir": "6Róm/data.json",
-      "name": "Pál levele a rómaiakhoz",
-      "description": ""
+      "name": "Róm",
+      "description": "Pál levele a rómaiakhoz"
     },
     {
       "dir": "7Kor1/data.json",
-      "name": "Pál első levele a korinthusiakhoz",
-      "description": ""
+      "name": "1Kor",
+      "description": "Pál első levele a korinthusiakhoz"
     },
     {
       "dir": "8Kor2/data.json",
-      "name": "Pál második levele a korinthusiakhoz",
-      "description": ""
+      "name": "2Kor",
+      "description": "Pál második levele a korinthusiakhoz"
     },
     {
       "dir": "9Gal/data.json",
-      "name": "Pál levele a galatákhoz",
-      "description": ""
+      "name": "Gal",
+      "description": "Pál levele a galatákhoz"
     },
     {
       "dir": "10Ef/data.json",
-      "name": "Pál levele az efezusiakhoz",
-      "description": ""
+      "name": "Ef",
+      "description": "Pál levele az efezusiakhoz"
     },
     {
       "dir": "11Fil/data.json",
-      "name": "Pál levele a filippiekhez",
-      "description": ""
+      "name": "Fil",
+      "description": "Pál levele a filippiekhez"
     },
     {
       "dir": "12Kol/data.json",
-      "name": "Pál levele a kolosséiakhoz",
-      "description": ""
+      "name": "Kol",
+      "description": "Pál levele a kolosséiakhoz"
     },
     {
       "dir": "13Thessz1/data.json",
-      "name": "Pál első levele a thesszalonikaiakhoz",
-      "description": ""
+      "name": "1Thessz",
+      "description": "Pál első levele a thesszalonikaiakhoz"
     },
     {
       "dir": "14Thessz2/data.json",
-      "name": "Pál második levele a thesszalonikaiakhoz",
-      "description": ""
+      "name": "2Thessz",
+      "description": "Pál második levele a thesszalonikaiakhoz"
     },
     {
       "dir": "15Tim1/data.json",
-      "name": "Pál első levele Timóteushoz",
-      "description": ""
+      "name": "1Tim",
+      "description": "Pál első levele Timóteushoz"
     },
     {
       "dir": "16Tim2/data.json",
-      "name": "Pál második levele Timóteushoz",
-      "description": ""
+      "name": "2Tim",
+      "description": "Pál második levele Timóteushoz"
     },
     {
       "dir": "17Tit/data.json",
@@ -92,53 +92,53 @@
     },
     {
       "dir": "18Filem/data.json",
-      "name": "Pál levele a Filemonhoz",
-      "description": ""
+      "name": "Filem",
+      "description": "Pál levele a Filemonhoz"
     },
     {
       "dir": "19Zsid/data.json",
-      "name": "A zsidókhoz írt levél",
-      "description": ""
+      "name": "Zsid",
+      "description": "A zsidókhoz írt levél"
     },
     {
       "dir": "20Jak/data.json",
-      "name": "Jakab levele",
-      "description": ""
+      "name": "Jak",
+      "description": "Jakab levele"
     },
     {
       "dir": "21Pt1/data.json",
-      "name": "Péter első levele",
-      "description": ""
+      "name": "1Pt",
+      "description": "Péter első levele"
     },
     {
       "dir": "22Pt2/data.json",
-      "name": "Péter második levele",
-      "description": ""
+      "name": "2Pt",
+      "description": "Péter második levele"
     },
     {
       "dir": "23Jn1/data.json",
-      "name": "János első levele",
-      "description": ""
+      "name": "1Jn",
+      "description": "János első levele"
     },
     {
       "dir": "24Jn2/data.json",
-      "name": "János második levele",
-      "description": ""
+      "name": "2Jn",
+      "description": "János második levele"
     },
     {
       "dir": "25Jn3/data.json",
-      "name": "János harmadik levele",
-      "description": ""
+      "name": "Jn3",
+      "description": "János harmadik levele"
     },
     {
       "dir": "26Júd/data.json",
-      "name": "Júdás levele",
-      "description": ""
+      "name": "Júd",
+      "description": "Júdás levele"
     },
     {
       "dir": "27Jel/data.json",
-      "name": "A Jelenések könyve",
-      "description": ""
+      "name": "Jel",
+      "description": "A Jelenések könyve"
     }
   ]
 }
