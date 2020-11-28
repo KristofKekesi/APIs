@@ -1,7 +1,7 @@
 {
   "meta": {
-    "type": "language",
-    "url": "lang/en-EN/",
+    "type": "group",
+    "url": "book/en-EN/",
 	"contains": "book"
   },
   "data": [
