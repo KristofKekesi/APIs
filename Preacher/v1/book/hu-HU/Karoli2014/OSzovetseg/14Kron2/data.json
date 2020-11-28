@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "book/hu-HU/Karoli2014/OSzovetseg/14Kron2/",
+    "name": "Fejezetek",
+	"contains": "text"
+  },
+  "data": [
+    {
+      "dir": "14Krón2_1/data.json",
+      "name": "1. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "14Krón2_2/data.json",
+      "name": "2. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "14Krón2_3/data.json",
+      "name": "3. Fejezetek",
+      "description": ""
+    },
+    {
+      "dir": "14Krón2_4/data.json",
+      "name": "4. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "14Krón2_5/data.json",
+      "name": "5. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "14Krón2_6/data.json",
+      "name": "6. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "14Krón2_7/data.json",
+      "name": "7. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "14Krón2_8/data.json",
+      "name": "8. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "14Krón2_9/data.json",
+      "name": "9. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "14Krón2_10/data.json",
+      "name": "10. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "14Krón2_11/data.json",
+      "name": "11. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "14Krón2_12/data.json",
+      "name": "12. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "14Krón2_13/data.json",
+      "name": "13. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "14Krón2_14/data.json",
+      "name": "14. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "14Krón2_15/data.json",
+      "name": "15. Fejezet",
+      "description": ""
+    },
+    {
+
+      "dir": "14Krón2_16/data.json",
+      "name": "16. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "14Krón2_17/data.json",
+      "name": "17. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "14Krón2_18/data.json",
+      "name": "18. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "14Krón2_19/data.json",
+      "name": "19. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "14Krón2_20",
+      "name": "20. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "14Krón2_21",
+      "name": "21. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "14Krón2_22",
+      "name": "22. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "14Krón2_23",
+      "name": "23. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "14Krón2_24",
+      "name": "24. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "14Krón2_25",
+      "name": "25. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "14Krón2_26",
+      "name": "26. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "14Krón2_27",
+      "name": "27. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "14Krón2_28",
+      "name": "28. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "14Krón2_29",
+      "name": "29. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "14Krón2_30",
+      "name": "30. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "14Krón2_31",
+      "name": "31. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "14Krón2_32",
+      "name": "32. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "14Krón2_33",
+      "name": "33. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "14Krón2_34",
+      "name": "34. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "14Krón2_35",
+      "name": "35. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "14Krón2_36",
+      "name": "36. Fejezet",
+      "description": ""
+    }
+  ]
+}

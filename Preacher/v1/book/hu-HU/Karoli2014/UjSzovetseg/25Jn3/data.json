@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "book/hu-HU/Karoli2014/UjSzovetseg/25Jn3/",
+    "name": "Fejezetek",
+	"contains": "text"
+  },
+  "data": [
+    {
+      "dir": "25Jn3_1/data.json",
+      "name": "1. Fejezet",
+      "description": ""
+    }
+  ]
+}

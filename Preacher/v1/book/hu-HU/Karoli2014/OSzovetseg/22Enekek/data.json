@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "book/hu-HU/Karoli2014/OSzovetseg/22Enekek/",
+    "name": "Fejezetek",
+	"contains": "text"
+  },
+  "data": [
+  {
+    "dir": "22Enekek_1/data.json",
+    "name": "1. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "22Enekek_2/data.json",
+    "name": "2. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "22Enekek_3/data.json",
+    "name": "3. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "22Enekek_4/data.json",
+    "name": "4. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "22Enekek_5/data.json",
+    "name": "5. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "22Enekek_6/data.json",
+    "name": "6. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "22Enekek_7/data.json",
+    "name": "7. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "22Enekek_8/data.json",
+    "name": "8. Fejezet",
+	"description": ""
+  }
+]
+}

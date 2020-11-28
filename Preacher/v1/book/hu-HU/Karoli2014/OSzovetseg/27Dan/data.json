@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "book/hu-HU/Karoli2014/OSzovetseg/27Dan/",
+    "name": "Fejezetek",
+	"contains": "text"
+  },
+  "data": [
+  {
+    "dir": "27Dan_1/data.json",
+    "name": "1. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "27Dan_2/data.json",
+    "name": "2. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "27Dan_3/data.json",
+    "name": "3. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "27Dan_4/data.json",
+    "name": "4. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "27Dan_5/data.json",
+    "name": "5. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "27Dan_6/data.json",
+    "name": "6. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "27Dan_7/data.json",
+    "name": "7. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "27Dan_8/data.json",
+    "name": "8. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "27Dan_9/data.json",
+    "name": "9. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "27Dan_10/data.json",
+    "name": "10. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "27Dan_11/data.json",
+    "name": "11. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "27Dan_12/data.json",
+    "name": "12. Fejezet",
+	"description": ""
+  }
+]
+}

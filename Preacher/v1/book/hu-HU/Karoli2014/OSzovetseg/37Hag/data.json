@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "book/hu-HU/Karoli2014/OSzovetseg/37Hag/",
+    "name": "Fejezetek",
+	"contains": "text"
+  },
+  "data": [
+    {
+      "dir": "37Hag_1/data.json",
+      "name": "1. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "37Hag_2/data.json",
+      "name": "2. Fejezet",
+      "description": ""
+    }
+  ]
+}

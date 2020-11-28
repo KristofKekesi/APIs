@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "type": "group",
+    "url": "book/hu-HU/",
+	"contains": "book"
+  },
+  "data": [
+    {
+      "dir": "Karoli2014/ data.json",
+      "name": "Károli Biblia",
+      "authors": "Magyar Bibliatársulat",
+      "year": 2014,
+      "color": "0xff586ad7",
+	  "img-portrait": "portrait.png",
+	  "img-landscape": "landscape.png"
+    },
+	{
+      "dir": "AHeidelbergiKate2016/data.json",
+      "name": "A Heidelbergi Káté",
+      "authors": "Magyar Református Egyház",
+      "year": 2016,
+      "color": "0xff8aad69",
+	  "img-portrait": "portrait.png",
+	  "img-landscape": "landscape.png"
+    },
+	{
+      "dir": "Koran/data.json",
+      "name": "Korán",
+      "authors": "",
+      "year": "",
+	  "color": "0xffbe394a",
+	  "img-portrait": "portrait.png",
+	  "img-landscape": "landscape.png"
+    }
+  ]
+}

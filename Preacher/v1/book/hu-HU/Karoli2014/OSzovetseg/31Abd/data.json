@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "book/hu-HU/Karoli2014/OSzovetseg/31Abd/",
+    "name": "Fejezetek",
+	"contains": "text"
+  },
+  "data": [
+    {
+      "dir": "31Abd_1/data.json",
+      "name": "1. Fejezet",
+      "description": ""
+    }
+  ]
+}

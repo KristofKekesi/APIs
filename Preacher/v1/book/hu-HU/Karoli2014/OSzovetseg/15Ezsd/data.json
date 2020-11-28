@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "book/hu-HU/Karoli2014/OSzovetseg/15Ezsd/",
+    "name": "Fejezetek",
+	"contains": "text"
+  },
+  "data": [
+    {
+      "dir": "15Ezsd_1/data.json",
+      "name": "1. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "15Ezsd_2/data.json",
+      "name": "2. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "15Ezsd_3/data.json",
+      "name": "3. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "15Ezsd_4/data.json",
+      "name": "4. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "15Ezsd_5/data.json",
+      "name": "5. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "15Ezsd_6/data.json",
+      "name": "6. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "15Ezsd_7/data.json",
+      "name": "7. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "15Ezsd_8/data.json",
+      "name": "8. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "15Ezsd_9/data.json",
+      "name": "9. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "15Ezsd_10/data.json",
+      "name": "10. Fejezet",
+      "description": ""
+    }
+  ]
+}

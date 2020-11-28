@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "book/hu-HU/Karoli2014/UjSzovetseg/20Jak/",
+    "name": "Fejezetek",
+	"contains": "text"
+  },
+  "data": [
+    {
+      "dir": "20Jak_1/data.json",
+      "name": "1. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "20Jak_2/data.json",
+      "name": "2. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "20Jak_3/data.json",
+      "name": "3. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "20Jak_4/data.json",
+      "name": "4. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "20Jak_5/data.json",
+      "name": "5. Fejezet",
+      "description": ""
+    }
+  ]
+}

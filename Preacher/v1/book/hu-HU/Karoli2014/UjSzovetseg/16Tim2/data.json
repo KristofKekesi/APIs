@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "book/hu-HU/Karoli2014/UjSzovetseg/16Tim2/",
+    "name": "Fejezetek",
+	"contains": "text"
+  },
+  "data": [
+    {
+      "dir": "16Tim2_1/data.json",
+      "name": "1. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "16Tim2_2/data.json",
+      "name": "2. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "16Tim2_3/data.json",
+      "name": "3. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "16Tim2_4/data.json",
+      "name": "4. Fejezet",
+      "description": ""
+    }
+  ]
+}
