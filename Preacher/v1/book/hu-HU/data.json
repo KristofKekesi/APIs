@@ -11,8 +11,13 @@
       "authors": "Magyar Bibliatársulat",
       "year": 2014,
       "color": "0xff586ad7",
-	  "img-portrait": "Karoli2014/portrait.png",
-	  "img-landscape": "Karoli2014/landscape.png"
+	  "images": [
+		{
+			"height": 1000,
+			"width": 650,
+			"dir": "Karoli2014/1000x650.png"
+		}
+	  ]
     },
 	{
       "dir": "AHeidelbergiKate2016/data.json",
@@ -20,8 +25,13 @@
       "authors": "Magyar Református Egyház",
       "year": 2016,
       "color": "0xff8aad69",
-	  "img-portrait": "AHeidelbergiKate2016/portrait.png",
-	  "img-landscape": "AHeidelbergiKate2016/landscape.png"
+	  "images": [
+		{
+			"height": 1000,
+			"width": 650,
+			"dir": "KingJamesBible/1000x650.png"
+		}
+	  ]
     },
 	{
       "dir": "Koran/data.json",
@@ -29,8 +39,13 @@
       "authors": "",
       "year": "",
 	  "color": "0xffbe394a",
-	  "img-portrait": "Koran/portrait.png",
-	  "img-landscape": "Koran/landscape.png"
+	  "images": [
+		{
+			"height": 1000,
+			"width": 650,
+			"dir": "Koran/1000x650.png"
+		}
+	  ]
     }
   ]
 }
