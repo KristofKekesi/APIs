@@ -11,16 +11,16 @@
       "authors": "",
       "year": "",
 	  "color": "0xff586ad7",
-	  "img-portrait": "portrait.png",
-	  "img-landscape": "landscape.png"
+	  "img-portrait": "KingJamesBible/portrait.png",
+	  "img-landscape": "KingJamesBible/landscape.png"
     }, {
       "dir": "Quran/data.json",
       "name": "Quran",
       "authors": "",
       "year": "",
 	  "color": "0xffbe394a",
-	  "img-portrait": "portrait.png",
-	  "img-landscape": "landscape.png"
+	  "img-portrait": "Quran/portrait.png",
+	  "img-landscape": "Quran/landscape.png"
     },
 	{
       "dir": "Hadith/data.json",
@@ -28,8 +28,8 @@
       "authors": "",
       "year": "",
 	  "color": "0xffaa1630",
-	  "img-portrait": "portrait.png",
-	  "img-landscape": "landscape.png"
+	  "img-portrait": "Hadith/portrait.png",
+	  "img-landscape": "Hadith/landscape.png"
     }
   ]
 }
