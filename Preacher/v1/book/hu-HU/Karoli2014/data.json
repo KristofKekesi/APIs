@@ -13,12 +13,12 @@
   "data": [
     {
       "dir": "OSzovetseg/data.json",
-      "name": "Ó szövetség",
+      "name": "Ószövetség",
       "description": ""
     },
     {
       "dir": "UjSzovetseg/data.json",
-      "name": "Új szövetség",
+      "name": "Újszövetség",
       "description": ""
     }
   ]
