@@ -14,12 +14,12 @@
     {
       "dir": "OSzovetseg/data.json",
       "name": "Ószövetség",
-      "description": ""
+      "description": "Krisztus születése előtti evangéliumok."
     },
     {
       "dir": "UjSzovetseg/data.json",
       "name": "Újszövetség",
-      "description": ""
+      "description": "Krisztus születése utáni evangéliumok."
     }
   ]
 }
