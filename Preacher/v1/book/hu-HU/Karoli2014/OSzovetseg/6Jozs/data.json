@@ -2,7 +2,8 @@
   "meta": {
     "type": "folder",
     "url": "book/hu-HU/Karoli2014/OSzovetseg/6Jozs/",
-	"name": "Fejezetek"
+	"name": "Fejezetek",
+	"contains": "tetx",
   },
   "data": [
     {
