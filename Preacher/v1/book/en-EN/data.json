@@ -33,6 +33,11 @@
 			"height": 1000,
 			"width": 650,
 			"dir": "Quran/1000x650.png"
+		},
+		{
+			"height": 500,
+			"width": 325,
+			"dir": "Quran/500x325.png"
 		}
 	  ]
     },
@@ -47,6 +52,11 @@
 			"height": 1000,
 			"width": 650,
 			"dir": "Hadith/1000x650.png"
+		},
+		{
+			"height": 500,
+			"width": 325,
+			"dir": "Hadith/500x325.png"
 		}
 	  ]
     }

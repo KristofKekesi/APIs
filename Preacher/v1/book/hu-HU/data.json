@@ -29,12 +29,17 @@
       "name": "A Heidelbergi Káté",
       "authors": "Magyar Református Egyház",
       "year": 2016,
-      "color": "0xff8aad69",
+      "color": "0xff4b9e71",
 	  "images": [
 		{
 			"height": 1000,
 			"width": 650,
 			"dir": "AHeidelbergiKate2016/1000x650.png"
+		},
+		{
+			"height": 500,
+			"width": 325,
+			"dir": "AHeidelbergiKate2016/500x325.png"
 		}
 	  ]
     },
@@ -46,14 +51,14 @@
 	  "color": "0xffbe394a",
 	  "images": [
 		{
-			"height": 10,
-			"width": 65,
-			"dir": "Koran/1.png"
-		},
-		{
 			"height": 1000,
 			"width": 650,
 			"dir": "Koran/1000x650.png"
+		},
+		{
+			"height": 500,
+			"width": 325,
+			"dir": "Koran/500x325.png"
 		}
 	  ]
     }
