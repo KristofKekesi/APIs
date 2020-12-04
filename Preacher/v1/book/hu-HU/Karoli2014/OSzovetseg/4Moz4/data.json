@@ -2,7 +2,9 @@
   "meta": {
     "type": "folder",
     "url": "book/hu-HU/Karoli2014/OSzovetseg/4Moz4/",
-    "name": "Fejezetek"
+    "name": "Fejezetek",
+	"status": "visible",
+	"contains": "text"
   },
   "data": [
     {

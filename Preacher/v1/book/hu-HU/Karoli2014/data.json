@@ -3,8 +3,6 @@
     "type": "book",
     "url": "book/hu-HU/Karoli2014/",
     "name": "Szövetségek",
-    "portrait": "assets/portrait.jpg",
-    "landscape": "assets/landscape.jpg",
     "hidden": false,
     "finished": false,
     "exclusive": false,

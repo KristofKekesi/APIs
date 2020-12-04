@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "type": "book",
+    "url": "book/hu-HU/Koran/",
+    "name": "",
+    "hidden": false,
+    "finished": false,
+    "exclusive": false,
+	"status": "visible",
+	"contains": "folder"
+  },
+  "data": [
+    {
+      "dir": "",
+      "name": "",
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "type": "book",
+    "url": "book/en-EN/Hadith/",
+    "name": "",
+    "hidden": false,
+    "finished": false,
+    "exclusive": false,
+	"status": "maintenance",
+	"contains": "folder"
+  },
+  "data": [
+    {
+      "dir": "",
+      "name": "",
+      "description": ""
+    }
+  ]
+}

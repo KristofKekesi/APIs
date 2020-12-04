@@ -3,6 +3,7 @@
     "type": "folder",
     "url": "book/hu-HU/Karoli2014/OSzovetseg/39Mal/",
     "name": "Fejezetek",
+	"status": "maintenance",
 	"contains": "text"
   },
   "data": [
