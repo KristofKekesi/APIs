@@ -18,7 +18,8 @@
     },
     {
       "dir": "12Kir2_3/data.json",
-      "name": "3"
+      "name": "3",
+	  "description": ""
     },
     {
       "dir": "12Kir2_4/data.json",

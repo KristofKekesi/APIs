@@ -2,6 +2,7 @@
   "meta": {
     "type": "group",
     "url": "book/hu-HU/",
+	"status": "visible",
 	"contains": "book"
   },
   "data": [

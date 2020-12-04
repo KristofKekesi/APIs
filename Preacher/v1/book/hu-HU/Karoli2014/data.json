@@ -8,6 +8,7 @@
     "hidden": false,
     "finished": false,
     "exclusive": false,
+	"status": "visible",
 	"contains": "folder"
   },
   "data": [

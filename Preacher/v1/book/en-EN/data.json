@@ -2,6 +2,7 @@
   "meta": {
     "type": "group",
     "url": "book/en-EN/",
+	"status": "maintenance",
 	"contains": "book"
   },
   "data": [

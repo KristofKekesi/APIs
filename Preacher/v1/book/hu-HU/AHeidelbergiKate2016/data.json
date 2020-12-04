@@ -8,6 +8,7 @@
     "hidden": false,
     "finished": false,
     "exclusive": false,
+	"status": "maintenance",
 	"contains": "text"
   },
   "data": [
