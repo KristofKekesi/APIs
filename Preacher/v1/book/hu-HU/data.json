@@ -46,6 +46,11 @@
 	  "color": "0xffbe394a",
 	  "images": [
 		{
+			"height": 10,
+			"width": 65,
+			"dir": "Koran/1.png"
+		},
+		{
 			"height": 1000,
 			"width": 650,
 			"dir": "Koran/1000x650.png"
