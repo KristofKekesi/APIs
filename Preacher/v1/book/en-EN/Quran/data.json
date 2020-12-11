@@ -6,7 +6,7 @@
     "hidden": false,
     "finished": false,
     "exclusive": false,
-	"status": "maintenance",
+	"status": "error",
 	"contains": "folder"
   },
   "data": [
