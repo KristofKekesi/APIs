@@ -39,7 +39,7 @@ while True:
 
                     read = codecs.open(pasteFile, "r", "UTF-8")
                     for lines in read:
-                        lines = lines.strip().replace("\n", "")
+                        lines = lines.strip().replace("\n", "").replace("", "-").replace("\"", "\\\"")
                         try:
                             num = int(lines)
                         except:

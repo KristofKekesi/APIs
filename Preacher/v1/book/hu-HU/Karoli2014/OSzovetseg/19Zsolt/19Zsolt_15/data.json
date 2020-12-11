@@ -1,0 +1,28 @@
+{
+   "meta": {
+   "type": "text",
+   "name": "15. Fejezet"
+   },
+   "data": [
+        {
+            "type": "line",
+            "value": "Dávid zsoltára. Uram, kicsoda tartózkodhatik sátorodban, kicsoda lakozhatik szent hegyeden?"
+        },
+        {
+            "type": "line",
+            "value": "Aki tökéletességben jár, igazságot cselekszik, és igazat szól az ő szívében."
+        },
+        {
+            "type": "line",
+            "value": "Nem rágalmaz nyelvével; nem tesz rosszat felebarátjának, és nem szerez gyalázatot rokonainak."
+        },
+        {
+            "type": "line",
+            "value": "A megbélyegzett útálatos az ő szemeiben, de az Urat félőket tiszteli: aki kárára esküszik, és meg nem változtatja."
+        },
+        {
+            "type": "line",
+            "value": "Pénzét nem adja uzsorára, és nem vesz el ajándékot az ártatlan ellen. Aki ezeket cselekszi, nem rendül meg soha örökké."
+        }
+    ]
+}
