@@ -35,12 +35,12 @@
 		{
 			"height": 1000,
 			"width": 650,
-			"dir": "Quran/1000x650.png"
+			"dir": "Torah/1000x650.png"
 		},
 		{
 			"height": 500, 
 			"width": 325,
-			"dir": "Quran/500x325.png"
+			"dir": "Torah/500x325.png"
 		}
 	  ]
     },
@@ -54,12 +54,12 @@
 		{
 			"height": 1000,
 			"width": 650,
-			"dir": "Quran/1000x650.png"
+			"dir": "Zabur/1000x650.png"
 		},
 		{
 			"height": 500, 
 			"width": 325,
-			"dir": "Quran/500x325.png"
+			"dir": "Zabur/500x325.png"
 		}
 	  ]
     },
@@ -73,12 +73,12 @@
 		{
 			"height": 1000,
 			"width": 650,
-			"dir": "Quran/1000x650.png"
+			"dir": "Injil/1000x650.png"
 		},
 		{
 			"height": 500, 
 			"width": 325,
-			"dir": "Quran/500x325.png"
+			"dir": "Injil/500x325.png"
 		}
 	  ]
     }
