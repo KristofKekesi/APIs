@@ -18,7 +18,7 @@
       "hu-HU": "Angol"
     }, {
       "code": "ar",
-      "dir": "en-EN/data.json",
+      "dir": "ar/data.json",
       "en-EN": "Arabic",
       "hu-HU": "Arab"
     }
