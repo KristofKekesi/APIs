@@ -6,6 +6,25 @@
 	"contains": "book"
   },
   "data": [
+	{
+      "dir": "Philokalia/data.json",
+      "name": "Philokalia",
+      "authors": "",
+      "year": "",
+	  "color": "0xffaa1630",
+	  "images": [
+		{
+			"height": 1000,
+			"width": 650,
+			"dir": "Hadith/1000x650.png"
+		},
+		{
+			"height": 500,
+			"width": 325,
+			"dir": "Hadith/500x325.png"
+		}
+	  ]
+    }
     {
       "dir": "KingJamesBible/data.json",
       "name": "King James Bible",

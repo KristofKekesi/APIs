@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "type": "group",
+    "url": "book/ar/",
+	"status": "error",
+	"contains": "book"
+  },
+  "data": [
+    {
+      "dir": "Quran/data.json",
+      "name": "Quran",
+      "authors": "",
+      "year": "",
+      "color": "0xff586ad7",
+	  "images": [
+		{
+			"height": 1000,
+			"width": 650,
+			"dir": "Quran/1000x650.png"
+		},
+		{
+			"height": 500, 
+			"width": 325,
+			"dir": "Quran/500x325.png"
+		}
+	  ]
+    },
+	{
+      "dir": "Torah/data.json",
+      "name": "Torah",
+      "authors": "",
+      "year": "",
+      "color": "0xff586ad7",
+	  "images": [
+		{
+			"height": 1000,
+			"width": 650,
+			"dir": "Quran/1000x650.png"
+		},
+		{
+			"height": 500, 
+			"width": 325,
+			"dir": "Quran/500x325.png"
+		}
+	  ]
+    },
+	{
+      "dir": "Zabur/data.json",
+      "name": "Zabur",
+      "authors": "",
+      "year": "",
+      "color": "0xff586ad7",
+	  "images": [
+		{
+			"height": 1000,
+			"width": 650,
+			"dir": "Quran/1000x650.png"
+		},
+		{
+			"height": 500, 
+			"width": 325,
+			"dir": "Quran/500x325.png"
+		}
+	  ]
+    },
+	{
+      "dir": "Injil/data.json",
+      "name": "Injil",
+      "authors": "",
+      "year": "",
+      "color": "0xff586ad7",
+	  "images": [
+		{
+			"height": 1000,
+			"width": 650,
+			"dir": "Quran/1000x650.png"
+		},
+		{
+			"height": 500, 
+			"width": 325,
+			"dir": "Quran/500x325.png"
+		}
+	  ]
+    },
+  ]
+}

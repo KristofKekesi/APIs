@@ -16,6 +16,11 @@
       "dir": "en-EN/data.json",
       "en-EN": "English",
       "hu-HU": "Angol"
+    }, {
+      "code": "en-EN",
+      "dir": "en-EN/data.json",
+      "en-EN": "Arabic",
+      "hu-HU": "Arab"
     }
   ]
 }
