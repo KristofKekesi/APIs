@@ -1,0 +1,271 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "book/hu-HU/Karoli2014/OSzovetseg/24Jer/",
+    "name": "Fejezetek",
+	"status": "visible",
+	"contains": "text"
+  },
+  "data": [
+  {
+    "dir": "24Jer_1/data.json",
+    "name": "1. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_2/data.json",
+    "name": "2. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_3/data.json",
+    "name": "3. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_4/data.json",
+    "name": "4. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_5/data.json",
+    "name": "5. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_6/data.json",
+    "name": "6. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_7/data.json",
+    "name": "7. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_8/data.json",
+    "name": "8. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_9/data.json",
+    "name": "9. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_10/data.json",
+    "name": "10. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_11/data.json",
+    "name": "11. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_12/data.json",
+    "name": "12. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_13/data.json",
+    "name": "13. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_14/data.json",
+    "name": "14. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_15/data.json",
+    "name": "15. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_16/data.json",
+    "name": "16. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_17/data.json",
+    "name": "17. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_18/data.json",
+    "name": "18. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_19/data.json",
+    "name": "19. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_20/data.json",
+    "name": "20. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_21/data.json",
+    "name": "21. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_22/data.json",
+    "name": "22. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_23/data.json",
+    "name": "23. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_24/data.json",
+    "name": "24. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_25/data.json",
+    "name": "25. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_26/data.json",
+    "name": "26. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_27/data.json",
+    "name": "27. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_28/data.json",
+    "name": "28. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_29/data.json",
+    "name": "29. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_30/data.json",
+    "name": "30. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_31/data.json",
+    "name": "31. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_32/data.json",
+    "name": "32. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_33/data.json",
+    "name": "33. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_34/data.json",
+    "name": "34. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_35/data.json",
+    "name": "35. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_36/data.json",
+    "name": "36. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_37/data.json",
+    "name": "37. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_38/data.json",
+    "name": "38. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_39/data.json",
+    "name": "39. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_40/data.json",
+    "name": "40. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_41/data.json",
+    "name": "41. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_42/data.json",
+    "name": "42. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_43/data.json",
+    "name": "43. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_44/data.json",
+    "name": "44. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_45/data.json",
+    "name": "45. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_46/data.json",
+    "name": "46. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_47/data.json",
+    "name": "47. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_48/data.json",
+    "name": "48. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_49/data.json",
+    "name": "49. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_50/data.json",
+    "name": "50. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_51/data.json",
+    "name": "51. Fejezet",
+	"description": ""
+  },
+  {
+    "dir": "24Jer_52/data.json",
+    "name": "52. Fejezet",
+	"description": ""
+  }
+]
+}

@@ -1,0 +1,181 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "book/hu-HU/Karoli2014/OSzovetseg/5Moz5/",
+	"name": "Fejezetek",
+	"status": "visible",
+	"contains": "text"
+  },
+  "data": [
+    {
+      "dir": "5Moz5_1/data.json",
+      "name": "1. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "5Moz5_2/data.json",
+      "name": "2. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "5Moz5_3/data.json",
+      "name": "3. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "5Moz5_4/data.json",
+      "name": "4. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "5Moz5_5/data.json",
+      "name": "5. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "5Moz5_6/data.json",
+      "name": "6. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "5Moz5_7/data.json",
+      "name": "7. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "5Moz5_8/data.json",
+      "name": "8. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "5Moz5_9/data.json",
+      "name": "9. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "5Moz5_10/data.json",
+      "name": "10. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "5Moz5_11/data.json",
+      "name": "11. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "5Moz5_12/data.json",
+      "name": "12. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "5Moz5_13/data.json",
+      "name": "13. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "5Moz5_14/data.json",
+      "name": "14. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "5Moz5_15/data.json",
+      "name": "15. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "5Moz5_16/data.json",
+      "name": "16. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "5Moz5_17/data.json",
+      "name": "17. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "5Moz5_18/data.json",
+      "name": "18. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "5Moz5_19/data.json",
+      "name": "19. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "5Moz5_20/data.json",
+      "name": "20. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "5Moz5_21/data.json",
+      "name": "21. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "5Moz5_22/data.json",
+      "name": "22. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "5Moz5_23/data.json",
+      "name": "23. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "5Moz5_24/data.json",
+      "name": "24. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "5Moz5_25/data.json",
+      "name": "25. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "5Moz5_26/data.json",
+      "name": "26. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "5Moz5_27/data.json",
+      "name": "27. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "5Moz5_28/data.json",
+      "name": "28. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "5Moz5_29/data.json",
+      "name": "29. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "5Moz5_30/data.json",
+      "name": "30. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "5Moz5_31/data.json",
+      "name": "31. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "5Moz5_32/data.json",
+      "name": "32. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "5Moz5_33/data.json",
+      "name": "33. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "5Moz5_34/data.json",
+      "name": "34. Fejezet",
+	  "description": ""
+    }
+  ]
+}

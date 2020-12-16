@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "book/hu-HU/Karoli2014/UjSzovetseg/6Rom/",
+    "name": "Fejezetek",
+	"status": "visible",
+	"contains": "text"
+  },
+  "data": [
+    {
+      "dir": "6Rom_1/data.json",
+      "name": "1. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "6Rom_2/data.json",
+      "name": "2. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "6Rom_3/data.json",
+      "name": "3. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "6Rom_4/data.json",
+      "name": "4. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "6Rom_5/data.json",
+      "name": "5. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "6Rom_6/data.json",
+      "name": "6. Fejezet",
+      "description": ""
+    },
+    {"dir": "6Rom_7/data.json",
+      "name": "7. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "6Rom_8/data.json",
+      "name": "8. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "6Rom_9/data.json",
+      "name": "9. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "6Rom_10/data.json",
+      "name": "10. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "6Rom_11/data.json",
+      "name": "11. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "6Rom_12/data.json",
+      "name": "12. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "6Rom_13/data.json",
+      "name": "13. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "6Rom_14/data.json",
+      "name": "14. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "6Rom_15/data.json",
+      "name": "15. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "6Rom_16/data.json",
+      "name": "16. Fejezet",
+      "description": ""
+    }
+  ]
+}

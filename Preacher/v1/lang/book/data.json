@@ -10,17 +10,6 @@
       "dir": "hu-HU/data.json",
       "en-EN": "Hungarian",
       "hu-HU": "Magyar"
-    },
-    {
-      "code": "en-EN",
-      "dir": "en-EN/data.json",
-      "en-EN": "English",
-      "hu-HU": "Angol"
-    }, {
-      "code": "ar",
-      "dir": "ar/data.json",
-      "en-EN": "Arabic",
-      "hu-HU": "Arab"
     }
   ]
 }

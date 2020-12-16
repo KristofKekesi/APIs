@@ -1,0 +1,206 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "book/hu-HU/Karoli2014/OSzovetseg/",
+    "name": "Az Ószövetség könyvei",
+	"status": "maintenance",
+	"contains": "folder"
+  },
+  "data": [
+    {
+      "dir": "1Moz1/data.json",
+      "name": "1Móz",
+      "description": "Mózes első könyve"
+    },
+    {
+      "dir": "2Moz2/data.json",
+      "name": "2Móz",
+      "description": "Mózes második könyve"
+    },
+    {
+      "dir": "3Moz3/data.json",
+      "name": "3Móz",
+      "description": "Mózes harmadik könyve"
+    },
+    {
+      "dir": "4Moz4/data.json",
+      "name": "4Móz",
+      "description": "Mózes negyedik könyve"
+    },
+    {
+      "dir": "5Moz5/data.json",
+      "name": "5Móz",
+      "description": "Mózes ötödik könyve"
+    },
+    {
+      "dir": "6Jozs/data.json",
+      "name": "Józs",
+      "description": "Józsué könyve"
+    },
+    {
+      "dir": "7Bir/data.json",
+      "name": "Bír",
+      "description": "A bírák könyve"
+    },
+    {
+      "dir": "8Ruth/data.json",
+      "name": "Ruth",
+      "description": "Ruth könyve"
+    },
+    {
+      "dir": "9Sam1/data.json",
+      "name": "1Sám",
+      "description": "Sámuel első könyve"
+    },
+    {
+      "dir": "10Sam2/data.json",
+      "name": "2Sám",
+      "description": "Sámuel második könyve"
+    },
+    {
+      "dir": "11Kir1/data.json",
+      "name": "1Kir",
+      "description": "A királyok első könyve"
+    },
+    {
+      "dir": "12Kir2/data.json",
+      "name": "2Kir",
+      "description": "A királyok második könyve"
+    },
+    {
+      "dir": "13Kron1/data.json",
+      "name": "1Krón",
+      "description": "A krónikák első könyve"
+    },
+    {
+      "dir": "14Kron2/data.json",
+      "name": "2Krón",
+      "description": "A krónikák második könyve"
+    },
+    {
+      "dir": "15Ezsd/data.json",
+      "name": "Ezsd",
+      "description": "Ezsdrás könyve"
+    },
+    {
+      "dir": "16Neh/data.json",
+      "name": "Neh",
+      "description": "Nehémiás könyve"
+    },
+    {
+      "dir": "17Eszt/data.json",
+      "name": "Eszt",
+      "description": "Eszter könyve"
+    },
+    {
+      "dir": "18Job/data.json",
+      "name": "Jób",
+      "description": "Jób könyve"
+    },
+    {
+      "dir": "19Zsolt/data.json",
+      "name": "Zsolt",
+      "description": "A zsoltárok könyve"
+    },
+    {
+      "dir": "20Peld/data.json",
+      "name": "Péld",
+      "description": "A példabeszédek könyve"
+	},
+    {
+      "dir": "21Pred/data.json",
+      "name": "Préd",
+      "description": "A prédikátorok könyve"
+    },
+    {
+      "dir": "22Enekek/data.json",
+      "name": "Énekek",
+      "description": "Énekek könyve"
+    },
+    {
+      "dir": "23Ezs/data.json",
+      "name": "Ézs",
+      "description": "Ézsaiás próféta könyve"
+    },
+    {
+      "dir": "24Jer/data.json",
+      "name": "Jer",
+      "description": "Jeremiás próféta könyve"
+    },
+    {
+      "dir": "25JSir/data.json",
+      "name": "JSir",
+      "description": "Jeremiás siralmai"
+    },
+    {
+      "dir": "26Ez/data.json",
+      "name": "Ez",
+      "description": "Ezékiel könyve"
+    },
+    {
+      "dir": "27Dan/data.json",
+      "name": "Dán",
+      "description": "Dániel próféta könyve"
+    },
+    {
+      "dir": "28Hos/data.json",
+      "name": "Hós",
+      "description": "Hóseás próféta könyve"
+    },
+    {
+      "dir": "29Joel/data.json",
+      "name": "Jóel",
+      "description": "Jóel próféta könyve"
+    },
+    {
+      "dir": "30Am/data.json",
+      "name": "Ám",
+      "description": "Ámósz próféta könyve"
+    },
+    {
+      "dir": "31Abd/data.json",
+      "name": "Abd",
+      "description": "Abdiás próféta könyve"
+    },
+    {
+      "dir": "32Jon/data.json",
+      "name": "Jón",
+      "description": "Jónás próféta könyve"
+    },
+    {
+      "dir": "33Mik/data.json",
+      "name": "Mik",
+      "description": "Mikeás próféta könyve"
+    },
+    {
+      "dir": "34Nah/data.json",
+      "name": "Náh",
+      "description": "Náhum próféta könyve"
+    },
+    {
+      "dir": "35Hab/data.json",
+      "name": "Hab",
+      "description": "Habakuk próféta könyve"
+    },
+    {
+      "dir": "36Zof/data.json",
+      "name": "Zof",
+      "description": "Zofóniás próféta könyve"
+    },
+    {
+      "dir": "37Hag/data.json",
+      "name": "Hag",
+      "description": "Haggeus próféta könyve"
+    },
+    {
+      "dir": "38Zak/data.json",
+      "name": "Zak",
+      "description": "Zakariás próféta könyve"
+    },
+    {
+      "dir": "39Mal/data.json",
+      "name": "Mal",
+      "description": "Malakiás próféta könyve"
+    }
+  ]
+}

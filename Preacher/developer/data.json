@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "type": "link",
+    "url": "",
+	"contains": "group"
+  },
+  "data": [
+    {
+      "dir": "lang/data.json",
+	  "type": "rect"
+    },
+    {
+      "dir": "story/data.json",
+	  "type": "circle"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "meta": {
     "type": "group",
     "url": "book/hu-HU/",
-	"status": "error",
+	"status": "visible",
 	"contains": "book"
   },
   "data": [
@@ -22,44 +22,6 @@
 			"height": 500,
 			"width": 325,
 			"dir": "Karoli2014/500x325.png"
-		}
-	  ]
-    },
-	{
-      "dir": "AHeidelbergiKate2016/data.json",
-      "name": "A Heidelbergi Káté",
-      "authors": "Magyar Református Egyház",
-      "year": 2016,
-      "color": "0xff4b9e71",
-	  "images": [
-		{
-			"height": 1000,
-			"width": 650,
-			"dir": "AHeidelbergiKate2016/1000x650.png"
-		},
-		{
-			"height": 500,
-			"width": 325,
-			"dir": "AHeidelbergiKate2016/500x325.png"
-		}
-	  ]
-    },
-	{
-      "dir": "Koran/data.json",
-      "name": "Korán",
-      "authors": "",
-      "year": "",
-	  "color": "0xffCB5D3B",
-	  "images": [
-		{
-			"height": 1000,
-			"width": 650,
-			"dir": "Koran/1000x650.png"
-		},
-		{
-			"height": 500,
-			"width": 325,
-			"dir": "Koran/500x325.png"
 		}
 	  ]
     }

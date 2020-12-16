@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "type": "book",
+    "url": "book/hu-HU/Karoli2014/",
+    "name": "Szövetségek",
+    "hidden": false,
+    "finished": false,
+    "exclusive": false,
+	"status": "visible",
+	"contains": "folder"
+  },
+  "data": [
+    {
+      "dir": "OSzovetseg/data.json",
+      "name": "Ószövetség",
+      "description": "Krisztus születése előtti evangéliumok."
+    },
+    {
+      "dir": "UjSzovetseg/data.json",
+      "name": "Újszövetség",
+      "description": "Krisztus születése utáni evangéliumok."
+    }
+  ]
+}

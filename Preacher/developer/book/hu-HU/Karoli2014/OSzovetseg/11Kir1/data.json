@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "book/hu-HU/Karoli2014/OSzovetseg/11Kir1/",
+	"name": "Fejezetek",
+	"status": "visible",
+	"contains": "text"
+  },
+  "data": [
+    {
+      "dir": "11Kir1_1/data.json",
+      "name": "1. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "11Kir1_2/data.json",
+      "name": "2. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "11Kir1_3/data.json",
+      "name": "3. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "11Kir1_4/data.json",
+      "name": "4. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "11Kir1_5/data.json",
+      "name": "5. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "11Kir1_6/data.json",
+      "name": "6. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "11Kir1_7/data.json",
+      "name": "7. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "11Kir1_8/data.json",
+      "name": "8. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "11Kir1_9/data.json",
+      "name": "9. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "11Kir1_10/data.json",
+      "name": "10. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "11Kir1_11/data.json",
+      "name": "11. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "11Kir1_12/data.json",
+      "name": "12. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "11Kir1_13/data.json",
+      "name": "13. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "11Kir1_14/data.json",
+      "name": "14. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "11Kir1_15/data.json",
+      "name": "15. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "11Kir1_16/data.json",
+      "name": "16. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "11Kir1_17/data.json",
+      "name": "17. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "11Kir1_18/data.json",
+      "name": "18. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "11Kir1_19/data.json",
+      "name": "19. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "11Kir1_20/data.json",
+      "name": "20. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "11Kir1_21/data.json",
+      "name": "21. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "11Kir1_22/data.json",
+      "name": "22. Fejezet",
+	  "description": ""
+    }
+  ]
+}

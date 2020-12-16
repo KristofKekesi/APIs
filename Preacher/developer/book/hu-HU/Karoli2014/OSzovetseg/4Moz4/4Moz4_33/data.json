@@ -1,0 +1,232 @@
+{
+   "meta": {
+   "type": "text",
+   "name": "33. Fejezet"
+   },
+   "data": [
+        {
+            "type": "line",
+            "value": "Ezek Izráel fiainak szállásai, akik kijövének Égyiptom földéből az ő seregeik szerint Mózes és Áron vezetése alatt."
+        },
+        {
+            "type": "line",
+            "value": "(Megírá pedig Mózes az ő kijövetelöket az ő szállásaik szerint, az Úrnak rendeletére.) Ezek az ő szállásaik, az ő kijövetelök szerint."
+        },
+        {
+            "type": "line",
+            "value": "Elindulának Rameszeszből az első hónapban, az első hónap tizenötödik napján. A páskha után való napon jövének ki Izráel fiai felemelt kézzel, az egész Égyiptom láttára."
+        },
+        {
+            "type": "line",
+            "value": "(Az égyiptombeliek pedig temetik vala azokat akiket megölt vala az Úr ő közöttök, minden elsőszülöttjöket; az isteneiken is ítéletet tartott vala az Úr.)"
+        },
+        {
+            "type": "line",
+            "value": "És elindulának Izráel fiai Rameszeszből, és tábort ütének Szukkótban."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának Szukkótból, és tábort ütének Ethámban, amely van a pusztának szélén."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának Ethámból, és fordulának Pihahiróth felé, amely van Baál-Cefon előtt, és tábort ütének Migdol előtt,"
+        },
+        {
+            "type": "line",
+            "value": "És elindulának Pihahiróthból, és átmenének a tenger közepén a pusztába; és menének három napi járásnyira az Ethám pusztáján; és tábort ütének Márában."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának Márából, és jutának Élimbe; Élimben pedig vala tizenkét kútfő és hetven pálmafa; és tábort ütének ott."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának Élimből, és tábort ütének a Veres tenger mellett."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának a Veres tengertől, és tábort ütének a Szin pusztájában."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának a Szin pusztájából, és tábort ütének Dofkában."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának Dofkából, és tábort ütének Álúsban."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának Álúsból, és tábort ütének Refidimben, de nem vala ott a népnek inni való vize."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának Refidimből, és tábort ütének a Sinai pusztájában."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának a Sinai pusztájából, és tábort ütének Kibrót-Thaavában."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának Kibrót-Thaavából, és tábort ütének Haserótban."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának Haserótból, és tábort ütének Rithmában."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának Rithmából, és tábort ütének Rimmon-Pérecben."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának Rimmon-Pérecből, és tábort ütének Libnában."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának Libnából, és tábort ütének Risszában."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának Risszából, és tábort ütének Kehélátban."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának Kehélátból, és tábort ütének a Séfer hegyénél."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának a Séfer hegyétől és tábort ütének Haradában."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának Haradából, és tábort ütének Makhélótban."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának Makhélótból, és tábort ütének Tháhátban."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának Tháhátból, és tábort ütének Thárakhban."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának Thárakhból, és tábort ütének Mitkában."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának Mitkából, és tábort ütének Hasmonában."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának Hasmonából, és tábort ütének Moszérótban."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának Moszérótból, és tábort ütének Bené-Jaakánban."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának Bené-Jaakánból, és tábort ütének Hór-Hagidgádban."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának Hór-Hagidgádból, és tábort ütének Jotbathában."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának Jotbathából, és tábort ütének Abronában."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának Abronából, és tábort ütének Ecjon-Geberben."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának Ecjon-Geberből, és tábort ütének Cin pusztájában; ez Kádes."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának Kádesből, és tábort ütének a Hór hegyénél, az Edom földének szélén."
+        },
+        {
+            "type": "line",
+            "value": "Felméne pedig Áron, a pap, a Hór hegyére az Úr rendelése szerint, és meghala ott a negyvenedik esztendőben, Izráel fiainak Égyiptom földéből való kijövetelök után, az ötödik hónapban, a hónap elsején."
+        },
+        {
+            "type": "line",
+            "value": "Áron pedig száz és huszonhárom esztendős vala, mikor meghala a Hór hegyén."
+        },
+        {
+            "type": "line",
+            "value": "Hallott pedig a Kananeus, Arad királya (ez pedig dél felől lakozik vala a Kanaán földén) Izráel fiainak jövetele felől."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának a Hór hegyétől, és tábort ütének Calmonában."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának Calmonából, és tábort ütének Púnonban."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának Púnonból, és tábort ütének Obothban."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának Obothból, és tábort ütének Ijé-Abárimban, a Moáb határán."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának Ijé-Abárimból, és tábort ütének Dibon-Gádban."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának Dibon-Gádból, és tábort ütének Almon-Diblathaimban."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának Almon-Diblathaimból, és tábort ütének az Abarim hegységnél, Nébó ellenében."
+        },
+        {
+            "type": "line",
+            "value": "És elindulának az Abarim hegységétől, és tábort ütének a Moáb mezőségén, a Jordán mellett, Jérikhó ellenében."
+        },
+        {
+            "type": "line",
+            "value": "Tábort ütének pedig a Jordán mellett, Beth-Hajjesimóthtól Abel-Hassittimig, a Moáb mezőségén."
+        },
+        {
+            "type": "line",
+            "value": "És szóla az Úr Mózesnek a Moáb mezőségén, a Jordán mellett, Jerikhó ellenében, mondván:"
+        },
+        {
+            "type": "line",
+            "value": "Szólj Izráel fiainak, és mondd meg nékik: Mikor átmentek ti a Jordánon a Kanaán földére:"
+        },
+        {
+            "type": "line",
+            "value": "Űzzétek ki akkor a földnek minden lakosát a ti színetek elől, és veszessétek el minden írott képeiket, és minden ő öntött bálványképeiket is elveszessétek, és minden magaslataikat rontsátok el!"
+        },
+        {
+            "type": "line",
+            "value": "Űzzétek ki a földnek lakóit, és lakozzatok abban; mert néktek adtam azt a földet, hogy bírjátok azt."
+        },
+        {
+            "type": "line",
+            "value": "Azt a földet pedig sorsvetés által vegyétek birtokotokba a ti nemzetségeitek szerint. A nagyobb számúnak nagyobbítsátok az ő örökségét, a kisebb számúnak kisebbítsd az ő örökségét. Ahová a sors esik valaki számára, az legyen az övé. A ti atyáitoknak törzsei szerint vegyétek át birtokotokat."
+        },
+        {
+            "type": "line",
+            "value": "Ha pedig nem űzitek ki annak a földnek lakosait a ti színetek elől, akkor, akiket meghagytok közülök, szálkákká lesznek a ti szemeitekben, és tövisekké a ti oldalaitokban, és ellenségeitek lesznek néktek a földön, amelyen lakoztok."
+        },
+        {
+            "type": "line",
+            "value": "És akkor amiképpen gondoltam, hogy cselekszem azokkal, úgy cselekszem majd veletek."
+        }
+    ]
+}
