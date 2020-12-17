@@ -43,25 +43,6 @@
 			"dir": "AHeidelbergiKate1943/500x325.png"
 		}
 	  ]
-    },
-	{
-      "dir": "Koran/data.json",
-      "name": "Korán",
-      "authors": "",
-      "year": "",
-	  "color": "0xffCB5D3B",
-	  "images": [
-		{
-			"height": 1000,
-			"width": 650,
-			"dir": "Koran/1000x650.png"
-		},
-		{
-			"height": 500,
-			"width": 325,
-			"dir": "Koran/500x325.png"
-		}
-	  ]
     }
   ]
 }
