@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "type": "book",
+    "url": "book/hu-HU/AHeidelbergiKate1943/",
+    "name": "Részei",
+    "hidden": false,
+    "finished": false,
+    "exclusive": false,
+	"status": "visible",
+	"contains": "text"
+  },
+  "data": [
+    {
+      "dir": "elsoKerdes/data.json",
+      "name": "Első kérdések",
+      "description": "Kérdések 1-től 2-ig."
+    },
+	{
+      "dir": "iResz/data.json",
+      "name": "I. Rész",
+      "description": "Kérdések 3-tól 11-ig."
+    },
+	{
+      "dir": "iiResz/data.json",
+      "name": "II. Rész",
+      "description": "Kérdések 12-től 85-ig."
+    },
+    {
+      "dir": "iiiResz/data.json",
+      "name": "III. Rész",
+      "description": "Kérdések 86-tól 129-ig."
+    }
+  ]
+}

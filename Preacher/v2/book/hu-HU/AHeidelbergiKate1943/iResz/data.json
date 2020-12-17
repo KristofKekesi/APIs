@@ -1,0 +1,132 @@
+{
+   "meta": {
+   "type": "text",
+   "name": "Első Rész"
+   },
+   "data": [
+		{
+            "type": "titleBoldWithoutNum",
+            "value": "Az ember nyomorúságáról"
+        },
+		{
+            "type": "lineBoldWithoutNum",
+            "value": "2. Úrnapja"
+        },
+        {
+            "type": "lineBoldWithFirstWordNum",
+            "value": "3. Miből ismered meg a te nyomorúságodat?"
+        },
+        {
+            "type": "lineWithoutNum",
+            "value": "Az Isten Törvényéből."
+        },
+        {
+            "type": "sublineItalicRightBlack54WithoutNum",
+            "value": "Róm. 3: 20."
+        },
+		{
+            "type": "lineBoldWithFirstWordNum",
+            "value": "4. Mit követel tőlünk Isten Törvénye?"
+        },
+        {
+            "type": "lineWithoutNum",
+            "value": "Rövid összefoglalásban így tanít minket erre Krisztus, Máté ev. 22. rész 3?-40. verseiben: Szeresd az Urat, a te Istenedet teljes szívedből, teljes lelkedből és teljes elmédből. Ez az első és nagy parancsolat. A második pedig hasonlatos ehhez: Szeresd felebarátodat, mint tenmagadat. E két parancsolattól függ az egész törvény és a próféták."
+        },
+        {
+            "type": "sublineItalicRightBlack54WithoutNum",
+            "value": "V. Móz. 6: 5; III. Móz. 19: 18; Márk 12: 30; Luk. 10: 27."
+        },
+		{
+            "type": "lineBoldWithFirstWordNum",
+            "value": "5. Megtarthatod-é tökéletesen mindezeket?"
+        },
+        {
+            "type": "lineWithoutNum",
+            "value": "Semmiképpen nem. Mert természetem szerint hajlandó vagyok Istent és felebarátomat gyűlölni."
+        },
+        {
+            "type": "sublineItalicRightBlack54WithoutNum",
+            "value": "Róm. 3: 10, 20, 23; 1. Móz. 6: 5, 8: 21; Róm. 7: 22-23; 1. Ján. 1: 8, 10; Ef. 2: 3; Tit. 3: 3."
+        },
+		{
+            "type": "lineBoldWithFirstWordNum",
+            "value": "6. Hát ilyen gonosznak és romlottnak teremtette Isten az embert?"
+        },
+		{
+            "type": "lineBoldWithoutNum",
+            "value": "3. Úrnapja"
+        },
+        {
+            "type": "lineWithoutNum",
+            "value": "Semmiképpen nem. Sőt inkább jónak és a maga képmására teremtette Isten az embert, azaz valóságos igazságban és szentségben. Azért, hogy Istent, az ő Teremtőjét igazán megismerje, Őt szívből szeresse és hogy Vele örökkétartó idvességben éljen, hogy így Őt dícsérje és magasztalja."
+        },
+        {
+            "type": "sublineItalicRightBlack54WithoutNum",
+            "value": "1. Móz. 1: 31; 1. Móz. 1: 26-27; Ef. 4: 24; Kol. 3: 10; 2. Kor. 3: 18;"
+        },
+		{
+            "type": "lineBoldWithFirstWordNum",
+            "value": "7. Hát akkor honnan ered az embernek ez a megromlott természete?"
+        },
+        {
+            "type": "lineWithoutNum",
+            "value": "Első szüleinknek, Ádámnak és Évának paradicsombeli esetéből és engedetlenségéből, ami miatt a mi természetünk úgy megromlott, hogy mi mindnyájan bűnben fogantatunk és születünk."
+        },
+        {
+            "type": "sublineItalicRightBlack54WithoutNum",
+            "value": "1. Móz. 3. 5: 3; Róm. 5: 12; Zsolt. 51: 7."
+        },
+		{
+            "type": "lineBoldWithFirstWordNum",
+            "value": "8. De hát annyira megromlottunk-é, hogy teljességgel alkalmatlanok vagyunk minden jóra és hajlandók minden rosszra?"
+        },
+        {
+            "type": "lineWithoutNum",
+            "value": "Bizony úgy van. Hacsak a Szentlélek újjá nem szül bennünket."
+        },
+        {
+            "type": "sublineItalicRightBlack54WithoutNum",
+            "value": "7: 18; 2. Kor. 3: 5; 1. Móz. 6: 5; 8: 21; Ján. 3: 3, 5; Jób 14: 4, 15: 14, 16: 35; Ézs. 53: 6; 1. Kor. 12: 3."
+        },
+		{
+            "type": "lineBoldWithoutNum",
+            "value": "4. Úrnapja"
+        },
+		{
+            "type": "lineBoldWithFirstWordNum",
+            "value": "9. Nem igazságtalanul bánik-é Isten az emberrel, hogy olyat kíván tőle az Ő törvényében, amit képtelen megtenni?"
+        },
+        {
+            "type": "lineWithoutNum",
+            "value": "Semmiképpen nem. Mert olyanná teremtette Isten az embert, hogy azt megtehetné. De az ördögnek sugallatára és tudatos engedetlensége által úgy magát, mint utódjait megfosztotta az ember azoktól az ajándékoktól."
+        },
+        {
+            "type": "sublineItalicRightBlack54WithoutNum",
+            "value": "Ef. 4: 24; 5. Móz. 32: 4; Róm. 1: 32; Préd. 7: 29; 1. Móz. 3: 13; 2. Kor. 11: 3; 1. Móz. 3; Róm. 5: 12; 1. Tim. 2: 13, 14."
+        },
+		{
+            "type": "lineBoldWithFirstWordNum",
+            "value": "10. Büntetlenül hagyja-e Isten az ilyen engedetlenséget és elszakadást?"
+        },
+        {
+            "type": "lineWithoutNum",
+            "value": "Bizony semmiképpen nem. Sőt inkább rettenetes az Ő haragja úgy a velünk született, mint az elkövetett bűnökért. És azokat igazságos ítélet által ideig- és örökkétartó büntetéssel sujtja, amint maga is megmondotta: Átkozott minden, aki meg nem marad mindazokban, amik megírattak a törvény könyvében, hogy azokat cselekedje."
+        },
+        {
+            "type": "sublineItalicRightBlack54WithoutNum",
+            "value": "1. Móz. 2: 17; Zsolt. 5: 6; 76: 8; Zsid. 10: 31; Ef. 2: 3; Róm. 5: 12, 14, 1: 18; V. Móz. 27: 26; Es. 66; 24; Máté 25: 41; Náh. 1: 2; Róm. 1: 18; Ef. 5: 6; Gal. 3: 10."
+        },
+		{
+            "type": "lineBoldWithFirstWordNum",
+            "value": "11. Hát nem irgalmas az Isten?"
+        },
+        {
+            "type": "lineWithoutNum",
+            "value": "Isten igenis irgalmas, de igazságos is. Ezért azt kívánja az Ő igazsága, hogy az Istennek legfelségesebb dicsősége ellen elkövetett bűnt is a legnagyobb, vagyis az örökkétartó testi és lelki büntetés sujtsa."
+        },
+        {
+            "type": "sublineItalicRightBlack54WithoutNum",
+            "value": "II. Móz. 34: 6-7. 20: 6; 5, 23: 7, 34: 7; Zsolt. 5: 5-7; Zsid. 10: 31; Nah. 1: 2, 3."
+        }
+    ]
+}

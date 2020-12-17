@@ -8,10 +8,6 @@
     {
       "dir": "lang/data.json",
 	  "type": "rect"
-    },
-    {
-      "dir": "story/data.json",
-	  "type": "circle"
     }
   ]
 }
