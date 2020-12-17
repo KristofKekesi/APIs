@@ -5,6 +5,10 @@
    },
    "data": [
 		{
+            "type": "titleBoldWithoutNum",
+            "value": "Az ember nyomorúságáról"
+        },
+		{
             "type": "lineBoldWithoutNum",
             "value": "2. Úrnapja"
         },

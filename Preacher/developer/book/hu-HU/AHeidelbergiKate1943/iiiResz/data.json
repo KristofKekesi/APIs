@@ -5,6 +5,10 @@
    },
    "data": [
 		{
+            "type": "titleBoldWithoutNum",
+            "value": "A háládatosságról, mellyel a megváltásért Istennek tartozunk"
+        },
+		{
             "type": "lineBoldWithoutNum",
             "value": "32. Úrnapja"
         },
@@ -83,6 +87,10 @@
         {
             "type": "sublineItalicRightBlack54WithoutNum",
             "value": "Róm. 14: 23; 1. Tim. 1: 5; Ezék. 20: 18, 19; Máté 5: 16; 15: 7-9: 1. Sám. 15: 22; Ef. 2: 10: 1. Kor. 10: 31."
+        },
+		{
+            "type": "titleBoldWithoutNum",
+            "value": "A törvényről (Tízparancsolatról)"
         },
 		{
             "type": "lineBoldWithoutNum",
@@ -411,6 +419,10 @@
         {
             "type": "sublineItalicRightBlack54WithoutNum",
             "value": "Róm 3: 20; 4: 15; 5: 13, 20; 10: 3, 4; Máté 11: 28; 5. Móz. 31: 11-13; Zsolt. 119: 4, 5; 33-36; Róm. 12: 2; 1. Kor. 19: 9, 10; 1. Ján. 3: 2."
+        },
+		{
+            "type": "titleBoldWithoutNum",
+            "value": "Az imádkozásról"
         },
 		{
             "type": "lineBoldWithoutNum",
