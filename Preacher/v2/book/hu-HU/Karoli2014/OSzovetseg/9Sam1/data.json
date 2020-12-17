@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "book/hu-HU/Karoli2014/OSzovetseg/9Sam1/",
+	"name": "Fejezetek",
+	"status": "visible",
+	"contains": "text"
+  },
+  "data": [
+    {
+      "dir": "9Sam1_1/data.json",
+      "name": "1. Fejezet",
+	"description": ""
+    },
+    {
+      "dir": "9Sam1_2/data.json",
+      "name": "2. Fejezet",
+	"description": ""
+    },
+    {
+      "dir": "9Sam1_3/data.json",
+      "name": "3. Fejezet",
+	"description": ""
+    },
+    {
+      "dir": "9Sam1_4/data.json",
+      "name": "4. Fejezet",
+	"description": ""
+    },
+    {
+      "dir": "9Sam1_5/data.json",
+      "name": "5. Fejezet",
+	"description": ""
+    },
+    {
+      "dir": "9Sam1_6/data.json",
+      "name": "6. Fejezet",
+	"description": ""
+    },
+    {
+      "dir": "9Sam1_7/data.json",
+      "name": "7. Fejezet",
+	"description": ""
+    },
+    {
+      "dir": "9Sam1_8/data.json",
+      "name": "8. Fejezet",
+	"description": ""
+    },
+    {
+      "dir": "9Sam1_9/data.json",
+      "name": "9. Fejezet",
+	"description": ""
+    },
+    {
+      "dir": "9Sam1_10/data.json",
+      "name": "10. Fejezet",
+	"description": ""
+    },
+    {
+      "dir": "9Sam1_11/data.json",
+      "name": "11. Fejezet",
+	"description": ""
+    },
+    {
+      "dir": "9Sam1_12/data.json",
+      "name": "12. Fejezet",
+	"description": ""
+    },
+    {
+      "dir": "9Sam1_13/data.json",
+      "name": "13. Fejezet",
+	"description": ""
+    },
+    {
+      "dir": "9Sam1_14/data.json",
+      "name": "14. Fejezet",
+	"description": ""
+    },
+    {
+      "dir": "9Sam1_15/data.json",
+      "name": "15. Fejezet",
+	"description": ""
+    },
+    {
+      "dir": "9Sam1_16/data.json",
+      "name": "16. Fejezet",
+	"description": ""
+    },
+    {
+      "dir": "9Sam1_17/data.json",
+      "name": "17. Fejezet",
+	"description": ""
+    },
+    {
+      "dir": "9Sam1_18/data.json",
+      "name": "18. Fejezet",
+	"description": ""
+    },
+    {
+      "dir": "9Sam1_19/data.json",
+      "name": "19. Fejezet",
+	"description": ""
+    },
+    {
+      "dir": "9Sam1_20/data.json",
+      "name": "20. Fejezet",
+	"description": ""
+    },
+    {
+      "dir": "9Sam1_21/data.json",
+      "name": "21. Fejezet",
+	"description": ""
+    },
+    {
+      "dir": "9Sam1_22/data.json",
+      "name": "22. Fejezet",
+	"description": ""
+    },
+    {
+      "dir": "9Sam1_23/data.json",
+      "name": "23. Fejezet",
+	"description": ""
+    },
+    {
+      "dir": "9Sam1_24/data.json",
+      "name": "24. Fejezet",
+	"description": ""
+    },
+    {
+      "dir": "9Sam1_25/data.json",
+      "name": "25. Fejezet",
+	"description": ""
+    },
+    {
+      "dir": "9Sam1_26/data.json",
+      "name": "26. Fejezet",
+	"description": ""
+    },
+    {
+      "dir": "9Sam1_27/data.json",
+      "name": "27. Fejezet",
+	"description": ""
+    },
+    {
+      "dir": "9Sam1_28/data.json",
+      "name": "28. Fejezet",
+	"description": ""
+    },
+    {
+      "dir": "9Sam1_29/data.json",
+      "name": "29. Fejezet",
+	"description": ""
+    },
+    {
+      "dir": "9Sam1_30/data.json",
+      "name": "30. Fejezet",
+	"description": ""
+    },
+    {
+      "dir": "9Sam1_31/data.json",
+      "name": "31. Fejezet",
+	"description": ""
+    }
+  ]
+}

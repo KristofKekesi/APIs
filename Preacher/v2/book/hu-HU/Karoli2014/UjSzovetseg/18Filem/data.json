@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "book/hu-HU/Karoli2014/UjSzovetseg/18Filem/",
+    "name": "Fejezetek",
+	"status": "visible",
+	"contains": "text"
+  },
+  "data": [
+    {
+      "dir": "18Filem_1/data.json",
+      "name": "1. Fejezet",
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "book/hu-HU/Karoli2014/OSzovetseg/6Jozs/",
+	"name": "Fejezetek",
+	"status": "visible",
+	"contains": "text"
+  },
+  "data": [
+    {
+      "dir": "6Jozs_1/data.json",
+      "name": "1. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "6Jozs_2/data.json",
+      "name": "2. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "6Jozs_3/data.json",
+      "name": "3. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "6Jozs_4/data.json",
+      "name": "4. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "6Jozs_5/data.json",
+      "name": "5",
+	  "description": ""
+    },
+    {
+      "dir": "6Jozs_6/data.json",
+      "name": "6. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "6Jozs_7/data.json",
+      "name": "7. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "6Jozs_8/data.json",
+      "name": "8. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "6Jozs_9/data.json",
+      "name": "9. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "6Jozs_10/data.json",
+      "name": "10. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "6Jozs_11/data.json",
+      "name": "11. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "6Jozs_12/data.json",
+      "name": "12. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "6Jozs_13/data.json",
+      "name": "13. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "6Jozs_14/data.json",
+      "name": "14. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "6Jozs_15/data.json",
+      "name": "15. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "6Jozs_16/data.json",
+      "name": "16. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "6Jozs_17/data.json",
+      "name": "17. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "6Jozs_18/data.json",
+      "name": "18. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "6Jozs_19/data.json",
+      "name": "19. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "6Jozs_20/data.json",
+      "name": "20. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "6Jozs_21/data.json",
+      "name": "21. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "6Jozs_22/data.json",
+      "name": "22. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "6Jozs_23/data.json",
+      "name": "23. Fejezet",
+	  "description": ""
+    },
+    {
+      "dir": "6Jozs_24/data.json",
+      "name": "24. Fejezet",
+	  "description": ""
+    }
+  ]
+}

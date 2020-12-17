@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "type": "link",
+    "url": "book/",
+    "contains": "group"
+  },
+  "data": [
+    {
+      "code": "hu-HU",
+      "dir": "hu-HU/data.json",
+      "en-EN": "Hungarian",
+      "hu-HU": "Magyar"
+    }
+  ]
+}

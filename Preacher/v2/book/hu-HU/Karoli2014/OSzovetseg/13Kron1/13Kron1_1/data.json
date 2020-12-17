@@ -1,0 +1,224 @@
+{
+   "meta": {
+   "type": "text",
+   "name": "1. Fejezet"
+   },
+   "data": [
+        {
+            "type": "line",
+            "value": "Ádám, Séth, Énós."
+        },
+        {
+            "type": "line",
+            "value": "Kénán, Mahalálél, Járed."
+        },
+        {
+            "type": "line",
+            "value": "Énókh, Methuséláh, Lámekh."
+        },
+        {
+            "type": "line",
+            "value": "Noé, Sém, Khám és Jáfet."
+        },
+        {
+            "type": "line",
+            "value": "Jáfetnek fiai: Gómer, Mágog, Madai, Jáván, Thubál, Mésekh és Thirász."
+        },
+        {
+            "type": "line",
+            "value": "A Gómer fiai pedig: Askhenáz, Rifáth és Tógármah."
+        },
+        {
+            "type": "line",
+            "value": "Jávánnak pedig fiai: Elisah, Thársis, Kitthim és Dodánim."
+        },
+        {
+            "type": "line",
+            "value": "Khámnak fiai: Khús, Micráim, Pút és Kanaán."
+        },
+        {
+            "type": "line",
+            "value": "Khúsnak fiai: Széba, Hávilah, Szábthah, Rahmáh és Szabthékah; Rahmáhnak pedig fiai: Séba és Dédán."
+        },
+        {
+            "type": "line",
+            "value": "Khús nemzé Nimródot is; ez kezde hatalmassá lenni a földön."
+        },
+        {
+            "type": "line",
+            "value": "Micráim pedig nemzé Lúdimot, Anámimot, Lehábimot és Naftukhimot."
+        },
+        {
+            "type": "line",
+            "value": "Pathruszimot és Kaszlukhimot, akiktől a Filiszteusok származtak, és Kafthorimot."
+        },
+        {
+            "type": "line",
+            "value": "Kanaán pedig nemzé Cídont, az ő elsőszülöttét és Khétet,"
+        },
+        {
+            "type": "line",
+            "value": "És Jebuzeust, Emorreust és Girgazeust."
+        },
+        {
+            "type": "line",
+            "value": "Khivveust, Harkeust és Szineust."
+        },
+        {
+            "type": "line",
+            "value": "Arvadeust, Cemareust és Hamatheust."
+        },
+        {
+            "type": "line",
+            "value": "Sémnek fiai: Élám és Assur, Arpaksád, Lúd, Arám, Úc, Húl, Gether és Mesek."
+        },
+        {
+            "type": "line",
+            "value": "Arpaksád pedig nemzé Séláht és Séláh nemzé Hébert."
+        },
+        {
+            "type": "line",
+            "value": "Hébernek is lett két fia, az egyiknek neve Péleg, mivelhogy az ő idejében osztatott el a föld; testvérének neve pedig Joktán."
+        },
+        {
+            "type": "line",
+            "value": "Joktán pedig nemzé Almodádot és Sélefet, Hacarmávethet és Jerákhot,"
+        },
+        {
+            "type": "line",
+            "value": "Hadórámot, Úzált és Diklát,"
+        },
+        {
+            "type": "line",
+            "value": "És Ebált, Abimáelt és Sébát,"
+        },
+        {
+            "type": "line",
+            "value": "Ofirt, Havilát és Jóbábot. Ezek mind Joktán fiai."
+        },
+        {
+            "type": "line",
+            "value": "Sém, Arpaksád, Séláh."
+        },
+        {
+            "type": "line",
+            "value": "Héber, Péleg, Réu."
+        },
+        {
+            "type": "line",
+            "value": "Sérug, Nákhor, Tháré."
+        },
+        {
+            "type": "line",
+            "value": "Abrám, ez az Ábrahám."
+        },
+        {
+            "type": "line",
+            "value": "Ábrahám fiai: Izsák és Ismáel."
+        },
+        {
+            "type": "line",
+            "value": "Ezeknek nemzetségei pedig ezek: Ismáel elsőszülötte Nebájót és Kédar, Adbeél és Mibszám."
+        },
+        {
+            "type": "line",
+            "value": "Misma és Dúmah, Massza, Hadad és Théma."
+        },
+        {
+            "type": "line",
+            "value": "Jétur, Náfis és Kedmah; ezek az Ismáel fiai."
+        },
+        {
+            "type": "line",
+            "value": "Keturának pedig, az Ábrahám ágyasának fiai, kiket szüle, ezek: Zimrán, Joksán, Médán, Midián, Isbák és Suakh. És a Joksán fiai: Séba és Dédán."
+        },
+        {
+            "type": "line",
+            "value": "És a Midián fiai: Éfah, Héfer, Hánok, Abida és Eldáh. Mindezek a Keturáh fiai."
+        },
+        {
+            "type": "line",
+            "value": "Ábrahám pedig nemzé Izsákot; Izsák fiai pedig ezek: Ézsau és Izráel."
+        },
+        {
+            "type": "line",
+            "value": "Ézsaunak fiai: Elifáz, Réhuél, Jéhus, Jahlám és Korakh."
+        },
+        {
+            "type": "line",
+            "value": "Elifáz fiai: Thémán, Omár, Cefi, Gahtám, Kenáz és Timna és Amálek."
+        },
+        {
+            "type": "line",
+            "value": "Réhuél fiai: Nakhath, Zérakh, Samma és Mizza."
+        },
+        {
+            "type": "line",
+            "value": "Széir fiai: Lótán és Sóbál, Cibhón, Haná, Disón, Ecer és Disán."
+        },
+        {
+            "type": "line",
+            "value": "Lótán fiai pedig: Hóri és Hómám: Lótánnak huga pedig Timna."
+        },
+        {
+            "type": "line",
+            "value": "Sóbál fiai: Alján és Mánakháth, Hébál, Sefi és Onám; Cibhón fiai pedig: Aja és Haná."
+        },
+        {
+            "type": "line",
+            "value": "Haná fia: Disón, Disón fiai pedig: Hamrán és Esbán, Ithrán és Kherán."
+        },
+        {
+            "type": "line",
+            "value": "Ecer fiai: Bilhán és Zahaván, Jakán. Disán fiai: Húc és Arán."
+        },
+        {
+            "type": "line",
+            "value": "Ezek pedig a királyok, akik uralkodának Edom földén, mielőtt az Izráel fiai között király uralkodott volna: Bela, Behor fia, az ő városának neve Dinhába vala."
+        },
+        {
+            "type": "line",
+            "value": "Bela meghalván, uralkodék helyette Jóbáb, a Bocrából való Zerakh fia."
+        },
+        {
+            "type": "line",
+            "value": "És hogy Jóbáb meghala, uralkodék helyette a Témán földéből való Khusám."
+        },
+        {
+            "type": "line",
+            "value": "Meghala Khusám is, és uralkodék helyette Hadád, a Bédád fia, ki megveré a Midiánitákat a Moáb mezején; és az ő városának neve Hávit vala."
+        },
+        {
+            "type": "line",
+            "value": "Hadád is, hogy meghala, uralkodék helyette a Masrekából való Szamlá."
+        },
+        {
+            "type": "line",
+            "value": "Szamlá holta után uralkodék helyette Saul, a folyóvíz mellett való Rékhobóthból."
+        },
+        {
+            "type": "line",
+            "value": "Saul is meghala, és uralkodék helyette Báhál-Khanán, az Akhbór fia."
+        },
+        {
+            "type": "line",
+            "value": "Báhál-Khanán holta után uralkodék helyette Hadád; és az ő városának neve Páhi, feleségének pedig neve Mehetábéel, ki Mézaháb leányának Matrédnak volt a leánya."
+        },
+        {
+            "type": "line",
+            "value": "Hadád halála után Edom fejedelmei valának: Timná fejedelem, Halvá fejedelem, Jetéth fejedelem,"
+        },
+        {
+            "type": "line",
+            "value": "Ohólibámá fejedelem, Éla fejedelem és Pinon fejedelem,"
+        },
+        {
+            "type": "line",
+            "value": "Kenáz fejedelem, Témán fejedelem és Mibcár fejedelem,"
+        },
+        {
+            "type": "line",
+            "value": "Magdiél fejedelem és Hirám fejedelem. Ezek voltak Edom fejedelmei."
+        }
+    ]
+}
