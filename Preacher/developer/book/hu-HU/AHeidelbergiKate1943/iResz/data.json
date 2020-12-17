@@ -5,7 +5,7 @@
    },
    "data": [
         {
-            "type": "titleWithFirstWordNum",
+            "type": "lineBoldWithFirstWordNum",
             "value": "3. Miből ismered meg a te nyomorúságodat?"
         },
         {
@@ -17,7 +17,7 @@
             "value": "Róm. 3: 20."
         },
 		{
-            "type": "titleWithFirstWordNum",
+            "type": "lineBoldWithFirstWordNum",
             "value": "4. Mit követel tőlünk Isten Törvénye?"
         },
         {
@@ -29,7 +29,7 @@
             "value": "V. Móz. 6: 5; III. Móz. 19: 18; Márk 12: 30; Luk. 10: 27."
         },
 		{
-            "type": "titleWithFirstWordNum",
+            "type": "lineBoldWithFirstWordNum",
             "value": "5. Megtarthatod-é tökéletesen mindezeket?"
         },
         {
@@ -41,7 +41,7 @@
             "value": "Róm. 3: 10, 20, 23; 1. Móz. 6: 5, 8: 21; Róm. 7: 22-23; 1. Ján. 1: 8, 10; Ef. 2: 3; Tit. 3: 3."
         },
 		{
-            "type": "titleWithFirstWordNum",
+            "type": "lineBoldWithFirstWordNum",
             "value": "6. Hát ilyen gonosznak és romlottnak teremtette Isten az embert?"
         },
         {
@@ -53,7 +53,7 @@
             "value": "1. Móz. 1: 31; 1. Móz. 1: 26-27; Ef. 4: 24; Kol. 3: 10; 2. Kor. 3: 18;"
         },
 		{
-            "type": "titleWithFirstWordNum",
+            "type": "lineBoldWithFirstWordNum",
             "value": "7. Hát akkor honnan ered az embernek ez a megromlott természete?"
         },
         {
@@ -65,7 +65,7 @@
             "value": "1. Móz. 3. 5: 3; Róm. 5: 12; Zsolt. 51: 7."
         },
 		{
-            "type": "titleWithFirstWordNum",
+            "type": "lineBoldWithFirstWordNum",
             "value": "8. De hát annyira megromlottunk-é, hogy teljességgel alkalmatlanok vagyunk minden jóra és hajlandók minden rosszra?"
         },
         {
@@ -77,7 +77,7 @@
             "value": "7: 18; 2. Kor. 3: 5; 1. Móz. 6: 5; 8: 21; Ján. 3: 3, 5; Jób 14: 4, 15: 14, 16: 35; Ézs. 53: 6; 1. Kor. 12: 3."
         },
 		{
-            "type": "titleWithFirstWordNum",
+            "type": "lineBoldWithFirstWordNum",
             "value": "9. Nem igazságtalanul bánik-é Isten az emberrel, hogy olyat kíván tőle az Ő törvényében, amit képtelen megtenni?"
         },
         {
@@ -89,7 +89,7 @@
             "value": "Ef. 4: 24; 5. Móz. 32: 4; Róm. 1: 32; Préd. 7: 29; 1. Móz. 3: 13; 2. Kor. 11: 3; 1. Móz. 3; Róm. 5: 12; 1. Tim. 2: 13, 14."
         },
 		{
-            "type": "titleWithFirstWordNum",
+            "type": "lineBoldWithFirstWordNum",
             "value": "10. Büntetlenül hagyja-e Isten az ilyen engedetlenséget és elszakadást?"
         },
         {
@@ -101,7 +101,7 @@
             "value": "1. Móz. 2: 17; Zsolt. 5: 6; 76: 8; Zsid. 10: 31; Ef. 2: 3; Róm. 5: 12, 14, 1: 18; V. Móz. 27: 26; Es. 66; 24; Máté 25: 41; Náh. 1: 2; Róm. 1: 18; Ef. 5: 6; Gal. 3: 10."
         },
 		{
-            "type": "titleWithFirstWordNum",
+            "type": "lineBoldWithFirstWordNum",
             "value": "11. Hát nem irgalmas az Isten?"
         },
         {
