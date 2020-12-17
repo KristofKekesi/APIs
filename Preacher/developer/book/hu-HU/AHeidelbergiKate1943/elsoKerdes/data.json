@@ -4,6 +4,10 @@
    "name": "Első Kérdések"
    },
    "data": [
+		{
+            "type": "lineBoldWithoutNum",
+            "value": "1. Úrnapja"
+        },
         {
             "type": "lineBoldWithFirstWordNum",
             "value": "1. Mi a te egyetlenegy vigasztalásod életedben és halálodban?"

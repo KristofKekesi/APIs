@@ -4,6 +4,10 @@
    "name": "Első Rész"
    },
    "data": [
+		{
+            "type": "lineBoldWithoutNum",
+            "value": "2. Úrnapja"
+        },
         {
             "type": "lineBoldWithFirstWordNum",
             "value": "3. Miből ismered meg a te nyomorúságodat?"
@@ -44,6 +48,10 @@
             "type": "lineBoldWithFirstWordNum",
             "value": "6. Hát ilyen gonosznak és romlottnak teremtette Isten az embert?"
         },
+		{
+            "type": "lineBoldWithoutNum",
+            "value": "3. Úrnapja"
+        },
         {
             "type": "lineWithoutNum",
             "value": "Semmiképpen nem. Sőt inkább jónak és a maga képmására teremtette Isten az embert, azaz valóságos igazságban és szentségben. Azért, hogy Istent, az ő Teremtőjét igazán megismerje, Őt szívből szeresse és hogy Vele örökkétartó idvességben éljen, hogy így Őt dícsérje és magasztalja."
@@ -75,6 +83,10 @@
         {
             "type": "sublineItalicRightBlack54WithoutNum",
             "value": "7: 18; 2. Kor. 3: 5; 1. Móz. 6: 5; 8: 21; Ján. 3: 3, 5; Jób 14: 4, 15: 14, 16: 35; Ézs. 53: 6; 1. Kor. 12: 3."
+        },
+		{
+            "type": "lineBoldWithoutNum",
+            "value": "4. Úrnapja"
         },
 		{
             "type": "lineBoldWithFirstWordNum",
