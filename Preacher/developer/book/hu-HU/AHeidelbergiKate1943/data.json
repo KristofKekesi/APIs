@@ -6,7 +6,7 @@
     "hidden": false,
     "finished": false,
     "exclusive": false,
-	"status": "maintenance",
+	"status": "visible",
 	"contains": "text"
   },
   "data": [
@@ -21,7 +21,7 @@
       "description": "Kérdések 3-tól 11-ig."
     },
 	{
-      "dir": "iResz/data.json",
+      "dir": "iiResz/data.json",
       "name": "II. Rész",
       "description": "Kérdések 12-től 85-ig."
     },
