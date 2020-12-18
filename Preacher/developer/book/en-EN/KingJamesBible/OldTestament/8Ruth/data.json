@@ -1,30 +1,30 @@
 {
   "meta": {
     "type": "folder",
-    "url": "book/hu-HU/Karoli2014/OSzOvetseg/8Ruth/",
-	"name": "Fejezetek",
+    "url": "book/en-EN/KingJamesBible/OSzOvetseg/8Ruth/",
+	"name": "Chapters",
 	"status": "visible",
 	"contains": "text"
   },
   "data": [
     {
       "dir": "8Ruth_1/data.json",
-      "name": "1. Fejezet",
+      "name": "Chapter 1",
 	"description": ""
     },
     {
       "dir": "8Ruth_2/data.json",
-      "name": "2. Fejezet",
+      "name": "Chapter 2",
 	"description": ""
     },
     {
       "dir": "8Ruth_3/data.json",
-      "name": "3. Fejezet",
+      "name": "Chapter 3",
 	"description": ""
     },
     {
       "dir": "8Ruth_4/data.json",
-      "name": "4. Fejezet",
+      "name": "Chapter 4",
 	"description": ""
     }
   ]

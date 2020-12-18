@@ -1,130 +1,130 @@
 {
   "meta": {
 	"type": "folder",
-	"url": "book/hu-HU/Karoli2014/OSzovetseg/10Sam2/",
-	"name": "Fejezetek",
+	"url": "book/en-EN/KingJamesBible/OldTestament/10Sam2/",
+	"name": "Chapters",
 	"status": "visible",
 	"contains": "text"
   },
   "data": [
   {
     "dir": "10Sam2_1/data.json",
-    "name": "1. Fejezet",
+    "name": "Chapter 1",
 	"description": ""
   },
   {
     "dir": "10Sam2_2/data.json",
-    "name": "2. Fejezet",
+    "name": "Chapter 2",
 	"description": ""
   },
   {
     "dir": "10Sam2_3/data.json",
-    "name": "3. Fejezet",
+    "name": "Chapter 3",
 	"description": ""
   },
   {
     "dir": "10Sam2_4/data.json",
-    "name": "4. Fejezet",
+    "name": "Chapter 4",
 	"description": ""
   },
   {
     "dir": "10Sam2_5/data.json",
-    "name": "5. Fejezet",
+    "name": "Chapter 5",
 	"description": ""
   },
   {
     "dir": "10Sam2_6/data.json",
-    "name": "6. Fejezet",
+    "name": "Chapter 6",
 	"description": ""
   },
   {
     "dir": "10Sam2_7/data.json",
-    "name": "7. Fejezet",
+    "name": "Chapter 7",
 	"description": ""
   },
   {
     "dir": "10Sam2_8/data.json",
-    "name": "8. Fejezet",
+    "name": "Chapter 8",
 	"description": ""
   },
   {
     "dir": "10Sam2_9/data.json",
-    "name": "9. Fejezet",
+    "name": "Chapter 9",
 	"description": ""
   },
   {
     "dir": "10Sam2_10/data.json",
-    "name": "10. Fejezet",
+    "name": "Chapter 10",
 	"description": ""
   },
   {
     "dir": "10Sam2_11/data.json",
-    "name": "11. Fejezet",
+    "name": "Chapter 11",
 	"description": ""
   },
   {
     "dir": "10Sam2_12/data.json",
-    "name": "12. Fejezet",
+    "name": "Chapter 12",
 	"description": ""
   },
   {
     "dir": "10Sam2_13/data.json",
-    "name": "13. Fejezet",
+    "name": "Chapter 13",
 	"description": ""
   },
   {
     "dir": "10Sam2_14/data.json",
-    "name": "14. Fejezet",
+    "name": "Chapter 14",
 	"description": ""
   },
   {
     "dir": "10Sam2_15/data.json",
-    "name": "15. Fejezet",
+    "name": "Chapter 15",
 	"description": ""
   },
   {
     "dir": "10Sam2_16/data.json",
-    "name": "16. Fejezet",
+    "name": "Chapter 16",
 	"description": ""
   },
   {
     "dir": "10Sam2_17/data.json",
-    "name": "17. Fejezet",
+    "name": "Chapter 17",
 	"description": ""
   },
   {
     "dir": "10Sam2_18/data.json",
-    "name": "18. Fejezet",
+    "name": "Chapter 18",
 	"description": ""
   },
   {
     "dir": "10Sam2_19/data.json",
-    "name": "19. Fejezet",
+    "name": "Chapter 19",
 	"description": ""
   },
   {
     "dir": "10Sam2_20/data.json",
-    "name": "20. Fejezet",
+    "name": "Chapter 20",
 	"description": ""
   },
   {
     "dir": "10Sam2_21/data.json",
-    "name": "21. Fejezet",
+    "name": "Chapter 21",
 	"description": ""
   },
   {
     "dir": "10Sam2_22/data.json",
-    "name": "22. Fejezet",
+    "name": "Chapter 22",
 	"description": ""
   },
   {
     "dir": "10Sam2_23/data.json",
-    "name": "23. Fejezet",
+    "name": "Chapter 23",
 	"description": ""
   },
   {
     "dir": "10Sam2_24/data.json",
-    "name": "24. Fejezet",
+    "name": "Chapter 24",
 	"description": ""
   }
 ]
