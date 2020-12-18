@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "book/en-EN/KingJamesBible/NewTestament/",
+    "name": "New Testament",
+	"status": "visible",
+	"contains": "folder"
+  },
+  "data": [
+    {
+      "dir": "1Gen/data.json",
+      "name": "Gen",
+      "description": "Genesis"
+    }
+  ]
+}

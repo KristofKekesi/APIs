@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "book/en-EN/KingJamesBible/OldTestament/",
+    "name": "Old Testament",
+	"status": "visible",
+	"contains": "folder"
+  },
+  "data": [
+    {
+      "dir": "1Gen/data.json",
+      "name": "Gen",
+      "description": "Genesis"
+    },
+    {
+      "dir": "2Ex/data.json",
+      "name": "Ex",
+      "description": "Exodus"
+    },
+    {
+      "dir": "3Lev/data.json",
+      "name": "Lev",
+      "description": "Leviticus"
+    },
+    {
+      "dir": "4Num/data.json",
+      "name": "Num",
+      "description": "Numbers"
+    },
+    {
+      "dir": "5Deut/data.json",
+      "name": "Deut",
+      "description": "Deuteronomy"
+    },
+    {
+      "dir": "6Jos/data.json",
+      "name": "Jos",
+      "description": "Joshua"
+    },
+    {
+      "dir": "7Judg/data.json",
+      "name": "Judg",
+      "description": "Judges"
+    },
+    {
+      "dir": "8Ruth/data.json",
+      "name": "Ruth",
+      "description": "Ruth"
+    },
+    {
+      "dir": "9Sam1/data.json",
+      "name": "1 Sam",
+      "description": "1 Samuel"
+    },
+    {
+      "dir": "10Sam2/data.json",
+      "name": "2 Sam",
+      "description": "2 Samuel"
+    },
+    {
+      "dir": "11Kin1/data.json",
+      "name": "1 Kin",
+      "description": "1 Kings"
+    },
+    {
+      "dir": "12Kin2/data.json",
+      "name": "2 Kin",
+      "description": "2 Kings"
+    },
+    {
+      "dir": "13Chr1/data.json",
+      "name": "1 Chr",
+      "description": "1 Chronicles"
+    },
+    {
+      "dir": "14Chr2/data.json",
+      "name": "2 Chr",
+      "description": "2 Chronicles"
+    },
+    {
+      "dir": "15Ez/data.json",
+      "name": "Ez",
+      "description": "Ezra"
+    },
+    {
+      "dir": "16Neh/data.json",
+      "name": "Neh",
+      "description": "Nehemiah"
+    },
+    {
+      "dir": "17Tob/data.json",
+      "name": "Tob",
+      "description": "Tobit"
+    },
+    {
+      "dir": "18Jdt/data.json",
+      "name": "Jdt",
+      "description": "Judith"
+    },
+    {
+      "dir": "19Est/data.json",
+      "name": "Est",
+      "description": "Esther"
+    },
+    {
+      "dir": "20Macc1/data.json",
+      "name": "1 Macc",
+      "description": "1 Maccabees"
+    },
+    {
+      "dir": "21Macc2/data.json",
+      "name": "2 Macc",
+      "description": "2 Maccabees"
+    },
+    {
+      "dir": "22Job/data.json",
+      "name": "Job",
+      "description": "Job"
+    },
+    {
+      "dir": "23Ps/data.json",
+      "name": "Ps",
+      "description": "Psalms"
+    },
+    {
+      "dir": "24Prov/data.json",
+      "name": "Prov",
+      "description": "Proverbs"
+    },
+    {
+      "dir": "25Ecc/data.json",
+      "name": "Ecc",
+      "description": "Ecclesiastes"
+    },
+    {
+      "dir": "26Song/data.json",
+      "name": "Song",
+      "description": "Song of Solomon"
+    },
+    {
+      "dir": "27Cant/data.json",
+      "name": "Cant",
+      "description": "Canticles"
+    },
+    {
+      "dir": "28Wis/data.json",
+      "name": "Wis",
+      "description": "Wisdom"
+    },
+    {
+      "dir": "29Sir/data.json",
+      "name": "Sir",
+      "description": "Sirach"
+    },
+    {
+      "dir": "30Is/data.json",
+      "name": "Is",
+      "description": "Isaiah"
+    },
+    {
+      "dir": "31Jer/data.json",
+      "name": "Jer",
+      "description": "Jeremiah"
+    },
+    {
+      "dir": "32Lam/data.json",
+      "name": "Lam",
+      "description": "Lamentations"
+    },
+    {
+      "dir": "33Bar/data.json",
+      "name": "Bar",
+      "description": "Baruch"
+    },
+    {
+      "dir": "34Ezk/data.json",
+      "name": "Ezk",
+      "description": "Ezekial"
+    },
+    {
+      "dir": "35Dan/data.json",
+      "name": "Dan",
+      "description": "Daniel"
+    },
+    {
+      "dir": "36Hos/data.json",
+      "name": "Hos",
+      "description": "Hosea"
+    },
+    {
+      "dir": "37Jl/data.json",
+      "name": "Jl",
+      "description": "Joel"
+    },
+    {
+      "dir": "38Am/data.json",
+      "name": "Am",
+      "description": "Amos"
+    },
+    {
+      "dir": "39Jnh/data.json",
+      "name": "Jnh",
+      "description": "Jonah"
+    },
+    {
+      "dir": "40Mc/data.json",
+      "name": "Mc",
+      "description": "Micah"
+    },
+    {
+      "dir": "41Na/data.json",
+      "name": "Na",
+      "description": "Nahum"
+    },
+    {
+      "dir": "42Hab/data.json",
+      "name": "Hab",
+      "description": "Habakkuk"
+    },
+    {
+      "dir": "43Zp/data.json",
+      "name": "Zp",
+      "description": "Zephaniah"
+    },
+    {
+      "dir": "44Hg/data.json",
+      "name": "Hg",
+      "description": "Haggai"
+    },
+    {
+      "dir": "45Zc/data.json",
+      "name": "Zc",
+      "description": "Zechariah"
+    },
+    {
+      "dir": "46Ml/data.json",
+      "name": "Ml",
+      "description": "Malachi"
+    }
+  ]
+}

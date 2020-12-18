@@ -2,18 +2,23 @@
   "meta": {
     "type": "book",
     "url": "book/en-EN/KingJamesBible/",
-    "name": "",
+    "name": "Testaments",
     "hidden": false,
     "finished": false,
     "exclusive": false,
-	"status": "maintenance",
+	"status": "visible",
 	"contains": "folder"
   },
   "data": [
     {
-      "dir": "",
-      "name": "",
-      "description": ""
+      "dir": "OldTestament/data.json",
+      "name": "Old Testament",
+      "description": "Krisztus születése előtti evangéliumok."
+    },
+    {
+      "dir": "NewTestament/data.json",
+      "name": "New Testament",
+      "description": "Krisztus születése utáni evangéliumok."
     }
   ]
 }

@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "book/hu-HU/Karoli2014/OldTestament/3Lev/",
+    "name": "Chapters",
+	"status": "visible",
+	"contains": "text"
+  },
+  "data": [
+    {
+      "dir": "3Lev_1/data.json",
+      "name": "Chapter 1",
+      "description": ""
+    },
+    {
+      "dir": "3Lev_2/data.json",
+      "name": "Chapter 2",
+      "description": ""
+    },
+    {
+      "dir": "3Lev_3/data.json",
+      "name": "Chapter 3",
+      "description": ""
+    },
+    {
+      "dir": "3Lev_4/data.json",
+      "name": "Chapter 4",
+      "description": ""
+    },
+    {
+      "dir": "3Lev_5/data.json",
+      "name": "Chapter 5",
+      "description": ""
+    },
+    {
+      "dir": "3Lev_6/data.json",
+      "name": "Chapter 6",
+      "description": ""
+    },
+    {
+      "dir": "3Lev_7/data.json",
+      "name": "Chapter 7",
+      "description": ""
+    },
+    {
+      "dir": "3Lev_8/data.json",
+      "name": "Chapter 8",
+      "description": ""
+    },
+    {
+      "dir": "3Lev_9/data.json",
+      "name": "Chapter 9",
+      "description": ""
+    },
+    {
+      "dir": "3Lev_10/data.json",
+      "name": "Chapter 10",
+      "description": ""
+    },
+    {
+      "dir": "3Lev_11/data.json",
+      "name": "Chapter 11",
+      "description": ""
+    },
+    {
+      "dir": "3Lev_12/data.json",
+      "name": "Chapter 12",
+      "description": ""
+    },
+    {
+      "dir": "3Lev_13/data.json",
+      "name": "Chapter 13",
+      "description": ""
+    },
+    {
+      "dir": "3Lev_14/data.json",
+      "name": "Chapter 14",
+      "description": ""
+    },
+    {
+      "dir": "3Lev_15/data.json",
+      "name": "Chapter 15",
+      "description": ""
+    },
+    {
+      "dir": "3Lev_16/data.json",
+      "name": "Chapter 16",
+      "description": ""
+    },
+    {
+      "dir": "3Lev_17/data.json",
+      "name": "Chapter 17",
+      "description": ""
+    },
+    {
+      "dir": "3Lev_18/data.json",
+      "name": "Chapter 18",
+      "description": ""
+    },
+    {
+      "dir": "3Lev_19/data.json",
+      "name": "Chapter 19",
+      "description": ""
+    },
+    {
+      "dir": "3Lev_20/data.json",
+      "name": "Chapter 20",
+      "description": ""
+    },
+    {
+      "dir": "3Lev_21/data.json",
+      "name": "Chapter 21",
+      "description": ""
+    },
+    {
+      "dir": "3Lev_22/data.json",
+      "name": "Chapter 22",
+      "description": ""
+    },
+    {
+      "dir": "3Lev_23/data.json",
+      "name": "Chapter 23",
+      "description": ""
+    },
+    {
+      "dir": "3Lev_24/data.json",
+      "name": "Chapter 24",
+      "description": ""
+    },
+    {
+      "dir": "3Lev_25/data.json",
+      "name": "Chapter 25",
+      "description": ""
+    },
+    {
+      "dir": "3Lev_26/data.json",
+      "name": "Chapter 26",
+      "description": ""
+    },
+    {
+      "dir": "3Lev_27/data.json",
+      "name": "Chapter 27",
+      "description": ""
+    }
+  ]
+}

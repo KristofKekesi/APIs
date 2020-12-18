@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "book/hu-HU/Karoli2014/UjSzovetseg/5ApCsel/",
+    "name": "Fejezetek",
+	"status": "visible",
+	"contains": "text"
+  },
+  "data": [
+    {
+      "dir": "5ApCsel_1/data.json",
+      "name": "1. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "5ApCsel_2/data.json",
+      "name": "2. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "5ApCsel_3/data.json",
+      "name": "3. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "5ApCsel_4/data.json",
+      "name": "4. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "5ApCsel_5/data.json",
+      "name": "5. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "5ApCsel_6/data.json",
+      "name": "6. Fejezet",
+      "description": ""
+    },
+    {"dir": "5ApCsel_7/data.json",
+      "name": "7. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "5ApCsel_8/data.json",
+      "name": "8. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "5ApCsel_9/data.json",
+      "name": "9. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "5ApCsel_10/data.json",
+      "name": "10. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "5ApCsel_11/data.json",
+      "name": "11. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "5ApCsel_12/data.json",
+      "name": "12. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "5ApCsel_13/data.json",
+      "name": "13. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "5ApCsel_14/data.json",
+      "name": "14. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "5ApCsel_15/data.json",
+      "name": "15. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "5ApCsel_16/data.json",
+      "name": "16. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "5ApCsel_17/data.json",
+      "name": "17. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "5ApCsel_18/data.json",
+      "name": "18. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "5ApCsel_19/data.json",
+      "name": "19. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "5ApCsel_20/data.json",
+      "name": "20. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "5ApCsel_21/data.json",
+      "name": "21. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "5ApCsel_22/data.json",
+      "name": "22. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "5ApCsel_23/data.json",
+      "name": "23. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "5ApCsel_24/data.json",
+      "name": "24. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "5ApCsel_25/data.json",
+      "name": "25. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "5ApCsel_26/data.json",
+      "name": "26. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "5ApCsel_27/data.json",
+      "name": "27. Fejezet",
+      "description": ""
+    },
+    {
+      "dir": "5ApCsel_28/data.json",
+      "name": "28. Fejezet",
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "book/hu-HU/Karoli2014/OldTestament/2Ex/",
+    "name": "Chapters",
+	"status": "visible",
+	"contains": "text"
+  },
+  "data":[
+  {
+    "dir": "2Ex_1/data.json",
+    "name": "Chapter 1",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_2/data.json",
+    "name": "Chapter 2",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_3/data.json",
+    "name": "Chapter 3",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_4/data.json",
+    "name": "Chapter 4",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_5/data.json",
+    "name": "Chapter 5",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_6/data.json",
+    "name": "Chapter 6",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_7/data.json",
+    "name": "Chapter 7",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_8/data.json",
+    "name": "Chapter 8",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_9/data.json",
+    "name": "Chapter 9",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_10/data.json",
+    "name": "Chapter 10",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_11/data.json",
+    "name": "Chapter 11",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_12/data.json",
+    "name": "Chapter 12: Fejezet",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_13/data.json",
+    "name": "Chapter 13",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_14/data.json",
+    "name": "Chapter 14",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_15/data.json",
+    "name": "Chapter 15",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_16/data.json",
+    "name": "Chapter 16",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_17/data.json",
+    "name": "Chapter 17",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_18/data.json",
+    "name": "Chapter 18",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_19/data.json",
+    "name": "Chapter 19",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_20/data.json",
+    "name": "Chapter 20",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_21/data.json",
+    "name": "Chapter 21",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_22/data.json",
+    "name": "Chapter 22",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_23/data.json",
+    "name": "Chapter 23",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_24/data.json",
+    "name": "Chapter 24",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_25/data.json",
+    "name": "Chapter 25",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_26/data.json",
+    "name": "Chapter 26",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_27/data.json",
+    "name": "Chapter 27",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_28/data.json",
+    "name": "Chapter 28",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_29/data.json",
+    "name": "Chapter 29",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_30/data.json",
+    "name": "Chapter 30",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_31/data.json",
+    "name": "Chapter 31",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_32/data.json",
+    "name": "Chapter 32",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_33/data.json",
+    "name": "Chapter 33",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_34/data.json",
+    "name": "Chapter 34",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_35/data.json",
+    "name": "Chapter 35",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_36/data.json",
+    "name": "Chapter 36",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_37/data.json",
+    "name": "Chapter 37",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_38/data.json",
+    "name": "Chapter 38",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_39/data.json",
+    "name": "Chapter 39",
+    "description": ""
+  },
+  {
+    "dir": "2Ex_40/data.json",
+    "name": "Chapter 40",
+    "description": ""
+  }
+]}
