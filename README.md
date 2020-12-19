@@ -4,7 +4,11 @@
 
 <img src="https://img.shields.io/badge/Contributors-2-blue.svg" alt=""> [![Discord](https://img.shields.io/discord/639186082214445116.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/7URAMuc)
 
-# Preacher
+<p align="center">
+   <img width="128" align="center" src="Preacher/preacher-api.svg"></p>
+<h1 align="center">
+  Preacher API
+</h1>
 [Documentation](https://github.com/KristofKekesi/APIs/blob/master/Preacher/README.md)
 
 ## Contributors <img src="https://img.shields.io/badge/2-blue.svg" alt="">
