@@ -1,50 +1,50 @@
 {
   "meta": {
     "type": "folder",
-    "url": "book/hu-HU/Karoli2014/OSzovetseg/22Enekek/",
-    "name": "Fejezetek",
+    "url": "book/en-EN/KingJamesBible/OSzovetseg/24Prov/",
+    "name": "Chapters",
 	"status": "visible",
 	"contains": "text"
   },
   "data": [
   {
-    "dir": "22Enekek_1/data.json",
-    "name": "1. Fejezet",
+    "dir": "24Prov_1/data.json",
+    "name": "Chapter 1",
 	"description": ""
   },
   {
-    "dir": "22Enekek_2/data.json",
-    "name": "2. Fejezet",
+    "dir": "24Prov_2/data.json",
+    "name": "Chapter 2",
 	"description": ""
   },
   {
-    "dir": "22Enekek_3/data.json",
-    "name": "3. Fejezet",
+    "dir": "24Prov_3/data.json",
+    "name": "Chapter 3",
 	"description": ""
   },
   {
-    "dir": "22Enekek_4/data.json",
-    "name": "4. Fejezet",
+    "dir": "24Prov_4/data.json",
+    "name": "Chapter 4",
 	"description": ""
   },
   {
-    "dir": "22Enekek_5/data.json",
-    "name": "5. Fejezet",
+    "dir": "24Prov_5/data.json",
+    "name": "Chapter 5",
 	"description": ""
   },
   {
-    "dir": "22Enekek_6/data.json",
-    "name": "6. Fejezet",
+    "dir": "24Prov_6/data.json",
+    "name": "Chapter 6",
 	"description": ""
   },
   {
-    "dir": "22Enekek_7/data.json",
-    "name": "7. Fejezet",
+    "dir": "24Prov_7/data.json",
+    "name": "Chapter 7",
 	"description": ""
   },
   {
-    "dir": "22Enekek_8/data.json",
-    "name": "8. Fejezet",
+    "dir": "24Prov_8/data.json",
+    "name": "Chapter 8",
 	"description": ""
   }
 ]

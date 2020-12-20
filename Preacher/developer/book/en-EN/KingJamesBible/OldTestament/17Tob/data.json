@@ -1,80 +1,75 @@
 {
   "meta": {
     "type": "folder",
-    "url": "book/hu-HU/Karoli2014/OSzovetseg/30Is/",
+    "url": "book/en-EN/KingJamesBible/OldTestament/17Tob/",
     "name": "Chapters",
 	"status": "visible",
 	"contains": "text"
   },
   "data": [
     {
-      "dir": "30Is_1/data.json",
+      "dir": "16Tob_1/data.json",
       "name": "Chapter 1",
       "description": ""
     },
     {
-      "dir": "30Is_2/data.json",
+      "dir": "16Tob_2/data.json",
       "name": "Chapter 2",
       "description": ""
     },
     {
-      "dir": "30Is_3/data.json",
+      "dir": "16Tob_3/data.json",
       "name": "Chapter 3",
       "description": ""
     },
     {
-      "dir": "30Is_4/data.json",
+      "dir": "16Tob_4/data.json",
       "name": "Chapter 4",
       "description": ""
     },
     {
-      "dir": "30Is_5/data.json",
+      "dir": "16Tob_5/data.json",
       "name": "Chapter 5",
       "description": ""
     },
     {
-      "dir": "30Is_6/data.json",
+      "dir": "16Tob_6/data.json",
       "name": "Chapter 6",
       "description": ""
     },
     {
-      "dir": "30Is_7/data.json",
+      "dir": "16Tob_7/data.json",
       "name": "Chapter 7",
       "description": ""
     },
     {
-      "dir": "30Is_8/data.json",
+      "dir": "16Tob_8/data.json",
       "name": "Chapter 8",
       "description": ""
     },
     {
-      "dir": "30Is_9/data.json",
+      "dir": "16Tob_9/data.json",
       "name": "Chapter 9",
       "description": ""
     },
     {
-      "dir": "30Is_10/data.json",
+      "dir": "16Tob_10/data.json",
       "name": "Chapter 10",
       "description": ""
     },
     {
-      "dir": "30Is_11/data.json",
+      "dir": "16Tob_11/data.json",
       "name": "Chapter 11",
       "description": ""
     },
     {
-      "dir": "30Is_12/data.json",
+      "dir": "16Tob_12/data.json",
       "name": "Chapter 12",
       "description": ""
     },
     {
-      "dir": "30Is_13/data.json",
+      "dir": "16Tob_13/data.json",
       "name": "Chapter 13",
-      "description": ""
-    },
-    {
-      "dir": "30Is_14/data.json",
-      "name": "Chapter 14",
       "description": ""
     }
   ]

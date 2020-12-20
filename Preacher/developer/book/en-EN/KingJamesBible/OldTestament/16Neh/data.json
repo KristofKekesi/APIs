@@ -1,75 +1,75 @@
 {
   "meta": {
     "type": "folder",
-    "url": "book/hu-HU/Karoli2014/OSzovetseg/16Neh/",
-    "name": "Fejezetek",
+    "url": "book/en-EN/KingJamesBible/OldTestament/16Neh/",
+    "name": "Chapters",
 	"status": "visible",
 	"contains": "text"
   },
   "data": [
     {
       "dir": "16Neh_1/data.json",
-      "name": "1. Fejezet",
+      "name": "Chapter 1",
       "description": ""
     },
     {
       "dir": "16Neh_2/data.json",
-      "name": "2. Fejezet",
+      "name": "Chapter 2",
       "description": ""
     },
     {
       "dir": "16Neh_3/data.json",
-      "name": "3. Fejezet",
+      "name": "Chapter 3",
       "description": ""
     },
     {
       "dir": "16Neh_4/data.json",
-      "name": "4. Fejezet",
+      "name": "Chapter 4",
       "description": ""
     },
     {
       "dir": "16Neh_5/data.json",
-      "name": "5. Fejezet",
+      "name": "Chapter 5",
       "description": ""
     },
     {
       "dir": "16Neh_6/data.json",
-      "name": "6. Fejezet",
+      "name": "Chapter 6",
       "description": ""
     },
     {
       "dir": "16Neh_7/data.json",
-      "name": "7. Fejezet",
+      "name": "Chapter 7",
       "description": ""
     },
     {
       "dir": "16Neh_8/data.json",
-      "name": "8. Fejezet",
+      "name": "Chapter 8",
       "description": ""
     },
     {
       "dir": "16Neh_9/data.json",
-      "name": "9. Fejezet",
+      "name": "Chapter 9",
       "description": ""
     },
     {
       "dir": "16Neh_10/data.json",
-      "name": "10. Fejezet",
+      "name": "Chapter 10",
       "description": ""
     },
     {
       "dir": "16Neh_11/data.json",
-      "name": "11. Fejezet",
+      "name": "Chapter 11",
       "description": ""
     },
     {
       "dir": "16Neh_12/data.json",
-      "name": "12. Fejezet",
+      "name": "Chapter 12",
       "description": ""
     },
     {
       "dir": "16Neh_13/data.json",
-      "name": "13. Fejezet",
+      "name": "Chapter 13",
       "description": ""
     }
   ]

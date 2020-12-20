@@ -1,155 +1,156 @@
 {
   "meta": {
     "type": "folder",
-    "url": "book/hu-HU/Károli2014/OSzovetseg/13Kron1/",
+    "url": "book/en-EN/KingJamesBible/OldTestament/13Chr1/",
 	"status": "visible",
-	"name": "Fejezetek"
+	"name": "Chapters",
+	"contains": "text"
   },
   "data": [
     {
-      "dir": "13Kron1_1/data.json",
-      "name": "1. Fejezet",
+      "dir": "13Chr1_1/data.json",
+      "name": "Chapter 1",
 	  "description": ""
     },
     {
-      "dir": "13Kron1_2/data.json",
-      "name": "2. Fejezet",
+      "dir": "13Chr1_2/data.json",
+      "name": "Chapter 2",
 	  "description": ""
     },
     {
-      "dir": "13Kron1_3/data.json",
-      "name": "3. Fejezet",
+      "dir": "13Chr1_3/data.json",
+      "name": "Chapter 3",
 	  "description": ""
     },
     {
-      "dir": "13Kron1_4/data.json",
-      "name": "4. Fejezet",
+      "dir": "13Chr1_4/data.json",
+      "name": "Chapter 4",
 	  "description": ""
     },
     {
-      "dir": "13Kron1_5/data.json",
-      "name": "5. Fejezet",
+      "dir": "13Chr1_5/data.json",
+      "name": "Chapter 5",
 	  "description": ""
     },
     {
-      "dir": "13Kron1_6/data.json",
-      "name": "6. Fejezet",
+      "dir": "13Chr1_6/data.json",
+      "name": "Chapter 6",
 	  "description": ""
     },
     {
-      "dir": "13Kron1_7/data.json",
-      "name": "7. Fejezet",
+      "dir": "13Chr1_7/data.json",
+      "name": "Chapter 7",
 	  "description": ""
     },
     {
-      "dir": "13Kron1_8/data.json",
-      "name": "8. Fejezet",
+      "dir": "13Chr1_8/data.json",
+      "name": "Chapter 8",
 	  "description": ""
     },
     {
-      "dir": "13Kron1_9/data.json",
-      "name": "9. Fejezet",
+      "dir": "13Chr1_9/data.json",
+      "name": "Chapter 9",
 	  "description": ""
     },
     {
-      "dir": "13Kron1_10/data.json",
-      "name": "10. Fejezet",
+      "dir": "13Chr1_10/data.json",
+      "name": "Chapter 10",
 	  "description": ""
     },
     {
-      "dir": "13Kron1_11/data.json",
-      "name": "11. Fejezet",
+      "dir": "13Chr1_11/data.json",
+      "name": "Chapter 11",
 	  "description": ""
     },
     {
-      "dir": "13Kron1_12/data.json",
-      "name": "12. Fejezet",
+      "dir": "13Chr1_12/data.json",
+      "name": "Chapter 12",
 	  "description": ""
     },
     {
-      "dir": "13Kron1_13/data.json",
-      "name": "13. Fejezet",
+      "dir": "13Chr1_13/data.json",
+      "name": "Chapter 13",
 	  "description": ""
     },
     {
-      "dir": "13Kron1_14/data.json",
-      "name": "14. Fejezet",
+      "dir": "13Chr1_14/data.json",
+      "name": "Chapter 14",
 	  "description": ""
     },
     {
-      "dir": "13Kron1_15/data.json",
-      "name": "15. Fejezet",
+      "dir": "13Chr1_15/data.json",
+      "name": "Chapter 15",
 	  "description": ""
     },
     {
-      "dir": "13Kron1_16/data.json",
-      "name": "16. Fejezet",
+      "dir": "13Chr1_16/data.json",
+      "name": "Chapter 16",
 	  "description": ""
     },
     {
-      "dir": "13Kron1_17/data.json",
-      "name": "17. Fejezet",
+      "dir": "13Chr1_17/data.json",
+      "name": "Chapter 17",
 	  "description": ""
     },
     {
 
-      "dir": "13Kron1_18/data.json",
-      "name": "18. Fejezet",
+      "dir": "13Chr1_18/data.json",
+      "name": "Chapter 18",
 	  "description": ""
     },
     {
-      "dir": "13Kron1_19/data.json",
-      "name": "19. Fejezet",
+      "dir": "13Chr1_19/data.json",
+      "name": "Chapter 19",
 	  "description": ""
     },
     {
-      "dir": "13Kron1_20/data.json",
-      "name": "20. Fejezet",
+      "dir": "13Chr1_20/data.json",
+      "name": "Chapter 20",
 	  "description": ""
     },
     {
-      "dir": "13Kron1_21/data.json",
-      "name": "21. Fejezet",
+      "dir": "13Chr1_21/data.json",
+      "name": "Chapter 21",
 	  "description": ""
     },
     {
-      "dir": "13Kron1_22/data.json",
-      "name": "22. Fejezet",
+      "dir": "13Chr1_22/data.json",
+      "name": "Chapter 22",
 	  "description": ""
     },
     {
-      "dir": "13Kron1_23/data.json",
-      "name": "23. Fejezet",
+      "dir": "13Chr1_23/data.json",
+      "name": "Chapter 23",
 	  "description": ""
     },
     {
-      "dir": "13Kron1_24/data.json",
-      "name": "24. Fejezet",
+      "dir": "13Chr1_24/data.json",
+      "name": "Chapter 24",
 	  "description": ""
     },
     {
-      "dir": "13Kron1_25/data.json",
-      "name": "25. Fejezet",
+      "dir": "13Chr1_25/data.json",
+      "name": "Chapter 25",
 	  "description": ""
     },
     {
-      "dir": "13Kron1_26/data.json",
-      "name": "26. Fejezet",
+      "dir": "13Chr1_26/data.json",
+      "name": "Chapter 26",
 	  "description": ""
     },
     {
-      "dir": "13Kron1_27/data.json",
-      "name": "27. Fejezet",
+      "dir": "13Chr1_27/data.json",
+      "name": "Chapter 27",
 	  "description": ""
     },
     {
-      "dir": "13Kron1_28/data.json",
-      "name": "28. Fejezet",
+      "dir": "13Chr1_28/data.json",
+      "name": "Chapter 28",
 	  "description": ""
     },
     {
-      "dir": "13Kron1_29/data.json",
-      "name": "29. Fejezet",
+      "dir": "13Chr1_29/data.json",
+      "name": "Chapter 29",
 	  "description": ""
     }
   ]

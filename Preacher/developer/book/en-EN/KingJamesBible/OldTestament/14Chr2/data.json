@@ -1,191 +1,191 @@
 {
   "meta": {
     "type": "folder",
-    "url": "book/hu-HU/Karoli2014/OSzovetseg/14Kron2/",
-    "name": "Fejezetek",
+    "url": "book/en-EN/KingJamesBible/OldTestament/14Chr2/",
+    "name": "Chapters",
 	"status": "visible",
 	"contains": "text"
   },
   "data": [
     {
-      "dir": "14Krón2_1/data.json",
-      "name": "1. Fejezet",
+      "dir": "14Chr2_1/data.json",
+      "name": "Chapter 1",
       "description": ""
     },
     {
-      "dir": "14Krón2_2/data.json",
-      "name": "2. Fejezet",
+      "dir": "14Chr2_2/data.json",
+      "name": "Chapter 2",
       "description": ""
     },
     {
-      "dir": "14Krón2_3/data.json",
-      "name": "3. Fejezetek",
+      "dir": "14Chr2_3/data.json",
+      "name": "Chapter 3ek",
       "description": ""
     },
     {
-      "dir": "14Krón2_4/data.json",
-      "name": "4. Fejezet",
+      "dir": "14Chr2_4/data.json",
+      "name": "Chapter 4",
       "description": ""
     },
     {
-      "dir": "14Krón2_5/data.json",
-      "name": "5. Fejezet",
+      "dir": "14Chr2_5/data.json",
+      "name": "Chapter 5",
       "description": ""
     },
     {
-      "dir": "14Krón2_6/data.json",
-      "name": "6. Fejezet",
+      "dir": "14Chr2_6/data.json",
+      "name": "Chapter 6",
       "description": ""
     },
     {
-      "dir": "14Krón2_7/data.json",
-      "name": "7. Fejezet",
+      "dir": "14Chr2_7/data.json",
+      "name": "Chapter 7",
       "description": ""
     },
     {
-      "dir": "14Krón2_8/data.json",
-      "name": "8. Fejezet",
+      "dir": "14Chr2_8/data.json",
+      "name": "Chapter 8",
       "description": ""
     },
     {
-      "dir": "14Krón2_9/data.json",
-      "name": "9. Fejezet",
+      "dir": "14Chr2_9/data.json",
+      "name": "Chapter 9",
       "description": ""
     },
     {
-      "dir": "14Krón2_10/data.json",
-      "name": "10. Fejezet",
+      "dir": "14Chr2_10/data.json",
+      "name": "Chapter 10",
       "description": ""
     },
     {
-      "dir": "14Krón2_11/data.json",
-      "name": "11. Fejezet",
+      "dir": "14Chr2_11/data.json",
+      "name": "Chapter 11",
       "description": ""
     },
     {
-      "dir": "14Krón2_12/data.json",
-      "name": "12. Fejezet",
+      "dir": "14Chr2_12/data.json",
+      "name": "Chapter 12",
       "description": ""
     },
     {
-      "dir": "14Krón2_13/data.json",
-      "name": "13. Fejezet",
+      "dir": "14Chr2_13/data.json",
+      "name": "Chapter 13",
       "description": ""
     },
     {
-      "dir": "14Krón2_14/data.json",
-      "name": "14. Fejezet",
+      "dir": "14Chr2_14/data.json",
+      "name": "Chapter 14",
       "description": ""
     },
     {
-      "dir": "14Krón2_15/data.json",
-      "name": "15. Fejezet",
+      "dir": "14Chr2_15/data.json",
+      "name": "Chapter 15",
       "description": ""
     },
     {
 
-      "dir": "14Krón2_16/data.json",
-      "name": "16. Fejezet",
+      "dir": "14Chr2_16/data.json",
+      "name": "Chapter 16",
       "description": ""
     },
     {
-      "dir": "14Krón2_17/data.json",
-      "name": "17. Fejezet",
+      "dir": "14Chr2_17/data.json",
+      "name": "Chapter 17",
       "description": ""
     },
     {
-      "dir": "14Krón2_18/data.json",
-      "name": "18. Fejezet",
+      "dir": "14Chr2_18/data.json",
+      "name": "Chapter 18",
       "description": ""
     },
     {
-      "dir": "14Krón2_19/data.json",
-      "name": "19. Fejezet",
+      "dir": "14Chr2_19/data.json",
+      "name": "Chapter 19",
       "description": ""
     },
     {
-      "dir": "14Krón2_20",
-      "name": "20. Fejezet",
+      "dir": "14Chr2_20",
+      "name": "Chapter 20",
       "description": ""
     },
     {
-      "dir": "14Krón2_21",
-      "name": "21. Fejezet",
+      "dir": "14Chr2_21",
+      "name": "Chapter 21",
       "description": ""
     },
     {
-      "dir": "14Krón2_22",
-      "name": "22. Fejezet",
+      "dir": "14Chr2_22",
+      "name": "Chapter 22",
       "description": ""
     },
     {
-      "dir": "14Krón2_23",
-      "name": "23. Fejezet",
+      "dir": "14Chr2_23",
+      "name": "Chapter 23",
       "description": ""
     },
     {
-      "dir": "14Krón2_24",
-      "name": "24. Fejezet",
+      "dir": "14Chr2_24",
+      "name": "Chapter 24",
       "description": ""
     },
     {
-      "dir": "14Krón2_25",
-      "name": "25. Fejezet",
+      "dir": "14Chr2_25",
+      "name": "Chapter 25",
       "description": ""
     },
     {
-      "dir": "14Krón2_26",
-      "name": "26. Fejezet",
+      "dir": "14Chr2_26",
+      "name": "Chapter 26",
       "description": ""
     },
     {
-      "dir": "14Krón2_27",
-      "name": "27. Fejezet",
+      "dir": "14Chr2_27",
+      "name": "Chapter 27",
       "description": ""
     },
     {
-      "dir": "14Krón2_28",
-      "name": "28. Fejezet",
+      "dir": "14Chr2_28",
+      "name": "Chapter 28",
       "description": ""
     },
     {
-      "dir": "14Krón2_29",
-      "name": "29. Fejezet",
+      "dir": "14Chr2_29",
+      "name": "Chapter 29",
       "description": ""
     },
     {
-      "dir": "14Krón2_30",
-      "name": "30. Fejezet",
+      "dir": "14Chr2_30",
+      "name": "Chapter 30",
       "description": ""
     },
     {
-      "dir": "14Krón2_31",
-      "name": "31. Fejezet",
+      "dir": "14Chr2_31",
+      "name": "Chapter 31",
       "description": ""
     },
     {
-      "dir": "14Krón2_32",
-      "name": "32. Fejezet",
+      "dir": "14Chr2_32",
+      "name": "Chapter 32",
       "description": ""
     },
     {
-      "dir": "14Krón2_33",
-      "name": "33. Fejezet",
+      "dir": "14Chr2_33",
+      "name": "Chapter 33",
       "description": ""
     },
     {
-      "dir": "14Krón2_34",
-      "name": "34. Fejezet",
+      "dir": "14Chr2_34",
+      "name": "Chapter 34",
       "description": ""
     },
     {
-      "dir": "14Krón2_35",
-      "name": "35. Fejezet",
+      "dir": "14Chr2_35",
+      "name": "Chapter 35",
       "description": ""
     },
     {
-      "dir": "14Krón2_36",
-      "name": "36. Fejezet",
+      "dir": "14Chr2_36",
+      "name": "Chapter 36",
       "description": ""
     }
   ]

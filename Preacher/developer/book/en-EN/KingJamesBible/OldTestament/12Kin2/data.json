@@ -1,135 +1,135 @@
 {
   "meta": {
     "type": "folder",
-    "url": "book/hu-HU/Karoli2014/OSzovetseg/12Kir2/",
-    "name": "Fejezetek",
+    "url": "book/en-EN/KingJamesBible/OldTestament/12Kin2/",
+    "name": "Chapters",
 	"status": "visible",
 	"contains": "text"
   },
   "data": [
     {
-      "dir": "12Kir2_1/data.json",
-      "name": "1. Fejezet",
+      "dir": "12Kin2_1/data.json",
+      "name": "Chapter1",
       "description": ""
     },
     {
-      "dir": "12Kir2_2/data.json",
-      "name": "2. Fejezet",
+      "dir": "12Kin2_2/data.json",
+      "name": "Chapter2",
       "description": ""
     },
     {
-      "dir": "12Kir2_3/data.json",
-      "name": "3",
+      "dir": "12Kin2_3/data.json",
+      "name": "Chapter3",
 	  "description": ""
     },
     {
-      "dir": "12Kir2_4/data.json",
-      "name": "4. Fejezet",
+      "dir": "12Kin2_4/data.json",
+      "name": "Chapter4",
       "description": ""
     },
     {
-      "dir": "12Kir2_5/data.json",
-      "name": "5. Fejezet",
+      "dir": "12Kin2_5/data.json",
+      "name": "Chapter5",
       "description": ""
     },
     {
-      "dir": "12Kir2_6/data.json",
-      "name": "6. Fejezet",
+      "dir": "12Kin2_6/data.json",
+      "name": "Chapter6",
       "description": ""
     },
     {
-      "dir": "12Kir2_7/data.json",
-      "name": "7. Fejezet",
+      "dir": "12Kin2_7/data.json",
+      "name": "Chapter7",
       "description": ""
     },
     {
-      "dir": "12Kir2_8/data.json",
-      "name": "8. Fejezet",
+      "dir": "12Kin2_8/data.json",
+      "name": "Chapter8",
       "description": ""
     },
     {
-      "dir": "12Kir2_9/data.json",
-      "name": "9. Fejezet",
+      "dir": "12Kin2_9/data.json",
+      "name": "Chapter9",
       "description": ""
     },
     {
-      "dir": "12Kir2_10/data.json",
-      "name": "10. Fejezet",
+      "dir": "12Kin2_10/data.json",
+      "name": "Chapter10",
       "description": ""
     },
     {
-      "dir": "12Kir2_11/data.json",
-      "name": "11. Fejezet",
+      "dir": "12Kin2_11/data.json",
+      "name": "Chapter11",
       "description": ""
     },
     {
-      "dir": "12Kir2_12/data.json",
-      "name": "12. Fejezet",
+      "dir": "12Kin2_12/data.json",
+      "name": "Chapter12",
       "description": ""
     },
     {
-      "dir": "12Kir2_13/data.json",
-      "name": "13. Fejezet",
+      "dir": "12Kin2_13/data.json",
+      "name": "Chapter13",
       "description": ""
     },
     {
-      "dir": "12Kir2_14/data.json",
-      "name": "14. Fejezet",
+      "dir": "12Kin2_14/data.json",
+      "name": "Chapter14",
       "description": ""
     },
     {
-      "dir": "12Kir2_15/data.json",
-      "name": "15. Fejezet",
+      "dir": "12Kin2_15/data.json",
+      "name": "Chapter15",
       "description": ""
     },
     {
-      "dir": "12Kir2_16/data.json",
-      "name": "16. Fejezet",
+      "dir": "12Kin2_16/data.json",
+      "name": "Chapter16",
       "description": ""
     },
     {
-      "dir": "12Kir2_17/data.json",
-      "name": "17. Fejezet",
+      "dir": "12Kin2_17/data.json",
+      "name": "Chapter17",
       "description": ""
     },
     {
-      "dir": "12Kir2_18/data.json",
-      "name": "18. Fejezet",
+      "dir": "12Kin2_18/data.json",
+      "name": "Chapter18",
       "description": ""
     },
     {
-      "dir": "12Kir2_19/data.json",
-      "name": "19. Fejezet",
+      "dir": "12Kin2_19/data.json",
+      "name": "Chapter19",
       "description": ""
     },
     {
-      "dir": "12Kir2_20/data.json",
-      "name": "20. Fejezet",
+      "dir": "12Kin2_20/data.json",
+      "name": "Chapter20",
       "description": ""
     },
     {
-      "dir": "12Kir2_21/data.json",
-      "name": "21. Fejezet",
+      "dir": "12Kin2_21/data.json",
+      "name": "Chapter21",
       "description": ""
     },
     {
-      "dir": "12Kir2_22/data.json",
-      "name": "22. Fejezet",
+      "dir": "12Kin2_22/data.json",
+      "name": "Chapter22",
       "description": ""
     },
     {
-      "dir": "12Kir2_23/data.json",
-      "name": "23. Fejezet",
+      "dir": "12Kin2_23/data.json",
+      "name": "Chapter23",
       "description": ""
     },
     {
-      "dir": "12Kir2_24/data.json",
-      "name": "24. Fejezet",
+      "dir": "12Kin2_24/data.json",
+      "name": "Chapter24",
       "description": ""
     },
     {
-      "dir": "12Kir2_25/data.json",
-      "name": "25. Fejezet",
+      "dir": "12Kin2_25/data.json",
+      "name": "Chapter25",
       "description": ""
     }
   ]

@@ -3,7 +3,8 @@
     "type": "folder",
     "url": "book/hu-HU/Károli2014/OSzovetseg/13Kron1/",
 	"status": "visible",
-	"name": "Fejezetek"
+	"name": "Fejezetek",
+	"contains": "text"
   },
   "data": [
     {

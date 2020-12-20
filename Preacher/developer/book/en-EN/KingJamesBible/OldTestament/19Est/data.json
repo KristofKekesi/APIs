@@ -1,60 +1,60 @@
 {
   "meta": {
     "type": "folder",
-    "url": "book/hu-HU/Karoli2014/OSzovetseg/17Eszt/",
-    "name": "Fejezetek",
+    "url": "book/en-EN/KingJamesBible/OldTestament/19Eszt/",
+    "name": "Chapters",
 	"status": "visible",
 	"contains": "text"
   },
   "data": [
     {
-      "dir": "17Eszt_1/data.json",
-      "name": "1. Fejezet",
+      "dir": "19Ezst_1/data.json",
+      "name": "Chapter 1",
       "description": ""
     },
     {
-      "dir": "17Eszt_2/data.json",
-      "name": "2. Fejezet",
+      "dir": "19Ezst_2/data.json",
+      "name": "Chapter 2",
       "description": ""
     },
     {
-      "dir": "17Eszt_3/data.json",
-      "name": "3. Fejezet",
+      "dir": "19Ezst_3/data.json",
+      "name": "Chapter 3",
       "description": ""
     },
     {
-      "dir": "17Eszt_4/data.json",
-      "name": "4. Fejezet",
+      "dir": "19Ezst_4/data.json",
+      "name": "Chapter 4",
       "description": ""
     },
     {
-      "dir": "17Eszt_5/data.json",
-      "name": "5. Fejezet",
+      "dir": "19Ezst_5/data.json",
+      "name": "Chapter 5",
       "description": ""
     },
     {
-      "dir": "17Eszt_6/data.json",
-      "name": "6. Fejezet",
+      "dir": "19Ezst_6/data.json",
+      "name": "Chapter 6",
       "description": ""
     },
     {
-      "dir": "17Eszt_7/data.json",
-      "name": "7. Fejezet",
+      "dir": "19Ezst_7/data.json",
+      "name": "Chapter 7",
       "description": ""
     },
     {
-      "dir": "17Eszt_8/data.json",
-      "name": "8. Fejezet",
+      "dir": "19Ezst_8/data.json",
+      "name": "Chapter 8",
       "description": ""
     },
     {
-      "dir": "17Eszt_9/data.json",
-      "name": "9. Fejezet",
+      "dir": "19Ezst_9/data.json",
+      "name": "Chapter 9",
       "description": ""
     },
     {
-      "dir": "17Eszt_10/data.json",
-      "name": "10. Fejezet",
+      "dir": "19Ezst_10/data.json",
+      "name": "Chapter 10",
       "description": ""
     }
   ]

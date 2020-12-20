@@ -1,35 +1,35 @@
 {
   "meta": {
     "type": "folder",
-    "url": "book/hu-HU/Karoli2014/OSzovetseg/25JSir/",
-    "name": "Fejezetek",
+    "url": "book/en-EN/KingJamesBible/OldTestament/27Cant/",
+    "name": "Chapters",
 	"status": "visible",
 	"contains": "text"
   },
   "data": [
     {
       "dir": "25JSir_1/data.json",
-      "name": "1. Fejezet",
+      "name": "Chapter 1",
       "description": ""
     },
     {
       "dir": "25JSir_2/data.json",
-      "name": "2. Fejezet",
+      "name": "Chapter 2",
       "description": ""
     },
     {
       "dir": "25JSir_3/data.json",
-      "name": "3. Fejezet",
+      "name": "Chapter 3",
       "description": ""
     },
     {
       "dir": "25JSir_4/data.json",
-      "name": "4. Fejezet",
+      "name": "Chapter 4",
       "description": ""
     },
     {
       "dir": "25JSir_5/data.json",
-      "name": "5. Fejezet",
+      "name": "Chapter 5",
       "description": ""
     }
   ]
