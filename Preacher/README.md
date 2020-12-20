@@ -1,6 +1,6 @@
 [*Back to APIs*](https://github.com/KristofKekesi/APIs#readme)
 <p align="center">
-   <img width="128" align="center" src="img/preacher-api.svg"></p>
+   <img width="128" align="center" src="preacher-api.svg"></p>
 <h1 align="center">
   Preacher API
 </h1>
