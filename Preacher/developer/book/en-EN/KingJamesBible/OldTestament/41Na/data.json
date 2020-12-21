@@ -1,30 +1,30 @@
 {
   "meta": {
     "type": "folder",
-    "url": "book/hu-HU/Karoli2014/OSzovetseg/39Mal/",
-    "name": "Fejezetek",
+    "url": "book/en-EN/KingJamesBible/OldTestament/41Na/",
+    "name": "Chapters",
 	"status": "visible",
 	"contains": "text"
   },
   "data": [
     {
-      "dir": "39Mal_1/data.json",
-      "name": "1. Fejezet",
+      "dir": "41Na_1/data.json",
+      "name": "Chapter 1",
       "description": ""
     },
     {
-      "dir": "39Mal_2/data.json",
-      "name": "2. Fejezet",
+      "dir": "41Na_2/data.json",
+      "name": "Chapter 2",
       "description": ""
     },
     {
-      "dir": "39Mal_3/data.json",
-      "name": "3. Fejezet",
+      "dir": "41Na_3/data.json",
+      "name": "Chapter 3",
       "description": ""
     },
     {
-      "dir": "39Mal_4/data.json",
-      "name": "4. Fejezet",
+      "dir": "41Na_4/data.json",
+      "name": "Chapter 4",
       "description": ""
     }
   ]

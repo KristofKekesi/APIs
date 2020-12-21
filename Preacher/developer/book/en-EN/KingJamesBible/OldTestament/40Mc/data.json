@@ -1,35 +1,35 @@
 {
   "meta": {
     "type": "folder",
-    "url": "book/hu-HU/Karoli2014/OSzovetseg/38Zak/",
-    "name": "Fejezetek",
+    "url": "book/en-EN/KingJamesBible/OldTestament/40Mc/",
+    "name": "Chapters",
 	"status": "visible",
 	"contains": "text"
   },
   "data": [
     {
-      "dir": "38Zak_1/data.json",
-      "name": "1. Fejezet",
+      "dir": "40Mc_1/data.json",
+      "name": "Chapter 1",
       "description": ""
     },
     {
-      "dir": "38Zak_2/data.json",
-      "name": "2. Fejezet",
+      "dir": "40Mc_2/data.json",
+      "name": "Chapter 2",
       "description": ""
     },
     {
-      "dir": "38Zak_3/data.json",
-      "name": "3. Fejezet",
+      "dir": "40Mc_3/data.json",
+      "name": "Chapter 3",
       "description": ""
     },
     {
-      "dir": "38Zak_4/data.json",
-      "name": "4. Fejezet",
+      "dir": "40Mc_4/data.json",
+      "name": "Chapter 4",
       "description": ""
     },
     {
-      "dir": "38Zak_5/data.json",
-      "name": "5. Fejezet",
+      "dir": "40Mc_5/data.json",
+      "name": "Chapter 5",
       "description": ""
     },
     {

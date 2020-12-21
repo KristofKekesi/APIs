@@ -1,25 +1,25 @@
 {
   "meta": {
     "type": "folder",
-    "url": "book/hu-HU/Karoli2014/OSzovetseg/29Joel/",
-    "name": "Fejezetek",
+    "url": "book/en-EN/KingJamesBible/OldTestament/31Jer/",
+    "name": "Chapters",
 	"status": "visible",
 	"contains": "text"
   },
   "data": [
   {
-    "dir": "29Joel_1/data.json",
-    "name": "1. Fejezet",
+    "dir": "31Jer_1/data.json",
+    "name": "Chapter 1",
 	"description": ""
   },
   {
-    "dir": "29Joel_2/data.json",
-    "name": "2. Fejezet",
+    "dir": "31Jer_2/data.json",
+    "name": "Chapter 2",
 	"description": ""
   },
   {
-    "dir": "29Joel_3/data.json",
-    "name": "3. Fejezet",
+    "dir": "31Jer_3/data.json",
+    "name": "Chapter 3",
 	"description": ""
   }
   ]

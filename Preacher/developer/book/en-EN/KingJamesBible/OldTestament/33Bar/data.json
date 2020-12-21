@@ -1,15 +1,15 @@
 {
   "meta": {
     "type": "folder",
-    "url": "book/hu-HU/Karoli2014/OSzovetseg/31Abd/",
-    "name": "Fejezetek",
+    "url": "book/en-EN/KingJamesBible/OldTestament/33Bar/",
+    "name": "Chapters",
 	"status": "visible",
 	"contains": "text"
   },
   "data": [
     {
-      "dir": "31Abd_1/data.json",
-      "name": "1. Fejezet",
+      "dir": "33Bar_1/data.json",
+      "name": "Chapter 1. Fejezet",
       "description": ""
     }
   ]

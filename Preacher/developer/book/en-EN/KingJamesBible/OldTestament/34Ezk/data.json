@@ -1,30 +1,30 @@
 {
 "meta": {
 	"type": "folder",
-	"url": "book/hu-HU/Karoli2014/OSzovetseg/32Jon/",
-	"name": "Fejezetek",
+	"url": "book/en-EN/KingJamesBible/OldTestament/34Ezk/",
+	"name": "Chapters",
 	"status": "visible",
 	"contains": "text"
 },
 "data": [
   {
-    "dir": "32Jon_1/data.json",
-    "name": "1. Fejezet",
+    "dir": "34Ezk_1/data.json",
+    "name": "Chapter 1",
 	"description": ""
   },
   {
-    "dir": "32Jon_2/data.json",
-    "name": "2. Fejezet",
+    "dir": "34Ezk_2/data.json",
+    "name": "Chapter 2",
 	"description": ""
   },
   {
-    "dir": "32Jon_3/data.json",
-    "name": "3. Fejezet",
+    "dir": "34Ezk_3/data.json",
+    "name": "Chapter 3",
 	"description": ""
   },
   {
     "dir": "32Jon_4/data.json",
-    "name": "4. Fejezet",
+    "name": "Chapter 4",
 	"description": ""
   }
 ]}

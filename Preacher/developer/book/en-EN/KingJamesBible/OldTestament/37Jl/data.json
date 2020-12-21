@@ -1,25 +1,25 @@
 {
   "meta": {
     "type": "folder",
-    "url": "book/hu-HU/Karoli2014/OSzovetseg/35Hab/",
-    "name": "Fejezetek",
+    "url": "book/en-EN/KingJamesBible/OldTestament/37Jl/",
+    "name": "Chapters",
 	"status": "visible",
 	"contains": "text"
   },
   "data": [
     {
-      "dir": "35Hab_1/data.json",
-      "name": "1. Fejezet",
+      "dir": "37Jl_1/data.json",
+      "name": "Chapter 1",
       "descrption": ""
     },
     {
-      "dir": "35Hab_2/data.json",
-      "name": "2. Fejezet",
+      "dir": "37Jl_2/data.json",
+      "name": "Chapter 2",
       "descrption": ""
     },
     {
-      "dir": "35Hab_3/data.json",
-      "name": "3. Fejezet",
+      "dir": "37Jl_3/data.json",
+      "name": "Chapter 3",
       "descrption": ""
     }
   ]

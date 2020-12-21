@@ -1,25 +1,25 @@
 {
   "meta": {
     "type": "folder",
-    "url": "book/hu-HU/Karoli2014/OSzovetség/36Zof/",
-    "name": "Fejezetek",
+    "url": "book/en-EN/KingJamesBible/OldTestament/38Am/",
+    "name": "Chapters",
 	"status": "visible",
 	"contains": "text"
   },
   "data": [
     {
-      "dir": "36Zof_1/data.json",
-      "name": "1. Fejezet",
+      "dir": "38Am_1/data.json",
+      "name": "Chapter 1",
       "description": ""
     },
     {
-      "dir": "36Zof_2/data.json",
-      "name": "2. Fejezet",
+      "dir": "38Am_2/data.json",
+      "name": "Chapter 2",
       "description": ""
     },
     {
-      "dir": "36Zof_3/data.json",
-      "name": "3. Fejezet",
+      "dir": "38Am_3/data.json",
+      "name": "Chapter 3",
       "description": ""
     }
   ]
