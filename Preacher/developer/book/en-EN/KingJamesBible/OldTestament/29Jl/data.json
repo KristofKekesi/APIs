@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "book/en-EN/KingJamesBible/OldTestament/29Jl/",
+    "name": "Chapters",
+	"status": "visible",
+	"contains": "text"
+  },
+  "data": [
+    {
+      "dir": "29Jl_1/data.json",
+      "name": "Chapter 1",
+      "descrption": ""
+    },
+    {
+      "dir": "29Jl_2/data.json",
+      "name": "Chapter 2",
+      "descrption": ""
+    },
+    {
+      "dir": "29Jl_3/data.json",
+      "name": "Chapter 3",
+      "descrption": ""
+    }
+  ]
+}

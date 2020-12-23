@@ -8,9 +8,139 @@
   },
   "data": [
     {
-      "dir": "1Gen/data.json",
-      "name": "Gen",
-      "description": "Genesis"
+      "dir": "1Mt/data.json",
+      "name": "Mt",
+      "description": "Matthew"
+    },
+	{
+      "dir": "2Mk/data.json",
+      "name": "Mk",
+      "description": "Mark"
+    },
+	{
+      "dir": "3Lk/data.json",
+      "name": "Lk",
+      "description": "Luke"
+    },
+	{
+      "dir": "4Jn/data.json",
+      "name": "Jn",
+      "description": "John"
+    },
+	{
+      "dir": "5Acts/data.json",
+      "name": "Acts",
+      "description": "Acts"
+    },
+	{
+      "dir": "6Rom/data.json",
+      "name": "Rom",
+      "description": "Romans"
+    },
+	{
+      "dir": "7Cor1/data.json",
+      "name": "1Cor",
+      "description": "1 Corinthians"
+    },
+	{
+      "dir": "8Cor2/data.json",
+      "name": "2Cor",
+      "description": "2 Corinthians"
+    },
+	{
+      "dir": "9Gal/data.json",
+      "name": "Galatians",
+      "description": "Galatians"
+    },
+	{
+      "dir": "10Eph/data.json",
+      "name": "Eph",
+      "description": "Ephesians"
+    },
+	{
+      "dir": "11Phil/data.json",
+      "name": "Phil",
+      "description": "Philippians"
+    },
+	{
+      "dir": "12Col/data.json",
+      "name": "Col",
+      "description": "Colossians"
+    },
+	{
+      "dir": "13Mt/data.json",
+      "name": "1Thess",
+      "description": "1 Thessalonians"
+    },
+	{
+      "dir": "14Thess2/data.json",
+      "name": "2Thess",
+      "description": "2 Thessalonians"
+    },
+	{
+      "dir": "15Mt/data.json",
+      "name": "1Tim",
+      "description": "1 Thimothy"
+    },
+	{
+      "dir": "16Mt/data.json",
+      "name": "2Tim",
+      "description": "2 Thimothy"
+    },
+	{
+      "dir": "17Tit/data.json",
+      "name": "Tit",
+      "description": "Titus"
+    },
+	{
+      "dir": "18Philem/data.json",
+      "name": "Philem",
+      "description": "Philemon"
+    },
+	{
+      "dir": "19Heb/data.json",
+      "name": "Heb",
+      "description": "Hebrews"
+    },
+	{
+      "dir": "20/data.json",
+      "name": "Jm",
+      "description": "James"
+    },
+	{
+      "dir": "21Pt1/data.json",
+      "name": "1Pt",
+      "description": "1 Peter"
+    },
+	{
+      "dir": "22Pt2/data.json",
+      "name": "2Pt",
+      "description": "2 Peter"
+    },
+	{
+      "dir": "23Jn1/data.json",
+      "name": "1Jn",
+      "description": "1 John"
+    },
+	{
+      "dir": "24Jn2/data.json",
+      "name": "2Jn",
+      "description": "2 John"
+    },
+	{
+      "dir": "25Jn3/data.json",
+      "name": "3Jn",
+      "description": "3 John"
+    },
+	{
+      "dir": "26Jud/data.json",
+      "name": "Jud",
+      "description": "Jude"
+    },
+	{
+      "dir": "27Rev/data.json",
+      "name": "Rev",
+      "description": "Revelation"
     }
   ]
 }

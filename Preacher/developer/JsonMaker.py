@@ -1,7 +1,9 @@
 import codecs
 import os
 
-# Made for biblia.hit.hu
+# Compatible with 
+# - https://www.biblia.hit.hu
+# - https://www.kingjamesbibleonline.org
 
 pasteFile = "pasteFile.txt"
 finalFolder = "final"

@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "book/en-EN/KingJamesBible/OldTestament/32Jnh/",
+    "name": "Chapters",
+	"status": "visible",
+	"contains": "text"
+  },
+  "data": [
+    {
+      "dir": "32Jnh_1/data.json",
+      "name": "Chapter 1",
+      "description": ""
+    },
+    {
+      "dir": "32Jnh_2/data.json",
+      "name": "Chapter 2",
+      "description": ""
+    }
+  ]
+}

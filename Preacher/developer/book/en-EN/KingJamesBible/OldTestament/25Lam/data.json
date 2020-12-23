@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "book/en-EN/KingJamesBible/OldTestament/25Lam/",
+    "name": "Chapters",
+	"status": "visible",
+	"contains": "text"
+  },
+  "data": [
+    {
+      "dir": "25Lam_1/data.json",
+      "name": "Chapter 1",
+      "description": ""
+    },
+    {
+      "dir": "25Lam_2/data.json",
+      "name": "Chapter 2",
+      "description": ""
+    },
+    {
+      "dir": "25Lam_3/data.json",
+      "name": "Chapter 3",
+      "description": ""
+    },
+    {
+      "dir": "25Lam_4/data.json",
+      "name": "Chapter 4",
+      "description": ""
+    },
+    {
+      "dir": "25Lam_5/data.json",
+      "name": "Chapter 5",
+      "description": ""
+    },
+    {
+      "dir": "25Lam_6/data.json",
+      "name": "Chapter 6",
+      "description": ""
+    },
+    {
+      "dir": "25Lam_7/data.json",
+      "name": "Chapter 7",
+      "description": ""
+    },
+    {
+      "dir": "25Lam_8/data.json",
+      "name": "Chapter 8",
+      "description": ""
+    },
+    {
+      "dir": "25Lam_9/data.json",
+      "name": "Chapter 9",
+      "description": ""
+    }
+  ]
+}

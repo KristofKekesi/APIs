@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "book/en-EN/KingJamesBible/OldTestament/30Am/",
+    "name": "Chapters",
+	"status": "visible",
+	"contains": "text"
+  },
+  "data": [
+    {
+      "dir": "30Am_1/data.json",
+      "name": "Chapter 1",
+      "description": ""
+    },
+    {
+      "dir": "30Am_2/data.json",
+      "name": "Chapter 2",
+      "description": ""
+    },
+    {
+      "dir": "30Am_3/data.json",
+      "name": "Chapter 3",
+      "description": ""
+    }
+  ]
+}

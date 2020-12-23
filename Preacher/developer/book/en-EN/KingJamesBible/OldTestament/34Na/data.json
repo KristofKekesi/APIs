@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "book/en-EN/KingJamesBible/OldTestament/34Na/",
+    "name": "Chapters",
+	"status": "visible",
+	"contains": "text"
+  },
+  "data": [
+    {
+      "dir": "34Na_1/data.json",
+      "name": "Chapter 1",
+      "description": ""
+    },
+    {
+      "dir": "34Na_2/data.json",
+      "name": "Chapter 2",
+      "description": ""
+    },
+    {
+      "dir": "34Na_3/data.json",
+      "name": "Chapter 3",
+      "description": ""
+    },
+    {
+      "dir": "34Na_4/data.json",
+      "name": "Chapter 4",
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "book/en-EN/KingJamesBible/OldTestament/18Job/",
+    "name": "Chapters",
+	"status": "visible",
+	"contains": "text"
+  },
+  "data": [
+    {
+      "dir": "18Job_1/data.json",
+      "name": "Chapter 1",
+      "description": ""
+    },
+    {
+      "dir": "18Job_2/data.json",
+      "name": "Chapter 2",
+      "description": ""
+    },
+    {
+      "dir": "18Job_3/data.json",
+      "name": "Chapter 3",
+      "description": ""
+    },
+    {
+      "dir": "18Job_4/data.json",
+      "name": "Chapter 4",
+      "description": ""
+    },
+    {
+      "dir": "18Job_5/data.json",
+      "name": "Chapter 5",
+      "description": ""
+    },
+    {
+      "dir": "18Job_6/data.json",
+      "name": "Chapter 6",
+      "description": ""
+    },
+    {
+      "dir": "18Job_7/data.json",
+      "name": "Chapter 7",
+      "description": ""
+    },
+    {
+      "dir": "18Job_8/data.json",
+      "name": "Chapter 8",
+      "description": ""
+    },
+    {
+      "dir": "18Job_9/data.json",
+      "name": "Chapter 9",
+      "description": ""
+    },
+    {
+      "dir": "18Job_10/data.json",
+      "name": "Chapter 10",
+      "description": ""
+    },
+    {
+      "dir": "18Job_11/data.json",
+      "name": "Chapter 11",
+      "description": ""
+    },
+    {
+      "dir": "18Job_12/data.json",
+      "name": "Chapter 12",
+      "description": ""
+    },
+    {
+      "dir": "18Job_13/data.json",
+      "name": "Chapter 13",
+      "description": ""
+    },
+    {
+      "dir": "18Job_14/data.json",
+      "name": "Chapter 14",
+      "description": ""
+    },
+    {
+      "dir": "18Job_15/data.json",
+      "name": "Chapter 15",
+      "description": ""
+    },
+    {
+      "dir": "18Job_16/data.json",
+      "name": "Chapter 16",
+      "description": ""
+    },
+    {
+      "dir": "18Job_17/data.json",
+      "name": "Chapter 17",
+      "description": ""
+    },
+    {
+      "dir": "18Job_18/data.json",
+      "name": "Chapter 18",
+      "description": ""
+    },
+    {
+      "dir": "18Job_19/data.json",
+      "name": "Chapter 19",
+      "description": ""
+    },
+    {
+      "dir": "18Job_20/data.json",
+      "name": "Chapter 20",
+      "description": ""
+    },
+    {
+      "dir": "18Job_21/data.json",
+      "name": "Chapter 21",
+      "description": ""
+    },
+    {
+      "dir": "18Job_22/data.json",
+      "name": "Chapter 22",
+      "description": ""
+    },
+    {
+      "dir": "18Job_23/data.json",
+      "name": "Chapter 23",
+      "description": ""
+    },
+    {
+      "dir": "18Job_24/data.json",
+      "name": "Chapter 24",
+      "description": ""
+    },
+    {
+      "dir": "18Job_25/data.json",
+      "name": "Chapter 25",
+      "description": ""
+    },
+    {
+      "dir": "18Job_26/data.json",
+      "name": "Chapter 26",
+      "description": ""
+    },
+    {
+      "dir": "18Job_27/data.json",
+      "name": "Chapter 27",
+      "description": ""
+    },
+    {
+      "dir": "18Job_28/data.json",
+      "name": "Chapter 28",
+      "description": ""
+    },
+    {
+      "dir": "18Job_29/data.json",
+      "name": "Chapter 29",
+      "description": ""
+    },
+    {
+      "dir": "18Job_30/data.json",
+      "name": "Chapter 30",
+      "description": ""
+    },
+    {
+      "dir": "18Job_31/data.json",
+      "name": "Chapter 31",
+      "description": ""
+    }
+  ]
+}

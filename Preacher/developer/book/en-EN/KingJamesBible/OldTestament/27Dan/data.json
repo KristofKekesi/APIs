@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "book/en-EN/KingJamesBible/OldTestament/27Dan/",
+    "name": "Chapters",
+	"status": "visible",
+	"contains": "text"
+  },
+  "data": [
+    {
+      "dir": "27Dan_1/data.json",
+      "name": "Chapter 1",
+      "description": ""
+    },
+    {
+      "dir": "27Dan_2/data.json",
+      "name": "Chapter 2",
+      "description": ""
+    },
+    {
+      "dir": "27Dan_3/data.json",
+      "name": "Chapter 3",
+      "description": ""
+    },
+    {
+      "dir": "27Dan_4/data.json",
+      "name": "Chapter 4",
+      "description": ""
+    },
+    {
+      "dir": "27Dan_5/data.json",
+      "name": "Chapter 5",
+      "description": ""
+    },
+    {
+      "dir": "27Dan_6/data.json",
+      "name": "Chapter 6",
+      "description": ""
+    },
+    {
+      "dir": "27Dan_7/data.json",
+      "name": "Chapter 7",
+      "description": ""
+    }
+  ]
+}
