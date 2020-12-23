@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "book/en-EN/KingJamesBible/NewTestament/1Mt/",
+    "name": "Chapters",
+	"status": "visible",
+	"contains": "text"
+  },
+  "data": [
+    {
+      "dir": "1Mt_1/data.json",
+      "name": "Chapter 1",
+      "description": ""
+    },
+    {
+      "dir": "1Mt_2/data.json",
+      "name": "Chapter 2",
+      "description": ""
+    },
+    {
+      "dir": "1Mt_3/data.json",
+      "name": "Chapter 3",
+      "description": ""
+    },
+    {
+      "dir": "1Mt_4/data.json",
+      "name": "Chapter 4",
+      "description": ""
+    },
+    {
+      "dir": "1Mt_5/data.json",
+      "name": "Chapter 5",
+      "description": ""
+    },
+    {
+      "dir": "1Mt_6/data.json",
+      "name": "Chapter 6",
+      "description": ""
+    },
+    {"dir": "1Mt_7/data.json",
+      "name": "7",
+      "description": ""
+    },
+    {
+      "dir": "1Mt_8/data.json",
+      "name": "Chapter 8",
+      "description": ""
+    },
+    {
+      "dir": "1Mt_9/data.json",
+      "name": "Chapter 9",
+      "description": ""
+    },
+    {
+      "dir": "1Mt_10/data.json",
+      "name": "Chapter 10",
+      "description": ""
+    },
+    {
+      "dir": "1Mt_11/data.json",
+      "name": "Chapter 11",
+      "description": ""
+    },
+    {
+      "dir": "1Mt_12/data.json",
+      "name": "Chapter 12",
+      "description": ""
+    },
+    {
+      "dir": "1Mt_13/data.json",
+      "name": "Chapter 13",
+      "description": ""
+    },
+    {
+      "dir": "1Mt_14/data.json",
+      "name": "Chapter 14",
+      "description": ""
+    },
+    {
+      "dir": "1Mt_15/data.json",
+      "name": "Chapter 15",
+      "description": ""
+    },
+    {
+      "dir": "1Mt_16/data.json",
+      "name": "Chapter 16",
+      "description": ""
+    },
+    {
+      "dir": "1Mt_17/data.json",
+      "name": "Chapter 17",
+      "description": ""
+    },
+    {
+      "dir": "1Mt_18/data.json",
+      "name": "Chapter 18",
+      "description": ""
+    },
+    {
+      "dir": "1Mt_19/data.json",
+      "name": "Chapter 19",
+      "description": ""
+    },
+    {
+      "dir": "1Mt_20/data.json",
+      "name": "Chapter 20",
+      "description": ""
+    },
+    {
+      "dir": "1Mt_21/data.json",
+      "name": "Chapter 21",
+      "description": ""
+    },
+    {
+      "dir": "1Mt_22/data.json",
+      "name": "Chapter 22",
+      "description": ""
+    },
+    {
+      "dir": "1Mt_23/data.json",
+      "name": "Chapter 23",
+      "description": ""
+    },
+    {
+      "dir": "1Mt_24/data.json",
+      "name": "Chapter 24",
+      "description": ""
+    },
+    {
+      "dir": "1Mt_25/data.json",
+      "name": "Chapter 25",
+      "description": ""
+    },
+    {
+      "dir": "1Mt_26/data.json",
+      "name": "Chapter 26",
+      "description": ""
+    },
+    {
+      "dir": "1Mt_27/data.json",
+      "name": "Chapter 27",
+      "description": ""
+    },
+    {
+      "dir": "1Mt_28/data.json",
+      "name": "Chapter 28",
+      "description": ""
+    }
+  ]
+}

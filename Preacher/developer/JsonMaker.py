@@ -1,5 +1,6 @@
 import codecs
 import os
+import re
 
 # Compatible with 
 # - https://www.biblia.hit.hu
@@ -27,6 +28,11 @@ while True:
 					print("Írja be a könyvet (például 1Móz1)")
 					book = input("")
 					if book != "":
+						bookSplit = re.split("0|1|2|3|4|5|6|7|8|9", book)
+						bookSplitOrg = list(filter(None, bookSplit))
+						
+						book = book.replace(bookSplitOrg[0], bookSplitOrg[0].capitalize())
+						
 						break
 				while True:
 					print("Írja be fejezet számát (például 1)")
@@ -40,7 +46,8 @@ while True:
 						'{',
 						'   "meta": {',
 						'   "type": "text",',
-						'   "name": "' + number + '. Fejezet"',
+						#'   "name": "' + number + '. Fejezet"',
+						'   "name": "Chapter ' + number + '"',
 						'   },',
 						'   "data": [',
 					]
