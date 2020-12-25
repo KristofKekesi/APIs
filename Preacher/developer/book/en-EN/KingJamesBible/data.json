@@ -13,12 +13,12 @@
     {
       "dir": "OldTestament/data.json",
       "name": "Old Testament",
-      "description": "Krisztus születése előtti evangéliumok."
+      "description": "Books before the born of Jesus."
     },
     {
       "dir": "NewTestament/data.json",
       "name": "New Testament",
-      "description": "Krisztus születése utáni evangéliumok."
+      "description": "Books after the born of Jesus."
     }
   ]
 }
