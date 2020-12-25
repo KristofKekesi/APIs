@@ -46,22 +46,28 @@ while True:
 						'{',
 						'   "meta": {',
 						'   "type": "text",',
-						#'   "name": "' + number + '. Fejezet"',
-						'   "name": "Chapter ' + number + '"',
+						#'   "name": "' + number + '. Fejezet"', # Hungarian
+						'   "name": "Chapter ' + number + '"', # English
 						'   },',
 						'   "data": [',
 					]
 
 					read = codecs.open(pasteFile, "r", "UTF-8")
+					num = 1
 					for lines in read:
 						lines = lines.strip().replace("\n", "").replace("", "-").replace("\"", "\\\"")
 						try:
 							num = int(lines)
 						except:
-							object.append('        {')
-							object.append('            "type": "line",')
-							object.append('            "value": "' + lines + '"')
-							object.append('        },')
+							if lines.replace(" ", "") != "":
+								if lines[:len(str(num))] == str(num):
+									lines = lines[len(str(num)):]
+
+								object.append('        {')
+								object.append('            "type": "line",')
+								object.append('            "value": "' + lines.strip() + '"')
+								object.append('        },')
+								num = num + 1
 					object.pop()
 					object.append('        }')
 					object.append('    ]')
