@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "book/en-EN/KingJamesBible/NewTestament/2Mk/",
+    "name": "Chapters",
+	"status": "visible",
+	"contains": "text"
+  },
+  "data": [
+    {
+      "dir": "2Mk_1/data.json",
+      "name": "Chapter 1",
+      "description": ""
+    },
+    {
+      "dir": "2Mk_2/data.json",
+      "name": "Chapter 2",
+      "description": ""
+    },
+    {
+      "dir": "2Mk_3/data.json",
+      "name": "Chapter 3",
+      "description": ""
+    },
+    {
+      "dir": "2Mk_4/data.json",
+      "name": "Chapter 4",
+      "description": ""
+    },
+    {
+      "dir": "2Mk_5/data.json",
+      "name": "Chapter 5",
+      "description": ""
+    },
+    {
+      "dir": "2Mk_6/data.json",
+      "name": "Chapter 6",
+      "description": ""
+    },
+    {"dir": "2Mk_7/data.json",
+      "name": "Chapter 7",
+      "description": ""
+    },
+    {
+      "dir": "2Mk_8/data.json",
+      "name": "Chapter 8",
+      "description": ""
+    },
+    {
+      "dir": "2Mk_9/data.json",
+      "name": "Chapter 9",
+      "description": ""
+    },
+    {
+      "dir": "2Mk_10/data.json",
+      "name": "Chapter 10",
+      "description": ""
+    },
+    {
+      "dir": "2Mk_11/data.json",
+      "name": "Chapter 11",
+      "description": ""
+    },
+    {
+      "dir": "2Mk_12/data.json",
+      "name": "Chapter 12",
+      "description": ""
+    },
+    {
+      "dir": "2Mk_13/data.json",
+      "name": "Chapter 13",
+      "description": ""
+    },
+    {
+      "dir": "2Mk_14/data.json",
+      "name": "Chapter 14",
+      "description": ""
+    },
+    {
+      "dir": "2Mk_15/data.json",
+      "name": "Chapter 15",
+      "description": ""
+    },
+    {
+      "dir": "2Mk_16/data.json",
+      "name": "Chapter 16",
+      "description": ""
+    }
+  ]
+}
