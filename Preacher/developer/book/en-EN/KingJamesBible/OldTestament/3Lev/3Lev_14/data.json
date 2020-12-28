@@ -1,236 +1,236 @@
 {
    "meta": {
    "type": "text",
-   "name": "14. Fejezet"
+   "name": "Chapter 14"
    },
    "data": [
         {
             "type": "line",
-            "value": "Szóla ismét az Úr Mózesnek, mondván:"
+            "value": "And the LORD spake unto Moses, saying,"
         },
         {
             "type": "line",
-            "value": "Ez legyen a poklos embernek törvénye az ő megtisztulásának napján, hogy vigyék a paphoz."
+            "value": "This shall be the law of the leper in the day of his cleansing: He shall be brought unto the priest:"
         },
         {
             "type": "line",
-            "value": "A pap pedig menjen ki a táboron kivül, és nézze meg a pap, és ha meggyógyult a pokloson a poklos fakadék:"
+            "value": "And the priest shall go forth out of the camp; and the priest shall look, and, behold, if the plague of leprosy be healed in the leper;"
         },
         {
             "type": "line",
-            "value": "Akkor parancsolja meg a pap, hogy hozzanak a megtisztulandó emberért két élő, tiszta madarat, cédrusfát, karmazsint és izsópot;"
+            "value": "Then shall the priest command to take for him that is to be cleansed two birds alive and clean, and cedar wood, and scarlet, and hyssop:"
         },
         {
             "type": "line",
-            "value": "Azután parancsolja meg a pap, hogy az egyik madarat öljék meg cserépedényben, forrásvíz felett."
+            "value": "And the priest shall command that one of the birds be killed in an earthen vessel over running water:"
         },
         {
             "type": "line",
-            "value": "Az élő madarat pedig, vegye azt és a cédrusfát, a karmazsint és az izsópot; és mártsa be azokat és az élő madarat a megölt madárnak vérébe a forrásvíz felett."
+            "value": "As for the living bird, he shall take it, and the cedar wood, and the scarlet, and the hyssop, and shall dip them and the living bird in the blood of the bird that was killed over the running water:"
         },
         {
             "type": "line",
-            "value": "És hintse meg a poklosságból megtisztulandó embert hétszer, és ítélje azt tisztának; az élő madarat pedig bocsássa szabadon a mezőre."
+            "value": "And he shall sprinkle upon him that is to be cleansed from the leprosy seven times, and shall pronounce him clean, and shall let the living bird loose into the open field."
         },
         {
             "type": "line",
-            "value": "Azután a megtisztulandó ember mossa ki az ő ruháit, borotválja le minden szőrét, és mosódjék meg vízben, és tiszta lesz; így menjen be azután a táborba, de a sátorán kivül maradjon hét napig."
+            "value": "And he that is to be cleansed shall wash his clothes, and shave off all his hair, and wash himself in water, that he may be clean: and after that he shall come into the camp, and shall tarry abroad out of his tent seven days."
         },
         {
             "type": "line",
-            "value": "A hetedik napon pedig borotválja le minden szőrét: a haját, szakállát, szemöldökeit és minden egyéb szőrét borotválja le, és mossa ki ruháit, és mossa meg a testét vízben, és tiszta lesz."
+            "value": "But it shall be on the seventh day, that he shall shave all his hair off his head and his beard and his eyebrows, even all his hair he shall shave off: and he shall wash his clothes, also he shall wash his flesh in water, and he shall be clean."
         },
         {
             "type": "line",
-            "value": "A nyolcadik napon pedig vegyen két ép bárányt, meg egy ép nőstény bárányt, egy esztendőst, és olajjal elegyített három tized efa lisztlángot ételáldozatul, és egy lóg olajt."
+            "value": "And on the eighth day he shall take two he lambs without blemish, and one ewe lamb of the first year without blemish, and three tenth deals of fine flour for a meat offering, mingled with oil, and one log of oil."
         },
         {
             "type": "line",
-            "value": "A pap pedig, aki a tisztítást végzi, állassa a megtisztulandó embert mindezekkel együtt az Úr elébe, a gyülekezet sátorának nyílásához."
+            "value": "And the priest that maketh him clean shall present the man that is to be made clean, and those things, before the LORD, at the door of the tabernacle of the congregation:"
         },
         {
             "type": "line",
-            "value": "És vegye a pap az egyik bárányt, és áldozza meg azt vétekért való áldozatul a lóg olajjal együtt, és lóbálja meg azokat az Úr előtt."
+            "value": "And the priest shall take one he lamb, and offer him for a trespass offering, and the log of oil, and wave them for a wave offering before the LORD:"
         },
         {
             "type": "line",
-            "value": "A bárányt pedig ott ölje meg, ahol a bűnért való áldozatot és az egészen égőáldozatot ölik meg a szent helyen; mert amiképpen a bűnért, azonképpen a vétekért való áldozat is a papé; igen szentséges az."
+            "value": "And he shall slay the lamb in the place where he shall kill the sin offering and the burnt offering, in the holy place: for as the sin offering is the priest's, so is the trespass offering: it is most holy:"
         },
         {
             "type": "line",
-            "value": "És vegyen a pap a vétekért való áldozatnak véréből, és kenje meg azzal a megtisztulandó ember jobb fülének cimpáját, és az ő jobb kezének hüvelykét, és jobb lábának hüvelykét."
+            "value": "And the priest shall take some of the blood of the trespass offering, and the priest shall put it upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot:"
         },
         {
             "type": "line",
-            "value": "Vegyen a pap a lóg olajból is, és töltsön a papnak a bal tenyerére."
+            "value": "And the priest shall take some of the log of oil, and pour it into the palm of his own left hand:"
         },
         {
             "type": "line",
-            "value": "És mártsa be a pap az ő jobb kezének újját az olajba, mely az ő bal tenyerén van, és hintsen az olajból az újjával hétszer az Úr előtt."
+            "value": "And the priest shall dip his right finger in the oil that is in his left hand, and shall sprinkle of the oil with his finger seven times before the LORD:"
         },
         {
             "type": "line",
-            "value": "A maradék olajból pedig, amely az ő tenyerén van, kenje meg a pap a megtisztulandó ember jobb fülének cimpáját, a jobb kezének hüvelykét és a jobb lábának hüvelykét a vétekért való áldozat vérén felül."
+            "value": "And of the rest of the oil that is in his hand shall the priest put upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot, upon the blood of the trespass offering:"
         },
         {
             "type": "line",
-            "value": "És ami megmarad az olajból, amely a pap tenyerén van, kenje a megtisztulandó ember fejére; így szerezzen néki engesztelést a pap az Úr előtt."
+            "value": "And the remnant of the oil that is in the priest's hand he shall pour upon the head of him that is to be cleansed: and the priest shall make an atonement for him before the LORD."
         },
         {
             "type": "line",
-            "value": "Azután készítsen a pap bűnért való áldozatot, és szerezzen engesztelést a tisztátalanságából megtisztulónak; azután ölje meg az égőáldozatot."
+            "value": "And the priest shall offer the sin offering, and make an atonement for him that is to be cleansed from his uncleanness; and afterward he shall kill the burnt offering:"
         },
         {
             "type": "line",
-            "value": "És vigye fel a pap az égőáldozatot és az ételáldozatot az oltárra; így szerezzen néki engesztelést a pap, és tiszta lesz."
+            "value": "And the priest shall offer the burnt offering and the meat offering upon the altar: and the priest shall make an atonement for him, and he shall be clean."
         },
         {
             "type": "line",
-            "value": "Hogyha pedig szegény ő, és nincs módja azokhoz, akkor vegyen egy bárányt vétekért való áldozatul meglóbálás végett, hogy engesztelésül legyen érte; meg egy tized efa lisztlángot, olajjal elegyítve, ételáldozatul, és egy lóg olajt."
+            "value": "And if he be poor, and cannot get so much; then he shall take one lamb for a trespass offering to be waved, to make an atonement for him, and one tenth deal of fine flour mingled with oil for a meat offering, and a log of oil;"
         },
         {
             "type": "line",
-            "value": "És két gerlicét vagy két galambfiat, amint a módja engedi, és legyen az egyik bűnért való áldozat, a másik pedig egészen égőáldozat."
+            "value": "And two turtledoves, or two young pigeons, such as he is able to get; and the one shall be a sin offering, and the other a burnt offering."
         },
         {
             "type": "line",
-            "value": "És vigye azokat az ő tisztulásának nyolcadik napján a paphoz, a gyülekezet sátorának nyílásához, az Úr elébe."
+            "value": "And he shall bring them on the eighth day for his cleansing unto the priest, unto the door of the tabernacle of the congregation, before the LORD."
         },
         {
             "type": "line",
-            "value": "És vegye a pap a vétekért való áldozat bárányát, és a lóg olajt, és lóbálja meg azokat a pap az Úr előtt."
+            "value": "And the priest shall take the lamb of the trespass offering, and the log of oil, and the priest shall wave them for a wave offering before the LORD:"
         },
         {
             "type": "line",
-            "value": "Azután ölje meg a vétekért való áldozat bárányát, és vegyen a pap a vétekért való áldozat véréből, és kenjen a megtisztulandó ember jobb fülének cimpájára, és jobb kezének hüvelykére, és jobb lábának hüvelykére."
+            "value": "And he shall kill the lamb of the trespass offering, and the priest shall take some of the blood of the trespass offering, and put it upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot:"
         },
         {
             "type": "line",
-            "value": "Az olajból pedig töltsön a pap a papnak baltenyerére."
+            "value": "And the priest shall pour of the oil into the palm of his own left hand:"
         },
         {
             "type": "line",
-            "value": "És hintsen a pap az ő jobb kezének újjával az olajból, amely az ő bal tenyerén van, hétszer az Úr előtt."
+            "value": "And the priest shall sprinkle with his right finger some of the oil that is in his left hand seven times before the LORD:"
         },
         {
             "type": "line",
-            "value": "Azután kenje meg a pap a tenyerén levő olajból a megtisztulandó jobb fülének cimpáját, a jobb kezének hüvelykét és a jobb lábának hüvelykét a vétekért való áldozat vérének helyén."
+            "value": "And the priest shall put of the oil that is in his hand upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot, upon the place of the blood of the trespass offering:"
         },
         {
             "type": "line",
-            "value": "Ami pedig megmarad a pap tenyerén levő olajból, kenje a megtisztulandó fejére, hogy engesztelésül legyen érette az Úr előtt."
+            "value": "And the rest of the oil that is in the priest's hand he shall put upon the head of him that is to be cleansed, to make an atonement for him before the LORD."
         },
         {
             "type": "line",
-            "value": "És készítse el az egyiket a gerlicék közül, vagy galambfiak közül, amelyik az ő módjától telik."
+            "value": "And he shall offer the one of the turtledoves, or of the young pigeons, such as he can get;"
         },
         {
             "type": "line",
-            "value": "Azt, ami kitelik az ő módjától: az egyiket bűnért való áldozatul, a másikat pedig egészen égőáldozatul az ételáldozattal egybe; így szerezzen engesztelést a pap a megtisztulandó embernek az Úr előtt."
+            "value": "Even such as he is able to get, the one for a sin offering, and the other for a burnt offering, with the meat offering: and the priest shall make an atonement for him that is to be cleansed before the LORD."
         },
         {
             "type": "line",
-            "value": "Ez a törvénye annak, akin poklos fakadék van, de akinek nincs módja az ő megtisztulásánál."
+            "value": "This is the law of him in whom is the plague of leprosy, whose hand is not able to get that which pertaineth to his cleansing."
         },
         {
             "type": "line",
-            "value": "Szóla ismét az Úr Mózesnek és Áronnak, mondván:"
+            "value": "And the LORD spake unto Moses and unto Aaron, saying,"
         },
         {
             "type": "line",
-            "value": "Mikor bementek majd a Kanaán földére, amelyet én adok néktek birtokul, és a ti birtokotokban levő föld valamelyik házára poklosságot bocsátok:"
+            "value": "When ye be come into the land of Canaan, which I give to you for a possession, and I put the plague of leprosy in a house of the land of your possession;"
         },
         {
             "type": "line",
-            "value": "Akkor menjen el az, akié a ház, és jelentse meg a papnak, mondván: Mint a poklosság, olyan mutatkozik nálam a házban."
+            "value": "And he that owneth the house shall come and tell the priest, saying, It seemeth to me there is as it were a plague in the house:"
         },
         {
             "type": "line",
-            "value": "A pap pedig parancsolja meg, hogy takarítsák ki a házat, mielőtt oda menne a pap a poklosság megnézésére, hogy semmi se legyen tisztátalanná, ami a házban van; és csak azután menjen be a pap a ház megnézésére."
+            "value": "Then the priest shall command that they empty the house, before the priest go into it to see the plague, that all that is in the house be not made unclean: and afterward the priest shall go in to see the house:"
         },
         {
             "type": "line",
-            "value": "És ha látja a poklosságot, hogy ímé a poklosság a háznak falain zöld vagy vörhenyes horpadásokban mutatkozik, és annak felülete alább esik a falnál:"
+            "value": "And he shall look on the plague, and, behold, if the plague be in the walls of the house with hollow strakes, greenish or reddish, which in sight are lower than the wall;"
         },
         {
             "type": "line",
-            "value": "Akkor menjen ki a pap a házból, a háznak ajtaja elé, és zárja be a házat hét napra."
+            "value": "Then the priest shall go out of the house to the door of the house, and shut up the house seven days:"
         },
         {
             "type": "line",
-            "value": "A hetedik napon pedig térjen vissza a pap, és ha látja, hogy ímé elterjedt a poklosság a ház falán:"
+            "value": "And the priest shall come again the seventh day, and shall look: and, behold, if the plague be spread in the walls of the house;"
         },
         {
             "type": "line",
-            "value": "Akkor parancsolja meg a pap, hogy szedjék ki a köveket, amelyeken a poklosság van, és vessék azokat a városon kivül tisztátalan helyre;"
+            "value": "Then the priest shall command that they take away the stones in which the plague is, and they shall cast them into an unclean place without the city:"
         },
         {
             "type": "line",
-            "value": "A házat pedig vakartassa le belül köröskörül, és a tapasztékot, amelyet levakartak, töltsék a városon kivül tisztátalan helyre."
+            "value": "And he shall cause the house to be scraped within round about, and they shall pour out the dust that they scrape off without the city into an unclean place:"
         },
         {
             "type": "line",
-            "value": "És vegyenek elő más köveket, és illesszék be ama kövek helyére; tapasztékot is mást vegyenek, és tapasszák be a házat."
+            "value": "And they shall take other stones, and put them in the place of those stones; and he shall take other morter, and shall plaister the house."
         },
         {
             "type": "line",
-            "value": "Hogyha a poklosság visszatér, és kiújul a házon, miután kiszedték a köveket, és miután levakarták a házat, és miután be is tapasztották azt:"
+            "value": "And if the plague come again, and break out in the house, after that he hath taken away the stones, and after he hath scraped the house, and after it is plaistered;"
         },
         {
             "type": "line",
-            "value": "Akkor menjen be a pap, és nézze meg, és ha ímé tovább terjedt a poklosság a házon: emésztő poklosság az a házon, tisztátalan az;"
+            "value": "Then the priest shall come and look, and, behold, if the plague be spread in the house, it is a fretting leprosy in the house: it is unclean."
         },
         {
             "type": "line",
-            "value": "Rontsák azért le a házat köveivel együtt, és a fáit is, a háznak minden tapasztékát is; és vigyék a városon kívül tisztátalan helyre."
+            "value": "And he shall break down the house, the stones of it, and the timber thereof, and all the morter of the house; and he shall carry them forth out of the city into an unclean place."
         },
         {
             "type": "line",
-            "value": "Aki pedig bemegy a házba akármikor, amíg az zárva van, tisztátalan legyen az estvéig."
+            "value": "Moreover he that goeth into the house all the while that it is shut up shall be unclean until the even."
         },
         {
             "type": "line",
-            "value": "És aki meghál abban a házban, mossa meg a ruháit, és aki eszik abban a házban, az is mossa meg a ruháit."
+            "value": "And he that lieth in the house shall wash his clothes; and he that eateth in the house shall wash his clothes."
         },
         {
             "type": "line",
-            "value": "Ha pedig bemegy a pap és látja, hogy ímé nem terjedt a poklosság a házon, miután megtapasztották a házat: akkor tisztának ítélje a pap a házat, mert megszűnt a poklosság."
+            "value": "And if the priest shall come in, and look upon it, and, behold, the plague hath not spread in the house, after the house was plaistered: then the priest shall pronounce the house clean, because the plague is healed."
         },
         {
             "type": "line",
-            "value": "A háznak megtisztítása végett pedig vegyen elő két madarat, cédrusfát, karmazsint és izsópot."
+            "value": "And he shall take to cleanse the house two birds, and cedar wood, and scarlet, and hyssop:"
         },
         {
             "type": "line",
-            "value": "És ölje meg az egyik madarat cserépedényben, forrásvíz felett."
+            "value": "And he shall kill the one of the birds in an earthen vessel over running water:"
         },
         {
             "type": "line",
-            "value": "Azután vegye a cédrusfát, az izsópot, a karmazsint és az élő madarat, és mártsa be azokat a megölt madár vérébe és a forrásvízbe, és hintse meg azzal a házat hétszer."
+            "value": "And he shall take the cedar wood, and the hyssop, and the scarlet, and the living bird, and dip them in the blood of the slain bird, and in the running water, and sprinkle the house seven times:"
         },
         {
             "type": "line",
-            "value": "És tisztítsa meg a házat a madár vérével, a forrásvízzel, az élő madárral, a cédrusfával, az izsóppal és a karmazsinnal."
+            "value": "And he shall cleanse the house with the blood of the bird, and with the running water, and with the living bird, and with the cedar wood, and with the hyssop, and with the scarlet:"
         },
         {
             "type": "line",
-            "value": "Az élő madarat pedig bocsássa el a városon kivül a mezőre, így szerezzen engesztelést a házért, és tiszta lesz."
+            "value": "But he shall let go the living bird out of the city into the open fields, and make an atonement for the house: and it shall be clean."
         },
         {
             "type": "line",
-            "value": "Ez a törvénye mindenféle poklos fakadéknak és varnak."
+            "value": "This is the law for all manner of plague of leprosy, and scall,"
         },
         {
             "type": "line",
-            "value": "A ruha és a ház poklosságának is."
+            "value": "And for the leprosy of a garment, and of a house,"
         },
         {
             "type": "line",
-            "value": "A daganatnak, a tarjagosságnak és a fehér foltnak;"
+            "value": "And for a rising, and for a scab, and for a bright spot:"
         },
         {
             "type": "line",
-            "value": "Hogy megtudhassák: mikor tiszta és mikor tisztátalan valami? Ez a poklosság törvénye."
+            "value": "To teach when it is unclean, and when it is clean: this is the law of leprosy."
         }
     ]
 }

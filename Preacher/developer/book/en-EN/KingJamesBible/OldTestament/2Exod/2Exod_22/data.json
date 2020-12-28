@@ -1,132 +1,132 @@
 {
    "meta": {
    "type": "text",
-   "name": "22. Fejezet"
+   "name": "Chapter 22"
    },
    "data": [
         {
             "type": "line",
-            "value": "Ha valaki ökröt vagy bárányt lop, és levágja vagy eladja azt: öt barmot fizessen egy ökörért, és négy juhot egy bárányért."
+            "value": "If a man shall steal an ox, or a sheep, and kill it, or sell it; he shall restore five oxen for an ox, and four sheep for a sheep."
         },
         {
             "type": "line",
-            "value": "Ha ház-fölverésen kapják a tolvajt, és úgy megverik, hogy meghal, nincs vérbűn miatta."
+            "value": "If a thief be found breaking up, and be smitten that he die, there shall no blood be shed for him."
         },
         {
             "type": "line",
-            "value": "Ha reá sütött a nap, vérbűn van miatta: fizessen; ha nincs néki: adassék el tolvajságáért."
+            "value": "If the sun be risen upon him, there shall be blood shed for him; for he should make full restitution; if he have nothing, then he shall be sold for his theft."
         },
         {
             "type": "line",
-            "value": "Ha elevenen kapják kezében a lopott jószágot, akár ökör, akár szamár, akár juh: két annyit fizessen érette."
+            "value": "If the theft be certainly found in his hand alive, whether it be ox, or ass, or sheep; he shall restore double."
         },
         {
             "type": "line",
-            "value": "Ha valaki mezőt vagy szőlőt étet le, úgy hogy barmát elereszti, és az a más mezején legel: mezejének javából és szőlőjének javából fizesse meg a kárt."
+            "value": "If a man shall cause a field or vineyard to be eaten, and shall put in his beast, and shall feed in another man's field; of the best of his own field, and of the best of his own vineyard, shall he make restitution."
         },
         {
             "type": "line",
-            "value": "Ha tűz támad, és tövisbe kap, és megég az asztag, vagy a lábon álló gabona, vagy a mező: fizesse meg a kárt, aki a tüzet gyujtotta."
+            "value": "If fire break out, and catch in thorns, so that the stacks of corn, or the standing corn, or the field, be consumed therewith; he that kindled the fire shall surely make restitution."
         },
         {
             "type": "line",
-            "value": "Ha valaki pénzt vagy edényeket ád felebarátjának megőrzés végett, és ellopják annak a férfiúnak házából: ha megtalálják a tolvajt, fizessen kétannyit."
+            "value": "If a man shall deliver unto his neighbour money or stuff to keep, and it be stolen out of the man's house; if the thief be found, let him pay double."
         },
         {
             "type": "line",
-            "value": "Ha nem találják meg a tolvajt, a ház urát vigyék a bírák eleibe: hogy nem nyújtotta-é ki kezét az ő felebarátja vagyonára."
+            "value": "If the thief be not found, then the master of the house shall be brought unto the judges, to see whether he have put his hand unto his neighbour's goods."
         },
         {
             "type": "line",
-            "value": "Akármi bűn dolgában, akár ökör, akár szamár, akár juh, akár ruha, akármi elveszett jószág az, amiről azt mondja: ez az; mindkettőjük ügye a bírák eleibe menjen, és akit a bírák bűnösnek mondanak, fizessen két annyit az ő felebarátjának."
+            "value": "For all manner of trespass, whether it be for ox, for ass, for sheep, for raiment, or for any manner of lost thing, which another challengeth to be his, the cause of both parties shall come before the judges; and whom the judges shall condemn, he shall pay double unto his neighbour."
         },
         {
             "type": "line",
-            "value": "Ha valaki szamarat, vagy ökröt, vagy bárányt, vagy akármiféle barmot ád az ő felebarátja gondviselése alá, és az elhull, vagy megsérül, vagy elhajtatik, úgy hogy senki sem látta:"
+            "value": "If a man deliver unto his neighbour an ass, or an ox, or a sheep, or any beast, to keep; and it die, or be hurt, or driven away, no man seeing it:"
         },
         {
             "type": "line",
-            "value": "Az Úrra való esküvés legyen kettejök közt, hogy nem nyújtotta-é ki kezét felebarátja vagyonára; és ezt fogadja el annak ura, és az semmit se fizessen."
+            "value": "Then shall an oath of the LORD be between them both, that he hath not put his hand unto his neighbour's goods; and the owner of it shall accept thereof, and he shall not make it good."
         },
         {
             "type": "line",
-            "value": "Ha pedig ellopták tőle: megfizesse az urának."
+            "value": "And if it be stolen from him, he shall make restitution unto the owner thereof."
         },
         {
             "type": "line",
-            "value": "Ha széttépetett, hozza el azt bizonyságul; a széttépettet nem fizeti meg."
+            "value": "If it be torn in pieces, then let him bring it for witness, and he shall not make good that which was torn."
         },
         {
             "type": "line",
-            "value": "Ha pedig valaki kölcsön kér az ő felebarátjától, és az megsérül vagy elhull urának távollétében: fizesse meg a kárt."
+            "value": "And if a man borrow ought of his neighbour, and it be hurt, or die, the owner thereof being not with it, he shall surely make it good."
         },
         {
             "type": "line",
-            "value": "Ha ura vele van, nem fizet; ha bérbe adatott, bérébe megy."
+            "value": "But if the owner thereof be with it, he shall not make it good: if it be an hired thing, it came for his hire."
         },
         {
             "type": "line",
-            "value": "Ha valaki hajadont csábít el, aki nincs eljegyezve, és vele hál: jegyajándékkal jegyezze azt el magának feleségül."
+            "value": "And if a man entice a maid that is not betrothed, and lie with her, he shall surely endow her to be his wife."
         },
         {
             "type": "line",
-            "value": "Ha annak atyja nem akarja azt néki adni: annyi pénzt adjon, amennyi a hajadonok jegyajándéka."
+            "value": "If her father utterly refuse to give her unto him, he shall pay money according to the dowry of virgins."
         },
         {
             "type": "line",
-            "value": "Varázsló asszonyt ne hagyj életben."
+            "value": "Thou shalt not suffer a witch to live."
         },
         {
             "type": "line",
-            "value": "Aki barommal közösül, halállal lakoljon."
+            "value": "Whosoever lieth with a beast shall surely be put to death."
         },
         {
             "type": "line",
-            "value": "Aki isteneknek áldozik, nem csupán az Úrnak, megölettessék."
+            "value": "He that sacrificeth unto any god, save unto the LORD only, he shall be utterly destroyed."
         },
         {
             "type": "line",
-            "value": "A jövevényen ne hatalmaskodjál, és ne nyomorgasd azt, mert jövevények voltatok Égyiptom földén."
+            "value": "Thou shalt neither vex a stranger, nor oppress him: for ye were strangers in the land of Egypt."
         },
         {
             "type": "line",
-            "value": "Egy özvegyet vagy árvát se nyomorítsatok meg."
+            "value": "Ye shall not afflict any widow, or fatherless child."
         },
         {
             "type": "line",
-            "value": "Ha nyomorgatod azt, és hozzám kiált, meghallgatom az ő kiáltását."
+            "value": "If thou afflict them in any wise, and they cry at all unto me, I will surely hear their cry;"
         },
         {
             "type": "line",
-            "value": "És felgerjed haragom, és megöllek titeket fegyverrel, és a ti feleségeitek özvegyekké lésznek, a ti fiaitok pedig árvákká."
+            "value": "And my wrath shall wax hot, and I will kill you with the sword; and your wives shall be widows, and your children fatherless."
         },
         {
             "type": "line",
-            "value": "Ha pénzt adsz kölcsön az én népemnek, a szegénynek aki veled van; ne légy hozzá olyan, mint a hitelező; ne vessetek reá uzsorát."
+            "value": "If thou lend money to any of my people that is poor by thee, thou shalt not be to him as an usurer, neither shalt thou lay upon him usury."
         },
         {
             "type": "line",
-            "value": "Ha zálogba veszed a te felebarátod felső ruháját: naplemente előtt visszaadd azt néki:"
+            "value": "If thou at all take thy neighbour's raiment to pledge, thou shalt deliver it unto him by that the sun goeth down:"
         },
         {
             "type": "line",
-            "value": "Mert egyetlen takarója, testének ruhája az: miben háljon? Bizony, ha én hozzám kiált, meghallgatom; mert én irgalmas vagyok."
+            "value": "For that is his covering only, it is his raiment for his skin: wherein shall he sleep? and it shall come to pass, when he crieth unto me, that I will hear; for I am gracious."
         },
         {
             "type": "line",
-            "value": "A bírákat ne szidalmazd, és néped fejedelmét ne átkozd."
+            "value": "Thou shalt not revile the gods, nor curse the ruler of thy people."
         },
         {
             "type": "line",
-            "value": "Gabonáddal és boroddal ne késlekedjél; fiaid elsőszülöttét nékem add."
+            "value": "Thou shalt not delay to offer the first of thy ripe fruits, and of thy liquors: the firstborn of thy sons shalt thou give unto me."
         },
         {
             "type": "line",
-            "value": "Hasonlóképpen cselekedjél ökröddel, juhoddal; hét napig legyen az ő anyjával, a nyolcadik napon nékem add azt."
+            "value": "Likewise shalt thou do with thine oxen, and with thy sheep: seven days it shall be with his dam; on the eighth day thou shalt give it me."
         },
         {
             "type": "line",
-            "value": "És szent emberek legyetek én előttem; a mezőn széttépett húst meg ne egyétek; az ebnek vessétek azt."
+            "value": "And ye shall be holy men unto me: neither shall ye eat any flesh that is torn of beasts in the field; ye shall cast it to the dogs."
         }
     ]
 }

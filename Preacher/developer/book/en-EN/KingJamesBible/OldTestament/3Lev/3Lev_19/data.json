@@ -1,156 +1,156 @@
 {
    "meta": {
    "type": "text",
-   "name": "19. Fejezet"
+   "name": "Chapter 19"
    },
    "data": [
         {
             "type": "line",
-            "value": "Szóla ismét az Úr Mózesnek, mondván:"
+            "value": "And the LORD spake unto Moses, saying,"
         },
         {
             "type": "line",
-            "value": "Szólj Izráel fiainak egész gyülekezetéhez, és mondd nékik: Szentek legyetek, mert én az Úr, a ti Istenetek szent vagyok."
+            "value": "Speak unto all the congregation of the children of Israel, and say unto them, Ye shall be holy: for I the LORD your God am holy."
         },
         {
             "type": "line",
-            "value": "Az ő anyját és atyját minden ember tisztelje, és az én szombatjaimat megtartsátok. Én vagyok az Úr, a ti Istenetek."
+            "value": "Ye shall fear every man his mother, and his father, and keep my sabbaths: I am the LORD your God."
         },
         {
             "type": "line",
-            "value": "Ne hajoljatok a bálványokhoz, és ne csináljatok magatoknak öntött isteneket. Én vagyok az Úr, a ti Istenetek."
+            "value": "Turn ye not unto idols, nor make to yourselves molten gods: I am the LORD your God."
         },
         {
             "type": "line",
-            "value": "Hogyha hálaadó áldozatot áldoztok az Úrnak, úgy áldozzátok, hogy kedvesen fogadtassatok."
+            "value": "And if ye offer a sacrifice of peace offerings unto the LORD, ye shall offer it at your own will."
         },
         {
             "type": "line",
-            "value": "A ti áldozástok napján és a következőn egyétek meg; ami pedig harmadnapra marad, égessétek meg tűzben."
+            "value": "It shall be eaten the same day ye offer it, and on the morrow: and if ought remain until the third day, it shall be burnt in the fire."
         },
         {
             "type": "line",
-            "value": "Ha pedig harmadnapra eszik valaki abból, útálatos az, nem lehet kedves."
+            "value": "And if it be eaten at all on the third day, it is abominable; it shall not be accepted."
         },
         {
             "type": "line",
-            "value": "És aki eszi azt, viselje az ő álnokságának terhét; mivelhogy megfertőztette az Úrnak szentségét, irtassék ki az ilyen ember az ő népe közül."
+            "value": "Therefore every one that eateth it shall bear his iniquity, because he hath profaned the hallowed thing of the LORD: and that soul shall be cut off from among his people."
         },
         {
             "type": "line",
-            "value": "Mikor a ti földetek termését learatjátok, ne arasd le egészen a te meződnek szélét, és az elhullott gabonafejeket fel ne szedd."
+            "value": "And when ye reap the harvest of your land, thou shalt not wholly reap the corners of thy field, neither shalt thou gather the gleanings of thy harvest."
         },
         {
             "type": "line",
-            "value": "Szőlődet se mezgéreld le, és elhullott szemeit se szedd fel szőlődnek, a szegénynek és a jövevénynek hagyd meg azokat. Én vagyok az Úr, a ti Istenetek."
+            "value": "And thou shalt not glean thy vineyard, neither shalt thou gather every grape of thy vineyard; thou shalt leave them for the poor and stranger: I am the LORD your God."
         },
         {
             "type": "line",
-            "value": "Ne orozzatok, se ne hazudjatok és senki meg ne csalja az ő felebarátját."
+            "value": "Ye shall not steal, neither deal falsely, neither lie one to another."
         },
         {
             "type": "line",
-            "value": "És ne esküdjetek hamisan az én nevemre, mert megfertőzteted a te Istenednek nevét. Én vagyok az Úr."
+            "value": "And ye shall not swear by my name falsely, neither shalt thou profane the name of thy God: I am the LORD."
         },
         {
             "type": "line",
-            "value": "A te felebarátodat ne zsarold, se ki ne rabold. A napszámos bére ne maradjon nálad reggelig."
+            "value": "Thou shalt not defraud thy neighbour, neither rob him: the wages of him that is hired shall not abide with thee all night until the morning."
         },
         {
             "type": "line",
-            "value": "Siketet ne szidalmazz, és vak elé gáncsot ne vess; hanem félj a te Istenedtől. Én vagyok az Úr."
+            "value": "Thou shalt not curse the deaf, nor put a stumblingblock before the blind, but shalt fear thy God: I am the LORD."
         },
         {
             "type": "line",
-            "value": "Ne kövessetek el igazságtalanságot az ítéletben; ne nézd a szegénynek személyét, se a hatalmas személyét ne becsüld; igazságosan ítélj a te felebarátodnak."
+            "value": "Ye shall do no unrighteousness in judgment: thou shalt not respect the person of the poor, nor honour the person of the mighty: but in righteousness shalt thou judge thy neighbour."
         },
         {
             "type": "line",
-            "value": "Ne járj rágalmazóként a te néped között; ne támadj fel a te felebarátodnak vére ellen. Én vagyok az Úr."
+            "value": "Thou shalt not go up and down as a talebearer among thy people: neither shalt thou stand against the blood of thy neighbour: I am the LORD."
         },
         {
             "type": "line",
-            "value": "Ne gyűlöld a te atyádfiát szívedben; fedd meg a te felebarátodat nyilván, hogy ne viseljed az ő bűnének terhét."
+            "value": "Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him."
         },
         {
             "type": "line",
-            "value": "Bosszúálló ne légy, és haragot ne tarts a te néped fiai ellen, hanem szeressed felebarátodat, mint magadat. Én vagyok az Úr."
+            "value": "Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the LORD."
         },
         {
             "type": "line",
-            "value": "Az én rendeléseimet megtartsátok: Barmodat másféle állattal ne párosítsd, szántóföldedbe kétféle magot ne vess, és kétféle szövetű ruha ne legyen rajtad."
+            "value": "Ye shall keep my statutes. Thou shalt not let thy cattle gender with a diverse kind: thou shalt not sow thy field with mingled seed: neither shall a garment mingled of linen and woollen come upon thee."
         },
         {
             "type": "line",
-            "value": "És ha valaki asszonynyal hál és közösül, és az valamely férfi hatalma alatt lévő rabnő, és sem ki nem váltatott, sem szabadon nem bocsáttatott: büntetés érje, de meg ne ölettessenek, mert nem volt szabad az asszony."
+            "value": "And whosoever lieth carnally with a woman, that is a bondmaid, betrothed to an husband, and not at all redeemed, nor freedom given her; she shall be scourged; they shall not be put to death, because she was not free."
         },
         {
             "type": "line",
-            "value": "A férfiú pedig vigye el az ő vétkéért való áldozatát az Úrnak a gyülekezet sátorának nyílásához: egy kost vétekért való áldozatul."
+            "value": "And he shall bring his trespass offering unto the LORD, unto the door of the tabernacle of the congregation, even a ram for a trespass offering."
         },
         {
             "type": "line",
-            "value": "És a pap szerezzen néki engesztelést, a vétekért való áldozat kosával az Úr előtt, az ő bűnéért, amelyet elkövetett, és megbocsáttatik néki az ő bűne, amelyet elkövetett."
+            "value": "And the priest shall make an atonement for him with the ram of the trespass offering before the LORD for his sin which he hath done: and the sin which he hath done shall be forgiven him."
         },
         {
             "type": "line",
-            "value": "Mikor pedig bementek arra a földre, és plántáltok ott mindenféle gyümölcstermő fát, annak gyümölcsét körülmetéletlennek tartsátok, három esztendeig legyen az néktek körülmetéletlen: meg ne egyétek."
+            "value": "And when ye shall come into the land, and shall have planted all manner of trees for food, then ye shall count the fruit thereof as uncircumcised: three years shall it be as uncircumcised unto you: it shall not be eaten of."
         },
         {
             "type": "line",
-            "value": "A negyedik esztendőben pedig annak minden gyümölcse szent legyen, hálaáldozatul az Úrnak."
+            "value": "But in the fourth year all the fruit thereof shall be holy to praise the LORD withal."
         },
         {
             "type": "line",
-            "value": "Csak az ötödik esztendőben egyétek meg annak gyümölcsét, és annak termését magatoknak gyüjtsétek. Én vagyok az Úr, a ti Istenetek."
+            "value": "And in the fifth year shall ye eat of the fruit thereof, that it may yield unto you the increase thereof: I am the LORD your God."
         },
         {
             "type": "line",
-            "value": "Ne egyetek vérrel valót, ne varázsoljatok és ne bűvészkedjetek."
+            "value": "Ye shall not eat any thing with the blood: neither shall ye use enchantment, nor observe times."
         },
         {
             "type": "line",
-            "value": "A ti hajatokat kerekdedre ne nyírjátok, a szakállad végét se csúfítsd el."
+            "value": "Ye shall not round the corners of your heads, neither shalt thou mar the corners of thy beard."
         },
         {
             "type": "line",
-            "value": "Testeteket a holt emberért meg ne hasogassátok, se égetéssel magatokat meg ne bélyegezzétek. Én vagyok az Úr."
+            "value": "Ye shall not make any cuttings in your flesh for the dead, nor print any marks upon you: I am the LORD."
         },
         {
             "type": "line",
-            "value": "A te leányodat meg ne becstelenítsd, paráznaságra adván azt; hogy paráznává ne legyen a föld, és be ne teljék a föld fajtalansággal."
+            "value": "Do not prostitute thy daughter, to cause her to be a whore; lest the land fall to whoredom, and the land become full of wickedness."
         },
         {
             "type": "line",
-            "value": "Az én szombatjaimat megtartsátok; szenthelyemet tiszteljétek. Én vagyok az Úr."
+            "value": "Ye shall keep my sabbaths, and reverence my sanctuary: I am the LORD."
         },
         {
             "type": "line",
-            "value": "Ne menjetek ígézőkhöz, és a jövendőmondókat ne tudakozzátok, hogy magatokat azokkal megfertőztessétek. Én vagyok az Úr, a ti Istenetek."
+            "value": "Regard not them that have familiar spirits, neither seek after wizards, to be defiled by them: I am the LORD your God."
         },
         {
             "type": "line",
-            "value": "Az ősz ember előtt kelj fel, és a vén ember orcáját becsüld meg, és félj a te Istenedtől. Én vagyok az Úr."
+            "value": "Thou shalt rise up before the hoary head, and honour the face of the old man, and fear thy God: I am the LORD."
         },
         {
             "type": "line",
-            "value": "Hogyha jövevény tartózkodik nálad, a ti földeteken, ne nyomorgassátok őt."
+            "value": "And if a stranger sojourn with thee in your land, ye shall not vex him."
         },
         {
             "type": "line",
-            "value": "Olyan legyen néktek a jövevény, aki nálatok tartózkodik, mintha közületek való benszülött volna, és szeressed azt mint magadat, mert jövevények voltatok Égyiptom földén. Én vagyok az Úr, a ti Istenetek."
+            "value": "But the stranger that dwelleth with you shall be unto you as one born among you, and thou shalt love him as thyself; for ye were strangers in the land of Egypt: I am the LORD your God."
         },
         {
             "type": "line",
-            "value": "Ne kövessetek el igazságtalanságot az ítéletben, a hosszmértékben, súlymértékben és ürmértékben."
+            "value": "Ye shall do no unrighteousness in judgment, in meteyard, in weight, or in measure."
         },
         {
             "type": "line",
-            "value": "Igaz mérték, igaz font, igaz efa, és igaz hin legyen közöttetek. Én vagyok az Úr, a ti Istenetek, aki kihoztalak titeket Égyiptom földéből."
+            "value": "Just balances, just weights, a just ephah, and a just hin, shall ye have: I am the LORD your God, which brought you out of the land of Egypt."
         },
         {
             "type": "line",
-            "value": "Tartsátok meg azért minden rendelésemet és minden végzésemet, és cselekedjetek azok szerint. Én vagyok az Úr."
+            "value": "Therefore shall ye observe all my statutes, and all my judgments, and do them: I am the LORD."
         }
     ]
 }

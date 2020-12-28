@@ -1,144 +1,144 @@
 {
    "meta": {
    "type": "text",
-   "name": "27. Fejezet"
+   "name": "Chapter 27"
    },
    "data": [
         {
             "type": "line",
-            "value": "Szóla ismét az Úr Mózesnek, mondván:"
+            "value": "And the LORD spake unto Moses, saying,"
         },
         {
             "type": "line",
-            "value": "Szólj Izráel fiainak, és mondd meg nékik: Ha valaki fogadásul a te becslésed szerint való személyeket szentel az Úrnak:"
+            "value": "Speak unto the children of Israel, and say unto them, When a man shall make a singular vow, the persons shall be for the LORD by thy estimation."
         },
         {
             "type": "line",
-            "value": "Akkor, ha férfit kell becslened, húsz esztendőstől hatvan esztendősig ötven ezüst siklusra becsüljed, a szent siklus szerint."
+            "value": "And thy estimation shall be of the male from twenty years old even unto sixty years old, even thy estimation shall be fifty shekels of silver, after the shekel of the sanctuary."
         },
         {
             "type": "line",
-            "value": "Ha pedig asszony-személy az, harminc siklusra becsüljed."
+            "value": "And if it be a female, then thy estimation shall be thirty shekels."
         },
         {
             "type": "line",
-            "value": "Ha pedig öt esztendőstől húsz esztendősig való, akkor a fiúgyermeket húsz siklusra becsüljed, a leányt pedig tíz siklusra."
+            "value": "And if it be from five years old even unto twenty years old, then thy estimation shall be of the male twenty shekels, and for the female ten shekels."
         },
         {
             "type": "line",
-            "value": "Ha pedig egy hónapostól öt esztendősig való, akkor a fiút öt ezüst siklusra becsüld, a leányt pedig három ezüst siklusra."
+            "value": "And if it be from a month old even unto five years old, then thy estimation shall be of the male five shekels of silver, and for the female thy estimation shall be three shekels of silver."
         },
         {
             "type": "line",
-            "value": "Ha pedig hatvan esztendős és azon felül való, ha férfi, akkor becsüljed tizenöt siklusra, az asszony-személyt pedig tíz siklusra."
+            "value": "And if it be from sixty years old and above; if it be a male, then thy estimation shall be fifteen shekels, and for the female ten shekels."
         },
         {
             "type": "line",
-            "value": "Ha pedig szegényebb az, mint te becsülted, akkor állassák a pap elé, és becsülje meg azt a pap; aszerint becsülje azt a pap, amilyen módja van a fogadást tevőnek."
+            "value": "But if he be poorer than thy estimation, then he shall present himself before the priest, and the priest shall value him; according to his ability that vowed shall the priest value him."
         },
         {
             "type": "line",
-            "value": "Ha pedig olyan barom az, amiből áldozni szoktak az Úrnak: mindaz, amit az eféléből ád valaki az Úrnak, szent legyen."
+            "value": "And if it be a beast, whereof men bring an offering unto the LORD, all that any man giveth of such unto the LORD shall be holy."
         },
         {
             "type": "line",
-            "value": "Ne adjon mást helyette, és ki ne cserélje azt: jót hitványért, vagy hitványat jóért; de ha mégis kicserélne barmot barommal: mind ez, mind az, amivel kicserélte, szent legyen."
+            "value": "He shall not alter it, nor change it, a good for a bad, or a bad for a good: and if he shall at all change beast for beast, then it and the exchange thereof shall be holy."
         },
         {
             "type": "line",
-            "value": "Ha pedig valamely tisztátalan barom az, amelyből nem vihetnek áldozatot az Úrnak: állassák azt a barmot a pap elé."
+            "value": "And if it be any unclean beast, of which they do not offer a sacrifice unto the LORD, then he shall present the beast before the priest:"
         },
         {
             "type": "line",
-            "value": "És becsülje meg azt a pap akár jó, akár hitvány, és amint becsüli a pap, úgy legyen."
+            "value": "And the priest shall value it, whether it be good or bad: as thou valuest it, who art the priest, so shall it be."
         },
         {
             "type": "line",
-            "value": "Ha pedig meg akarja váltani, adja hozzá annak ötödrészét a te becsléseden felül."
+            "value": "But if he will at all redeem it, then he shall add a fifth part thereof unto thy estimation."
         },
         {
             "type": "line",
-            "value": "És ha valaki az ő házát szenteli az Úrnak szentségül, azt is becsülje meg a pap: akár jó, akár hitvány, és amennyire a pap becsüli azt, úgy maradjon."
+            "value": "And when a man shall sanctify his house to be holy unto the LORD, then the priest shall estimate it, whether it be good or bad: as the priest shall estimate it, so shall it stand."
         },
         {
             "type": "line",
-            "value": "Ha pedig az, aki odaszentelte, megváltja az ő házát: akkor adja ahhoz a te becslésed szerint való árnak ötödrészét, és legyen az övé."
+            "value": "And if he that sanctified it will redeem his house, then he shall add the fifth part of the money of thy estimation unto it, and it shall be his."
         },
         {
             "type": "line",
-            "value": "És ha valaki az ő mezei birtokából szentel valamit az Úrnak, akkor a mag szerint becsüld meg, amely abba megy: egy hómer árpa-mag után ötven ezüst siklusra."
+            "value": "And if a man shall sanctify unto the LORD some part of a field of his possession, then thy estimation shall be according to the seed thereof: an homer of barley seed shall be valued at fifty shekels of silver."
         },
         {
             "type": "line",
-            "value": "Ha a kürtölésnek esztendejétől szenteli oda az ő mezejét, amint becsülted, úgy maradjon."
+            "value": "If he sanctify his field from the year of jubile, according to thy estimation it shall stand."
         },
         {
             "type": "line",
-            "value": "Ha pedig a kürtölés esztendeje után szenteli oda az ő mezejét, a pap számítsa fel néki az árt az esztendők száma szerint, amelyek hátra vannak a kürtölés esztendejéig, és szállíttassék le a te becslésed."
+            "value": "But if he sanctify his field after the jubile, then the priest shall reckon unto him the money according to the years that remain, even unto the year of the jubile, and it shall be abated from thy estimation."
         },
         {
             "type": "line",
-            "value": "És ha meg akarja váltani a mezőt az, aki odaszentelte, akkor adja ahhoz az általad becsült árnak ötödrészét, és maradjon az övé."
+            "value": "And if he that sanctified the field will in any wise redeem it, then he shall add the fifth part of the money of thy estimation unto it, and it shall be assured to him."
         },
         {
             "type": "line",
-            "value": "Ha pedig nem váltja meg azt a mezőt, és ha eladja azt a mezőt más valakinek, többé meg nem válthatja azt."
+            "value": "And if he will not redeem the field, or if he have sold the field to another man, it shall not be redeemed any more."
         },
         {
             "type": "line",
-            "value": "És az a föld, mikor a kürtölésnek esztendejében felszabadul, az Úrnak szenteltessék, mint valamely néki szentelt mező, papok birtokává legyen az."
+            "value": "But the field, when it goeth out in the jubile, shall be holy unto the LORD, as a field devoted; the possession thereof shall be the priest's."
         },
         {
             "type": "line",
-            "value": "Ha pedig pénzen vett mezejét, ami nem az ő birtokának mezejéből való, valaki az Úrnak szenteli:"
+            "value": "And if a man sanctify unto the LORD a field which he hath bought, which is not of the fields of his possession;"
         },
         {
             "type": "line",
-            "value": "Akkor számolja fel néki a pap a te becslésed szerint való összeget a kürtölés esztendejéig, és adja oda azt, amire te becsülted, azon a napon szentségül az Úrnak."
+            "value": "Then the priest shall reckon unto him the worth of thy estimation, even unto the year of the jubile: and he shall give thine estimation in that day, as a holy thing unto the LORD."
         },
         {
             "type": "line",
-            "value": "A kürtölésnek esztendejében visszaszáll a mező arra, akitől vette azt, akinek birtoka volt az a föld."
+            "value": "In the year of the jubile the field shall return unto him of whom it was bought, even to him to whom the possession of the land did belong."
         },
         {
             "type": "line",
-            "value": "Minden becslésed pedig a szent siklus szerint legyen; húsz géra legyen a siklus."
+            "value": "And all thy estimations shall be according to the shekel of the sanctuary: twenty gerahs shall be the shekel."
         },
         {
             "type": "line",
-            "value": "Csak elsőszülöttet, amely elsőszülött úgyis az Úré, azt ne szenteljen a baromféléből senki; akár borjú akár bárány, az Úré az."
+            "value": "Only the firstling of the beasts, which should be the LORD'S firstling, no man shall sanctify it; whether it be ox, or sheep: it is the LORD'S."
         },
         {
             "type": "line",
-            "value": "Ha pedig tisztátalan baromból való az, váltsa meg a te becslésed szerint, és adja hozzá annak ötödrészét; ha pedig nem váltják meg, adassék el a te becslésed szerint."
+            "value": "And if it be of an unclean beast, then he shall redeem it according to thine estimation, and shall add a fifth part of it thereto: or if it be not redeemed, then it shall be sold according to thy estimation."
         },
         {
             "type": "line",
-            "value": "De semmi, amit valaki teljesen az Úrnak szentelt, mind abból amije van, akár ember vagy barom, akár mezei birtokából való, el ne adassék, és meg se váltassék; minden, ami teljesen néki szenteltetett, igen szentséges az Úrnak."
+            "value": "Notwithstanding no devoted thing, that a man shall devote unto the LORD of all that he hath, both of man and beast, and of the field of his possession, shall be sold or redeemed: every devoted thing is most holy unto the LORD."
         },
         {
             "type": "line",
-            "value": "Senki, aki teljesen az Úrnak szenteltetett az emberek közül, meg ne váltassék, hanem halálra adassék bizonynyal."
+            "value": "None devoted, which shall be devoted of men, shall be redeemed; but shall surely be put to death."
         },
         {
             "type": "line",
-            "value": "A földnek minden tizede, a föld vetéséből, a fa gyümölcséből az Úré; szentség az az Úrnak."
+            "value": "And all the tithe of the land, whether of the seed of the land, or of the fruit of the tree, is the LORD'S: it is holy unto the LORD."
         },
         {
             "type": "line",
-            "value": "És ha valaki meg akar valamit váltani az ő tizedéből: adja hozzá annak ötödrészét."
+            "value": "And if a man will at all redeem ought of his tithes, he shall add thereto the fifth part thereof."
         },
         {
             "type": "line",
-            "value": "És minden tizede a baromnak és juhnak, mindabból, ami a vessző alatt átmegy, a tizedik az Úrnak legyen szentelve."
+            "value": "And concerning the tithe of the herd, or of the flock, even of whatsoever passeth under the rod, the tenth shall be holy unto the LORD."
         },
         {
             "type": "line",
-            "value": "Ne tudakozódjék, ha jó-e vagy hitvány, és el se cserélje azt; de ha mégis elcseréli azt, akkor az, és amit cserébe adott azért, szent legyen, és meg se váltassék."
+            "value": "He shall not search whether it be good or bad, neither shall he change it: and if he change it at all, then both it and the change thereof shall be holy; it shall not be redeemed."
         },
         {
             "type": "line",
-            "value": "Ezek azok a parancsolatok, amelyeket Mózes által parancsolt az Úr Izráel fiainak a Sinai hegyen."
+            "value": "These are the commandments, which the LORD commanded Moses for the children of Israel in mount Sinai."
         }
     ]
 }
