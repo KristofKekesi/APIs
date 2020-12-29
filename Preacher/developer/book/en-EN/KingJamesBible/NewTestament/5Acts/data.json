@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "type": "folder",
+    "url": "book/en-EN/KingJamesBible/NewTestament/5Acts/",
+    "name": "Chapters",
+	"status": "visible",
+	"contains": "text"
+  },
+  "data": [
+    {
+      "dir": "5Acts_1/data.json",
+      "name": "Chapter 1",
+      "description": ""
+    },
+    {
+      "dir": "5Acts_2/data.json",
+      "name": "Chapter 2",
+      "description": ""
+    },
+    {
+      "dir": "5Acts_3/data.json",
+      "name": "Chapter 3",
+      "description": ""
+    },
+    {
+      "dir": "5Acts_4/data.json",
+      "name": "Chapter 4",
+      "description": ""
+    },
+    {
+      "dir": "5Acts_5/data.json",
+      "name": "Chapter 5",
+      "description": ""
+    },
+    {
+      "dir": "5Acts_6/data.json",
+      "name": "Chapter 6",
+      "description": ""
+    },
+    {"dir": "5Acts_7/data.json",
+      "name": "Chapter 7",
+      "description": ""
+    },
+    {
+      "dir": "5Acts_8/data.json",
+      "name": "Chapter 8",
+      "description": ""
+    },
+    {
+      "dir": "5Acts_9/data.json",
+      "name": "Chapter 9",
+      "description": ""
+    },
+    {
+      "dir": "5Acts_10/data.json",
+      "name": "Chapter 10",
+      "description": ""
+    },
+    {
+      "dir": "5Acts_11/data.json",
+      "name": "Chapter 11",
+      "description": ""
+    },
+    {
+      "dir": "5Acts_12/data.json",
+      "name": "Chapter 12",
+      "description": ""
+    },
+    {
+      "dir": "5Acts_13/data.json",
+      "name": "Chapter 13",
+      "description": ""
+    },
+    {
+      "dir": "5Acts_14/data.json",
+      "name": "Chapter 14",
+      "description": ""
+    },
+    {
+      "dir": "5Acts_15/data.json",
+      "name": "Chapter 15",
+      "description": ""
+    },
+    {
+      "dir": "5Acts_16/data.json",
+      "name": "Chapter 16",
+      "description": ""
+    },
+    {
+      "dir": "5Acts_17/data.json",
+      "name": "Chapter 17",
+      "description": ""
+    },
+    {
+      "dir": "5Acts_18/data.json",
+      "name": "Chapter 18",
+      "description": ""
+    },
+    {
+      "dir": "5Acts_19/data.json",
+      "name": "Chapter 19",
+      "description": ""
+    },
+    {
+      "dir": "5Acts_20/data.json",
+      "name": "Chapter 20",
+      "description": ""
+    },
+    {
+      "dir": "5Acts_21/data.json",
+      "name": "Chapter 21",
+      "description": ""
+    },
+    {
+      "dir": "5Acts_22/data.json",
+      "name": "Chapter 22",
+      "description": ""
+    },
+    {
+      "dir": "5Acts_23/data.json",
+      "name": "Chapter 23",
+      "description": ""
+    },
+    {
+      "dir": "5Acts_24/data.json",
+      "name": "Chapter 24",
+      "description": ""
+    },
+    {
+      "dir": "5Acts_25/data.json",
+      "name": "Chapter 25",
+      "description": ""
+    },
+    {
+      "dir": "5Acts_26/data.json",
+      "name": "Chapter 26",
+      "description": ""
+    },
+    {
+      "dir": "5Acts_27/data.json",
+      "name": "Chapter 27",
+      "description": ""
+    },
+    {
+      "dir": "5Acts_28/data.json",
+      "name": "Chapter 28",
+      "description": ""
+    }
+  ]
+}
