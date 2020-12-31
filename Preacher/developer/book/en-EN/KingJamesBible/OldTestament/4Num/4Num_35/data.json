@@ -1,144 +1,144 @@
 {
    "meta": {
    "type": "text",
-   "name": "35. Fejezet"
+   "name": "Chapter 35"
    },
    "data": [
         {
             "type": "line",
-            "value": "És szóla az Úr Mózesnek a Moáb mezőségén a Jordán mellett, Jérikhó ellenében, mondván:"
+            "value": "And the LORD spake unto Moses in the plains of Moab by Jordan near Jericho, saying,"
         },
         {
             "type": "line",
-            "value": "Parancsold meg Izráel fiainak, hogy adjanak a lévitáknak az ő örökségi birtokukból lakásra való városokat; a városokhoz pedig adjatok azok környékén legelőt is a lévitáknak;"
+            "value": "Command the children of Israel, that they give unto the Levites of the inheritance of their possession cities to dwell in; and ye shall give also unto the Levites suburbs for the cities round about them."
         },
         {
             "type": "line",
-            "value": "Hogy legyenek nékik a városok lakóhelyekül, a legelők pedig legyenek az ő barmaiknak, jószágaiknak és mindenféle állatjoknak."
+            "value": "And the cities shall they have to dwell in; and the suburbs of them shall be for their cattle, and for their goods, and for all their beasts."
         },
         {
             "type": "line",
-            "value": "És azoknak a városoknak legelői, amelyeket a lévitáknak adtok, a város falától és azon kivül, ezer singnyire legyenek köröskörül."
+            "value": "And the suburbs of the cities, which ye shall give unto the Levites, shall reach from the wall of the city and outward a thousand cubits round about."
         },
         {
             "type": "line",
-            "value": "Mérjetek azért a városon kivül, napkelet felől két ezer singet, dél felől is kétezer singet, napnyugot felől kétezer singet, és észak felől kétezer singet; és a város legyen középben. Ez legyen számukra a városok legelője."
+            "value": "And ye shall measure from without the city on the east side two thousand cubits, and on the south side two thousand cubits, and on the west side two thousand cubits, and on the north side two thousand cubits; and the city shall be in the midst: this shall be to them the suburbs of the cities."
         },
         {
             "type": "line",
-            "value": "A városok közül pedig, amelyeket a lévitáknak adtok, hat legyen menedékváros, amelyeket azért adjatok, hogy oda szaladjon a gyilkos; és azokon kivül adjatok negyvenkét várost."
+            "value": "And among the cities which ye shall give unto the Levites there shall be six cities for refuge, which ye shall appoint for the manslayer, that he may flee thither: and to them ye shall add forty and two cities."
         },
         {
             "type": "line",
-            "value": "Mind a városok, amelyeket adnotok kell a lévitáknak, negyvennyolc város, azoknak legelőivel egyben."
+            "value": "So all the cities which ye shall give to the Levites shall be forty and eight cities: them shall ye give with their suburbs."
         },
         {
             "type": "line",
-            "value": "Amely városokat pedig Izráel fiainak örökségéből adtok, azokhoz attól, akinek több van, többet vegyetek, és attól, akinek kevesebb van, kevesebbet vegyetek; mindenik az ő örökségéhez képest, amelyet örökül kapott, adjon az ő városaiból a lévitáknak."
+            "value": "And the cities which ye shall give shall be of the possession of the children of Israel: from them that have many ye shall give many; but from them that have few ye shall give few: every one shall give of his cities unto the Levites according to his inheritance which he inheriteth."
         },
         {
             "type": "line",
-            "value": "És szóla az Úr Mózesnek, mondván:"
+            "value": "And the LORD spake unto Moses, saying,"
         },
         {
             "type": "line",
-            "value": "Szólj Izráel fiainak, és mondd meg nékik: Mikor átmentek ti a Jordánon a Kanaán földére:"
+            "value": "Speak unto the children of Israel, and say unto them, When ye be come over Jordan into the land of Canaan;"
         },
         {
             "type": "line",
-            "value": "Válasszatok ki magatoknak városokat, amelyek menedékvárosaitok legyenek, hogy oda szaladjon a gyilkos, aki történetből öl meg valakit."
+            "value": "Then ye shall appoint you cities to be cities of refuge for you; that the slayer may flee thither, which killeth any person at unawares."
         },
         {
             "type": "line",
-            "value": "És legyenek azok a ti városaitok menedékül a vérbosszuló ellen, és ne haljon meg a gyilkos, míg ítéletre nem áll a gyülekezet elé."
+            "value": "And they shall be unto you cities for refuge from the avenger; that the manslayer die not, until he stand before the congregation in judgment."
         },
         {
             "type": "line",
-            "value": "Amely városokat pedig oda adtok, azok közül hat legyen néktek menedékvárosul."
+            "value": "And of these cities which ye shall give six cities shall ye have for refuge."
         },
         {
             "type": "line",
-            "value": "Három várost adjatok a Jordánon túl, és három várost adjatok a Kanaán földén; menedékvárosok legyenek azok."
+            "value": "Ye shall give three cities on this side Jordan, and three cities shall ye give in the land of Canaan, which shall be cities of refuge."
         },
         {
             "type": "line",
-            "value": "Izráel fiainak és a jövevénynek, és az ő közöttök lakozónak menedékül legyen az a hat város, hogy oda szaladjon az, aki történetből öl meg valakit."
+            "value": "These six cities shall be a refuge, both for the children of Israel, and for the stranger, and for the sojourner among them: that every one that killeth any person unawares may flee thither."
         },
         {
             "type": "line",
-            "value": "De ha valaki vaseszközzel úgy üt meg valakit, hogy meghal, gyilkos az; halállal lakoljon a gyilkos."
+            "value": "And if he smite him with an instrument of iron, so that he die, he is a murderer: the murderer shall surely be put to death."
         },
         {
             "type": "line",
-            "value": "És ha kézben levő kővel, amelytől meghalhat, üti meg úgy, hogy meghal, gyilkos az; halállal lakoljon a gyilkos."
+            "value": "And if he smite him with throwing a stone, wherewith he may die, and he die, he is a murderer: the murderer shall surely be put to death."
         },
         {
             "type": "line",
-            "value": "Vagy ha kézben lévő faeszközzel, amelytől meghalhat, üti meg úgy, hogy meghal, gyilkos az; halállal lakoljon a gyilkos."
+            "value": "Or if he smite him with an hand weapon of wood, wherewith he may die, and he die, he is a murderer: the murderer shall surely be put to death."
         },
         {
             "type": "line",
-            "value": "A vérbosszuló rokon ölje meg a gyilkost; mihelyt találkozik vele, ölje meg azt."
+            "value": "The revenger of blood himself shall slay the murderer: when he meeteth him, he shall slay him."
         },
         {
             "type": "line",
-            "value": "Hogyha gyűlölségből taszítja meg őt, vagy szántszándékkal úgy hajít valamit reá, hogy meghal;"
+            "value": "But if he thrust him of hatred, or hurl at him by laying of wait, that he die;"
         },
         {
             "type": "line",
-            "value": "Vagy ellenségeskedésből kezével üti meg azt úgy, hogy meghal: halállal lakoljon az, aki ütötte; gyilkos az; a vérbosszuló rokon ölje meg azt a gyilkost, mihelyt találkozik vele."
+            "value": "Or in enmity smite him with his hand, that he die: he that smote him shall surely be put to death; for he is a murderer: the revenger of blood shall slay the murderer, when he meeteth him."
         },
         {
             "type": "line",
-            "value": "Ha pedig hirtelenségből, ellenségeskedés nélkül taszítja meg őt; vagy nem szántszándékból hajít reá akármiféle eszközt;"
+            "value": "But if he thrust him suddenly without enmity, or have cast upon him any thing without laying of wait,"
         },
         {
             "type": "line",
-            "value": "Vagy akármiféle követ, amelytől meghalhat, úgy ejt valakire, akit nem látott, hogy meghal, holott nem volt ő annak ellensége, sem nem kereste annak vesztét:"
+            "value": "Or with any stone, wherewith a man may die, seeing him not, and cast it upon him, that he die, and was not his enemy, neither sought his harm:"
         },
         {
             "type": "line",
-            "value": "Akkor ítéljen a gyülekezet az agyonütő között és a vérbosszuló rokon között e törvények szerint."
+            "value": "Then the congregation shall judge between the slayer and the revenger of blood according to these judgments:"
         },
         {
             "type": "line",
-            "value": "És mentse ki a gyülekezet a gyilkost a vérbosszuló rokonnak kezéből, és küldje vissza azt a gyülekezet az ő menedékvárosába, amelybe szaladott vala, és lakozzék abban, míg meghal a főpap, aki felkenetett a szent olajjal."
+            "value": "And the congregation shall deliver the slayer out of the hand of the revenger of blood, and the congregation shall restore him to the city of his refuge, whither he was fled: and he shall abide in it unto the death of the high priest, which was anointed with the holy oil."
         },
         {
             "type": "line",
-            "value": "Ha pedig kimegy a gyilkos az ő menedékvárosának határából, amelybe szaladott vala;"
+            "value": "But if the slayer shall at any time come without the border of the city of his refuge, whither he was fled;"
         },
         {
             "type": "line",
-            "value": "És találja őt a vérbosszuló rokon az ő menedékvárosának határán kivül, és megöli az a vérbosszuló rokon a gyilkost: nem lesz annak vére ő rajta;"
+            "value": "And the revenger of blood find him without the borders of the city of his refuge, and the revenger of blood kill the slayer; he shall not be guilty of blood:"
         },
         {
             "type": "line",
-            "value": "Mert az ő menedékvárosában kell laknia a főpap haláláig; a főpap halála után pedig visszatérhet a gyilkos az ő örökségének földére."
+            "value": "Because he should have remained in the city of his refuge until the death of the high priest: but after the death of the high priest the slayer shall return into the land of his possession."
         },
         {
             "type": "line",
-            "value": "És legyenek ezek néktek ítéletre való rendelések a ti nemzetségeitek szerint, minden lakhelyeteken."
+            "value": "So these things shall be for a statute of judgment unto you throughout your generations in all your dwellings."
         },
         {
             "type": "line",
-            "value": "Ha valaki megöl valakit, tanúk szavára gyilkolják meg a gyilkost; de egy tanú nem lehet elég tanú senki ellen, hogy meghaljon."
+            "value": "Whoso killeth any person, the murderer shall be put to death by the mouth of witnesses: but one witness shall not testify against any person to cause him to die."
         },
         {
             "type": "line",
-            "value": "Az olyan gyilkos életéért pedig ne vegyetek el váltságot, aki halálra való gonosz, hanem halállal lakoljon."
+            "value": "Moreover ye shall take no satisfaction for the life of a murderer, which is guilty of death: but he shall be surely put to death."
         },
         {
             "type": "line",
-            "value": "Attól se vegyetek váltságot, aki az ő menedékvárosába szaladt, hogy visszamehessen és otthon lakozzék a főpap haláláig."
+            "value": "And ye shall take no satisfaction for him that is fled to the city of his refuge, that he should come again to dwell in the land, until the death of the priest."
         },
         {
             "type": "line",
-            "value": "És meg ne fertőztessétek a földet, amelyben lesztek; mert a vér, az megfertézteti a földet, és a földnek nem szerezhető engesztelés a vér miatt, amely kiontatott azon, csak annak vére által, aki kiontotta azt."
+            "value": "So ye shall not pollute the land wherein ye are: for blood it defileth the land: and the land cannot be cleansed of the blood that is shed therein, but by the blood of him that shed it."
         },
         {
             "type": "line",
-            "value": "Ne tisztátalanítsd meg azért azt a földet, amelyben laktok, amelyben én is lakozom; mert én, az Úr, Izráel fiai között lakozom."
+            "value": "Defile not therefore the land which ye shall inhabit, wherein I dwell: for I the LORD dwell among the children of Israel."
         }
     ]
 }

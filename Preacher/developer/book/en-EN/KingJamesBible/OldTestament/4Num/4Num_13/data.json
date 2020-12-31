@@ -1,144 +1,140 @@
 {
    "meta": {
    "type": "text",
-   "name": "13. Fejezet"
+   "name": "Chapter 13"
    },
    "data": [
         {
             "type": "line",
-            "value": "Azután pedig elindula a nép Haseróthból, és tábort ütének Párán pusztájában."
+            "value": "And the LORD spake unto Moses, saying,"
         },
         {
             "type": "line",
-            "value": "És szóla az Úr Mózesnek, mondván:"
+            "value": "Send thou men, that they may search the land of Canaan, which I give unto the children of Israel: of every tribe of their fathers shall ye send a man, every one a ruler among them."
         },
         {
             "type": "line",
-            "value": "Küldj férfiakat, hogy kémleljék meg a Kanaán földét, amelyet én adok Izráel fiainak; az ő atyáiknak mindenik törzséből egy-egy férfiút küldjetek, mind olyat, aki főember közöttök."
+            "value": "And Moses by the commandment of the LORD sent them from the wilderness of Paran: all those men were heads of the children of Israel."
         },
         {
             "type": "line",
-            "value": "Elküldé azért őket Mózes Párán pusztájából az Úr rendelése szerint; és azok a férfiak mindnyájan főemberek valának Izráel fiai között."
+            "value": "And these were their names: of the tribe of Reuben, Shammua the son of Zaccur."
         },
         {
             "type": "line",
-            "value": "Ezek pedig azoknak nevei: A Rúben nemzetségéből Sámmua, a Zakhúr fia."
+            "value": "Of the tribe of Simeon, Shaphat the son of Hori."
         },
         {
             "type": "line",
-            "value": "A Simeon nemzetségéből Safát, a Hóri fia."
+            "value": "Of the tribe of Judah, Caleb the son of Jephunneh."
         },
         {
             "type": "line",
-            "value": "A Júda nemzetségéből Káleb, a Jefunné fia."
+            "value": "Of the tribe of Issachar, Igal the son of Joseph."
         },
         {
             "type": "line",
-            "value": "Az Izsakhár nemzetségéből Igál, a József fia."
+            "value": "Of the tribe of Ephraim, Oshea the son of Nun."
         },
         {
             "type": "line",
-            "value": "Az Efraim nemzetségéből Hósea, a Nún fia."
+            "value": "Of the tribe of Benjamin, Palti the son of Raphu."
         },
         {
             "type": "line",
-            "value": "A Benjámin nemzetségéből Pálthi, a Rafú fia."
+            "value": "Of the tribe of Zebulun, Gaddiel the son of Sodi."
         },
         {
             "type": "line",
-            "value": "A Zebulon nemzetségéből Gaddiel, a Szódi fia."
+            "value": "Of the tribe of Joseph, namely, of the tribe of Manasseh, Gaddi the son of Susi."
         },
         {
             "type": "line",
-            "value": "A József nemzetségéből, a Manasse nemzetségéből Gaddi, a Szúszi fia."
+            "value": "Of the tribe of Dan, Ammiel the son of Gemalli."
         },
         {
             "type": "line",
-            "value": "A Dán nemzetségéből Ammiél, a Gemálli fia."
+            "value": "Of the tribe of Asher, Sethur the son of Michael."
         },
         {
             "type": "line",
-            "value": "Az Áser nemzetségéből Szenthúr, a Mikaél fia."
+            "value": "Of the tribe of Naphtali, Nahbi the son of Vophsi."
         },
         {
             "type": "line",
-            "value": "A Nafthali nemzetségéből Nahbi, a Vofszi fia."
+            "value": "Of the tribe of Gad, Geuel the son of Machi."
         },
         {
             "type": "line",
-            "value": "A Gád nemzetségéből Géuel, a Mákhi fia."
+            "value": "These are the names of the men which Moses sent to spy out the land. And Moses called Oshea the son of Nun Jehoshua."
         },
         {
             "type": "line",
-            "value": "Ezek ama férfiaknak nevei, akiket elküldött Mózes a földnek megkémlelésére. És nevezé Mózes Hóseát, a Nún fiát Józsuénak."
+            "value": "And Moses sent them to spy out the land of Canaan, and said unto them, Get you up this way southward, and go up into the mountain:"
         },
         {
             "type": "line",
-            "value": "És mikor elküldé őket Mózes a Kanaán földének megkémlelésére, monda nékik: Menjetek fel erre dél felől, és hágjatok fel a hegyre."
+            "value": "And see the land, what it is; and the people that dwelleth therein, whether they be strong or weak, few or many;"
         },
         {
             "type": "line",
-            "value": "És nézzétek meg a földet, hogy milyen az; és a népet, amely lakozik azon: erős-é az vagy erőtlen, kevés-é az vagy sok?"
+            "value": "And what the land is that they dwell in, whether it be good or bad; and what cities they be that they dwell in, whether in tents, or in strong holds;"
         },
         {
             "type": "line",
-            "value": "És milyen a föld, amelyben lakozik az: jó-é az vagy hitvány; és milyenek a városok, amelyekben lakozik: táborokban vagy erősségekben lakozik-é?"
+            "value": "And what the land is, whether it be fat or lean, whether there be wood therein, or not. And be ye of good courage, and bring of the fruit of the land. Now the time was the time of the firstripe grapes."
         },
         {
             "type": "line",
-            "value": "És milyen a föld: kövér-é az, vagy sovány; van-é abban élőfa vagy nincs? És legyetek bátorságosok, és szakasszatok a földnek gyümölcséből. Azok a napok pedig a szőlőzsendülés napjai valának."
+            "value": "So they went up, and searched the land from the wilderness of Zin unto Rehob, as men come to Hamath."
         },
         {
             "type": "line",
-            "value": "Felmenének azért, és megkémlelék a földet a Cin pusztájától fogva mind Rehóbig, odáig, ahol Hamáthba mennek."
+            "value": "And they ascended by the south, and came unto Hebron; where Ahiman, Sheshai, and Talmai, the children of Anak, were. (Now Hebron was built seven years before Zoan in Egypt.)"
         },
         {
             "type": "line",
-            "value": "És felmenének dél felől, és jutának Hebronig; valának pedig ott Ahimán, Sésai és Thalmai, az Anák fiai: (Hebron pedig hét esztendővel építtetett elébb, mint az égyiptomi Coán)."
+            "value": "And they came unto the brook of Eshcol, and cut down from thence a branch with one cluster of grapes, and they bare it between two upon a staff; and they brought of the pomegranates, and of the figs."
         },
         {
             "type": "line",
-            "value": "Mikor pedig eljutának Eskol völgyéig, lemetszének ott egy szőlővesszőt egy szőlőfürttel, és ketten vivék azt rúdon; és a gránátalmákból és a figékből is szakasztának."
+            "value": "The place was called the brook Eshcol, because of the cluster of grapes which the children of Israel cut down from thence."
         },
         {
             "type": "line",
-            "value": "Azt a helyet elnevezék Eskol völgyének; a szőlőfürtért, amelyet lemetszettek vala onnét Izráel fiai."
+            "value": "And they returned from searching of the land after forty days."
         },
         {
             "type": "line",
-            "value": "És visszatérének a föld megkémleléséből negyven nap mulva."
+            "value": "And they went and came to Moses, and to Aaron, and to all the congregation of the children of Israel, unto the wilderness of Paran, to Kadesh; and brought back word unto them, and unto all the congregation, and shewed them the fruit of the land."
         },
         {
             "type": "line",
-            "value": "És menének, és jutának Mózeshez és Áronhoz, és Izráel fiainak egész gyülekezetéhez, Párán pusztájába, Kádesbe; és hírt vivének nékik és az egész gyülekezetnek, és megmutaták nékik a földnek gyümölcsét."
+            "value": "And they told him, and said, We came unto the land whither thou sentest us, and surely it floweth with milk and honey; and this is the fruit of it."
         },
         {
             "type": "line",
-            "value": "Így beszélének néki, és ezt mondák: Elmentünk vala arra a földre, amelyre küldöttél vala minket, és bizonyára tejjel és mézzel folyó az, és ez annak gyümölcse!"
+            "value": "Nevertheless the people be strong that dwell in the land, and the cities are walled, and very great: and moreover we saw the children of Anak there."
         },
         {
             "type": "line",
-            "value": "Csakhogy erős az a nép, amely lakja azt a földet, és a városok erősítve vannak, és felette nagyok; sőt még Anák fiait is láttuk ott."
+            "value": "The Amalekites dwell in the land of the south: and the Hittites, and the Jebusites, and the Amorites, dwell in the mountains: and the Canaanites dwell by the sea, and by the coast of Jordan."
         },
         {
             "type": "line",
-            "value": "Amálek lakik a dél felől való földön, és Khitteus, Jebuzeus és Emoreus lakik a hegyeken; a tenger mellett, és a Jordán partján pedig Kananeus lakik."
+            "value": "And Caleb stilled the people before Moses, and said, Let us go up at once, and possess it; for we are well able to overcome it."
         },
         {
             "type": "line",
-            "value": "És jóllehet Káleb csendesíté a Mózes ellen háborgó népet, és azt mondja vala: Bátran felmehetünk, és elfoglalhatjuk azt a földet, mert kétség nélkül megbírunk azzal;"
+            "value": "But the men that went up with him said, We be not able to go up against the people; for they are stronger than we."
         },
         {
             "type": "line",
-            "value": "Mindazáltal a férfiak, akik felmentek vala vele, azt mondják vala: Nem mehetünk fel az ellen a nép ellen, mert erősebb az nálunknál."
+            "value": "And they brought up an evil report of the land which they had searched unto the children of Israel, saying, The land, through which we have gone to search it, is a land that eateth up the inhabitants thereof; and all the people that we saw in it are men of a great stature."
         },
         {
             "type": "line",
-            "value": "És rossz hírét vivék annak a földnek, amelyet megkémleltek volt, Izráel fiaihoz, mondván: Az a föld, amelyen általmentünk, hogy megkémleljük azt, olyan föld, amely megemészti az ő lakóit; az egész nép is, amelyet láttunk azon, szálas emberekből áll."
-        },
-        {
-            "type": "line",
-            "value": "És láttunk ott óriásokat is, az óriások közül való Anáknak fiait, és olyanok valánk a magunk szemében, mint a sáskák, és az ő szemeikben is olyanok valánk."
+            "value": "And there we saw the giants, the sons of Anak, which come of the giants: and we were in our own sight as grasshoppers, and so we were in their sight."
         }
     ]
 }

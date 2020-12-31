@@ -1,104 +1,104 @@
 {
    "meta": {
    "type": "text",
-   "name": "12. Fejezet"
+   "name": "Chapter 12"
    },
    "data": [
         {
             "type": "line",
-            "value": "Ezek pedig ama földnek királyai, akiket levertek Izráelnek fiai, és akiknek földjét birtokba vették a Jordánon túl, napkelet felé, az Arnon pataktól fogva a Hermon hegyéig, és az egész mezőséget kelet felől:"
+            "value": "Now these are the kings of the land, which the children of Israel smote, and possessed their land on the other side Jordan toward the rising of the sun, from the river Arnon unto mount Hermon, and all the plain on the east:"
         },
         {
             "type": "line",
-            "value": "Szíhon, az Emoreusok királya, aki lakik vala Hesbonban, aki uralkodik vala Aróertől fogva, amely van az Arnon patak partján, és a patak közepétől és a Gileád felétől a Jabbok patakig, az Ammon fiainak határáig."
+            "value": "Sihon king of the Amorites, who dwelt in Heshbon, and ruled from Aroer, which is upon the bank of the river Arnon, and from the middle of the river, and from half Gilead, even unto the river Jabbok, which is the border of the children of Ammon;"
         },
         {
             "type": "line",
-            "value": "És a mezőségtől a Kinneróth tengerig napkelet felé, és a puszta tengeréig, a Sóstengerig napkelet felé, a Béth-Jesimothi útig, és délfelé a Piszga hegyoldalainak aljáig."
+            "value": "And from the plain to the sea of Chinneroth on the east, and unto the sea of the plain, even the salt sea on the east, the way to Bethjeshimoth; and from the south, under Ashdothpisgah:"
         },
         {
             "type": "line",
-            "value": "És Ógnak, a Básán királyának tartománya, aki Refaim maradékai közül való, aki Astarotban és Edreiben lakozik vala."
+            "value": "And the coast of Og king of Bashan, which was of the remnant of the giants, that dwelt at Ashtaroth and at Edrei,"
         },
         {
             "type": "line",
-            "value": "És uralkodik vala Hermon hegyén, Szalkhában és az egész Básánban, a Gesurnak és Maakhátnak határáig, és a fél Gileádon, Szíhonnak, Hesbon királyának határáig."
+            "value": "And reigned in mount Hermon, and in Salcah, and in all Bashan, unto the border of the Geshurites and the Maachathites, and half Gilead, the border of Sihon king of Heshbon."
         },
         {
             "type": "line",
-            "value": "Mózes, az Úrnak szolgája és Izráelnek fiai verték le őket, és oda adta azt a földet Mózes, az Úrnak szolgája örökségül a Rúben és Gád nemzetségeknek és a Manassé nemzetség felének."
+            "value": "Them did Moses the servant of the LORD and the children of Israel smite: and Moses the servant of the LORD gave it for a possession unto the Reubenites, and the Gadites, and the half tribe of Manasseh."
         },
         {
             "type": "line",
-            "value": "Ezek pedig ama földnek királyai, akiket levertek vala Józsué és az Izráelnek fiai a Jordán másik oldalán napnyugat felé, Baál-Gádtól fogva, amely van a Libánon völgyében, egészen a kopasz hegyig, amely Szeír felé emelkedik. És oda adá azt Józsué örökségül az Izráel nemzetségeinek, az ő osztályrészeik szerint:"
+            "value": "And these are the kings of the country which Joshua and the children of Israel smote on this side Jordan on the west, from Baalgad in the valley of Lebanon even unto the mount Halak, that goeth up to Seir; which Joshua gave unto the tribes of Israel for a possession according to their divisions;"
         },
         {
             "type": "line",
-            "value": "A hegységben és a síkságon, a mezőségen és a hegyoldalakon, a pusztán és a déli vidéken, a Khittheus, Emoreus, Kananeus, Perizeus, Khivveus és Jebuzeusok földjét."
+            "value": "In the mountains, and in the valleys, and in the plains, and in the springs, and in the wilderness, and in the south country; the Hittites, the Amorites, and the Canaanites, the Perizzites, the Hivites, and the Jebusites:"
         },
         {
             "type": "line",
-            "value": "Jérikhónak királya egy; Ainak, amely oldalra vala Béthel felé, királya egy;"
+            "value": "The king of Jericho, one; the king of Ai, which is beside Bethel, one;"
         },
         {
             "type": "line",
-            "value": "Jeruzsálemnek királya egy, Hebronnak királya egy;"
+            "value": "The king of Jerusalem, one; the king of Hebron, one;"
         },
         {
             "type": "line",
-            "value": "Jármutnak királya egy, Lákisnak királya egy;"
+            "value": "The king of Jarmuth, one; the king of Lachish, one;"
         },
         {
             "type": "line",
-            "value": "Eglonnak királya egy, Gézernek királya egy;"
+            "value": "The king of Eglon, one; the king of Gezer, one;"
         },
         {
             "type": "line",
-            "value": "Debirnek királya egy, Gédernek királya egy;"
+            "value": "The king of Debir, one; the king of Geder, one;"
         },
         {
             "type": "line",
-            "value": "Hormáhnak királya egy, Aradnak királya egy;"
+            "value": "The king of Hormah, one; the king of Arad, one;"
         },
         {
             "type": "line",
-            "value": "Libnának királya egy; Adullámnak királya egy;"
+            "value": "The king of Libnah, one; the king of Adullam, one;"
         },
         {
             "type": "line",
-            "value": "Makkedának királya egy, Béthelnek királya egy;"
+            "value": "The king of Makkedah, one; the king of Bethel, one;"
         },
         {
             "type": "line",
-            "value": "Tappuáhnak királya egy, Héfernek királya egy;"
+            "value": "The king of Tappuah, one; the king of Hepher, one;"
         },
         {
             "type": "line",
-            "value": "Afeknek királya egy, Lassáronnak királya egy;"
+            "value": "The king of Aphek, one; the king of Lasharon, one;"
         },
         {
             "type": "line",
-            "value": "Mádonnak királya egy, Hásornak királya egy;"
+            "value": "The king of Madon, one; the king of Hazor, one;"
         },
         {
             "type": "line",
-            "value": "Simron Meronnak királya egy, Aksáfnak királya egy;"
+            "value": "The king of Shimronmeron, one; the king of Achshaph, one;"
         },
         {
             "type": "line",
-            "value": "Taanáknak királya egy, Megiddónak királya egy;"
+            "value": "The king of Taanach, one; the king of Megiddo, one;"
         },
         {
             "type": "line",
-            "value": "Kedesnek királya egy, a Kármelen levő Jokneámnak királya egy;"
+            "value": "The king of Kedesh, one; the king of Jokneam of Carmel, one;"
         },
         {
             "type": "line",
-            "value": "A Dór magaslatán levő Dórnak királya egy, a Gilgál népeinek királya egy;"
+            "value": "The king of Dor in the coast of Dor, one; the king of the nations of Gilgal, one;"
         },
         {
             "type": "line",
-            "value": "Tircának királya egy; összesen harmincegy király."
+            "value": "The king of Tirzah, one: all the kings thirty and one."
         }
     ]
 }

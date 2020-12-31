@@ -1,68 +1,72 @@
 {
    "meta": {
    "type": "text",
-   "name": "12. Fejezet"
+   "name": "Chapter 12"
    },
    "data": [
         {
             "type": "line",
-            "value": "Miriám pedig és Áron szólának Mózes ellen a kúsita asszony miatt, akit feleségül vőn, mert kúsita asszonyt vett vala feleségül."
+            "value": "And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman."
         },
         {
             "type": "line",
-            "value": "És mondának: Avagy csak Mózes által szólott-é az Úr? avagy nem szólott-é mi általunk is? És meghallá az Úr."
+            "value": "And they said, Hath the LORD indeed spoken only by Moses? hath he not spoken also by us? And the LORD heard it."
         },
         {
             "type": "line",
-            "value": "(Az az ember pedig, Mózes, igen szelíd vala, minden embernél inkább, akik e föld színén vannak.)"
+            "value": "(Now the man Moses was very meek, above all the men which were upon the face of the earth.)"
         },
         {
             "type": "line",
-            "value": "Mindjárt monda azért az Úr Mózesnak, Áronnak és Miriámnak: Menjetek ki ti hárman a gyülekezetnek sátorába; és kimenének ők hárman."
+            "value": "And the LORD spake suddenly unto Moses, and unto Aaron, and unto Miriam, Come out ye three unto the tabernacle of the congregation. And they three came out."
         },
         {
             "type": "line",
-            "value": "Akkor leszálla az Úr felhőnek oszlopában, és megálla a sátornak nyílásánál; és szólítá Áront és Miriámot, és kimenének mindketten."
+            "value": "And the LORD came down in the pillar of the cloud, and stood in the door of the tabernacle, and called Aaron and Miriam: and they both came forth."
         },
         {
             "type": "line",
-            "value": "És monda: Halljátok meg most az én beszédeimet: Ha valaki az Úr prófétája közöttetek, én megjelenek annak látásban, vagy álomban szólok azzal."
+            "value": "And he said, Hear now my words: If there be a prophet among you, I the LORD will make myself known unto him in a vision, and will speak unto him in a dream."
         },
         {
             "type": "line",
-            "value": "Nem így az én szolgámmal, Mózessel, aki az én egész házamban hív."
+            "value": "My servant Moses is not so, who is faithful in all mine house."
         },
         {
             "type": "line",
-            "value": "Szemtől szembe szólok ő vele, és nyilvánvaló látásban; nem homályos beszédek által, hanem az Úrnak hasonlatosságát látja. Miért nem féltetek hát szólani az én szolgám ellen, Mózes ellen?"
+            "value": "With him will I speak mouth to mouth, even apparently, and not in dark speeches; and the similitude of the LORD shall he behold: wherefore then were ye not afraid to speak against my servant Moses?"
         },
         {
             "type": "line",
-            "value": "És felgyullada az Úr haragja ő reájok, és elméne."
+            "value": "And the anger of the LORD was kindled against them; and he departed."
         },
         {
             "type": "line",
-            "value": "És a felhő is eltávozék a sátor felül, és ímé Miriám poklos vala, fejér mint a hó; és rátekinte Áron Miriámra, és ímé poklos vala."
+            "value": "And the cloud departed from off the tabernacle; and, behold, Miriam became leprous, white as snow: and Aaron looked upon Miriam, and, behold, she was leprous."
         },
         {
             "type": "line",
-            "value": "Monda azért Áron Mózesnek: Kérlek Uram, ne tulajdonítsad nékünk e bűnt; mert bolondul cselekedtünk és vétkeztünk!"
+            "value": "And Aaron said unto Moses, Alas, my lord, I beseech thee, lay not the sin upon us, wherein we have done foolishly, and wherein we have sinned."
         },
         {
             "type": "line",
-            "value": "Kérlek, ne legyen olyan Miriám mint a holt, amelynek húsa félig megemésztetik, mikor kijő az ő anyjának méhéből."
+            "value": "Let her not be as one dead, of whom the flesh is half consumed when he cometh out of his mother's womb."
         },
         {
             "type": "line",
-            "value": "Kiálta azért Mózes az Úrhoz, mondván: Isten, kérlek, gyógyítsd meg őt!"
+            "value": "And Moses cried unto the LORD, saying, Heal her now, O God, I beseech thee."
         },
         {
             "type": "line",
-            "value": "Az Úr pedig monda Mózesnek: Ha csak az atyja pökött volna is az ő orcájára, avagy nem kellene-é szégyenkeznie hetednapig? Rekesztessék ki hét napig a táboron kívül, és azután hívassék vissza."
+            "value": "And the LORD said unto Moses, If her father had but spit in her face, should she not be ashamed seven days? let her be shut out from the camp seven days, and after that let her be received in again."
         },
         {
             "type": "line",
-            "value": "Kirekeszteték azért Miriám a táboron kivül hét napig. És a nép nem indula tovább, míg vissza nem hívaték Miriám."
+            "value": "And Miriam was shut out from the camp seven days: and the people journeyed not till Miriam was brought in again."
+        },
+        {
+            "type": "line",
+            "value": "And afterward the people removed from Hazeroth, and pitched in the wilderness of Paran."
         }
     ]
 }

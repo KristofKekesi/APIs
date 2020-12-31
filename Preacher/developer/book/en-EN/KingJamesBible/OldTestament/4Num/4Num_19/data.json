@@ -1,96 +1,96 @@
 {
    "meta": {
    "type": "text",
-   "name": "19. Fejezet"
+   "name": "Chapter 19"
    },
    "data": [
         {
             "type": "line",
-            "value": "Szóla azután az Úr Mózesnek és Áronnak, mondván:"
+            "value": "And the LORD spake unto Moses and unto Aaron, saying,"
         },
         {
             "type": "line",
-            "value": "Ez a törvény rendelése, amelyet parancsolt az Úr, mondván: Szólj Izráel fiainak, hogy hozzanak hozzád egy veres tehenet, épet, amelyben ne legyen hiba, amelynek nyakán iga nem volt."
+            "value": "This is the ordinance of the law which the LORD hath commanded, saying, Speak unto the children of Israel, that they bring thee a red heifer without spot, wherein is no blemish, and upon which never came yoke:"
         },
         {
             "type": "line",
-            "value": "És adjátok azt Eleázárnak, a papnak, és ő vitesse ki azt a táboron kivül, és öljék meg azt ő előtte."
+            "value": "And ye shall give her unto Eleazar the priest, that he may bring her forth without the camp, and one shall slay her before his face:"
         },
         {
             "type": "line",
-            "value": "És vegyen Eleázár, a pap annak véréből az ő újjával, és hintsen a gyülekezet sátorának eleje felé annak véréből hétszer."
+            "value": "And Eleazar the priest shall take of her blood with his finger, and sprinkle of her blood directly before the tabernacle of the congregation seven times:"
         },
         {
             "type": "line",
-            "value": "Azután égessék meg azt a tehenet az ő szemei előtt; annak bőrét, húsát, és vérét a ganéjával együtt égessék meg."
+            "value": "And one shall burn the heifer in his sight; her skin, and her flesh, and her blood, with her dung, shall he burn:"
         },
         {
             "type": "line",
-            "value": "Akkor vegyen a pap cédrusfát, izsópot és karmazsint, és vesse a tehénnek égő részei közé."
+            "value": "And the priest shall take cedar wood, and hyssop, and scarlet, and cast it into the midst of the burning of the heifer."
         },
         {
             "type": "line",
-            "value": "És mossa meg a pap az ő ruháit, az ő testét is mossa le vízzel, és azután menjen be a táborba, és tisztátalan legyen a pap estvéig."
+            "value": "Then the priest shall wash his clothes, and he shall bathe his flesh in water, and afterward he shall come into the camp, and the priest shall be unclean until the even."
         },
         {
             "type": "line",
-            "value": "Az is, aki megégeti azt, mossa meg az ő ruháit vízzel, és az ő testét is mossa le vízzel, és tisztátalan legyen estvéig."
+            "value": "And he that burneth her shall wash his clothes in water, and bathe his flesh in water, and shall be unclean until the even."
         },
         {
             "type": "line",
-            "value": "Valamely tiszta ember pedig szedje fel annak a tehénnek hamvát, és helyezze el azt a táboron kivűl tiszta helyre, hogy legyen az Izráel fiai gyülekezetének szolgálatára a tisztulásnak vizéhez; bűnért való áldozat ez."
+            "value": "And a man that is clean shall gather up the ashes of the heifer, and lay them up without the camp in a clean place, and it shall be kept for the congregation of the children of Israel for a water of separation: it is a purification for sin."
         },
         {
             "type": "line",
-            "value": "És az, aki felszedi a tehénnek hamvát, mossa meg az ő ruháit, és tisztátalan legyen estvéig; és legyen ez Izráel fiainak és a köztök tartózkodó jövevénynek örök rendelésül."
+            "value": "And he that gathereth the ashes of the heifer shall wash his clothes, and be unclean until the even: and it shall be unto the children of Israel, and unto the stranger that sojourneth among them, for a statute for ever."
         },
         {
             "type": "line",
-            "value": "Aki illeti akármely embernek a holttestét, és tisztátalanná lesz hét napig:"
+            "value": "He that toucheth the dead body of any man shall be unclean seven days."
         },
         {
             "type": "line",
-            "value": "Az olyan tisztítsa meg magát azzal a vízzel harmadnapon és hetednapon, és tiszta lesz; ha pedig nem tisztítja meg magát harmadnapon és hetednapon, akkor nem lesz tiszta."
+            "value": "He shall purify himself with it on the third day, and on the seventh day he shall be clean: but if he purify not himself the third day, then the seventh day he shall not be clean."
         },
         {
             "type": "line",
-            "value": "Valaki holtat illet, bármely embert aki megholt, és meg nem tisztítja magát, az megfertézteti az Úrnak hajlékát; és irtassék ki az a lélek Izráelből mivelhogy tisztulásnak vize nem hintetett ő reá, tisztátalan lesz; még rajta van az ő tisztátalansága."
+            "value": "Whosoever toucheth the dead body of any man that is dead, and purifieth not himself, defileth the tabernacle of the LORD; and that soul shall be cut off from Israel: because the water of separation was not sprinkled upon him, he shall be unclean; his uncleanness is yet upon him."
         },
         {
             "type": "line",
-            "value": "Ez legyen a törvény, mikor valaki sátorban hal meg. Mindaz, aki bemegy a sátorba, és mindaz, aki ott van a sátorban, tisztátalan legyen hét napig."
+            "value": "This is the law, when a man dieth in a tent: all that come into the tent, and all that is in the tent, shall be unclean seven days."
         },
         {
             "type": "line",
-            "value": "Minden nyitott edény is, amelyen nincs lezárható fedél, tisztátalan."
+            "value": "And every open vessel, which hath no covering bound upon it, is unclean."
         },
         {
             "type": "line",
-            "value": "És mindaz, aki illet a mezőn fegyverrel megöletettet, vagy megholtat, vagy emberi csontot, vagy sírt, tisztátalan legyen hét napig."
+            "value": "And whosoever toucheth one that is slain with a sword in the open fields, or a dead body, or a bone of a man, or a grave, shall be unclean seven days."
         },
         {
             "type": "line",
-            "value": "És vegyenek a tisztátalanért a bűnért való megégetett áldozatnak hamvából, és töltsenek arra élő vizet edénybe."
+            "value": "And for an unclean person they shall take of the ashes of the burnt heifer of purification for sin, and running water shall be put thereto in a vessel:"
         },
         {
             "type": "line",
-            "value": "Valamely tiszta ember pedig vegyen izsópot, és mártsa azt vízbe, és hintse meg a sátort és minden edényt, és minden embert, akik ott lesznek; és azt is, aki a csontot, vagy a megöltet, vagy a megholtat, vagy a koporsót illette."
+            "value": "And a clean person shall take hyssop, and dip it in the water, and sprinkle it upon the tent, and upon all the vessels, and upon the persons that were there, and upon him that touched a bone, or one slain, or one dead, or a grave:"
         },
         {
             "type": "line",
-            "value": "Hintse pedig meg a tiszta a tisztátalant harmadnapon és hetednapon, és tisztítsa meg őt hetednapon; azután mossa meg az ő ruháit, mossa le magát is vízzel, és tiszta lesz estve."
+            "value": "And the clean person shall sprinkle upon the unclean on the third day, and on the seventh day: and on the seventh day he shall purify himself, and wash his clothes, and bathe himself in water, and shall be clean at even."
         },
         {
             "type": "line",
-            "value": "Ha pedig valaki tisztátalanná lesz, és nem tisztítja meg magát, az a lélek irtassék ki a község közül; mivelhogy az Úrnak szenthelyét megfertéztette, a tisztulásnak vize nem hintetett ő reá, tisztátalan az."
+            "value": "But the man that shall be unclean, and shall not purify himself, that soul shall be cut off from among the congregation, because he hath defiled the sanctuary of the LORD: the water of separation hath not been sprinkled upon him; he is unclean."
         },
         {
             "type": "line",
-            "value": "Ez legyen ő nálok örök rendelésül: mind az, aki hinti a tisztulásnak vizét, mossa meg az ő ruháit; mind az, aki illeti a tisztulásnak vizét, tisztátalan legyen estvéig."
+            "value": "And it shall be a perpetual statute unto them, that he that sprinkleth the water of separation shall wash his clothes; and he that toucheth the water of separation shall be unclean until even."
         },
         {
             "type": "line",
-            "value": "És valamit illet a tisztátalan, tisztátalan legyen az; és az a lélek is, aki illeti azt, tisztátalan legyen estvéig."
+            "value": "And whatsoever the unclean person toucheth shall be unclean; and the soul that toucheth it shall be unclean until even."
         }
     ]
 }

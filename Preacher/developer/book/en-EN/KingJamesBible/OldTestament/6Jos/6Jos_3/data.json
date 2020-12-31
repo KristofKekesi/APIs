@@ -1,76 +1,76 @@
 {
    "meta": {
    "type": "text",
-   "name": "3. Fejezet"
+   "name": "Chapter 3"
    },
    "data": [
         {
             "type": "line",
-            "value": "Felkele azért Józsué jó reggel, és elindulának Sittimből, és eljutának a Jordánhoz, ő és Izráel fiai mindnyájan, és meghálának ott, mielőtt általmentek volna."
+            "value": "And Joshua rose early in the morning; and they removed from Shittim, and came to Jordan, he and all the children of Israel, and lodged there before they passed over."
         },
         {
             "type": "line",
-            "value": "Lőn pedig három nap mulva, hogy általmenének a vezérek a táboron;"
+            "value": "And it came to pass after three days, that the officers went through the host;"
         },
         {
             "type": "line",
-            "value": "És parancsolának a népnek, mondván: Mihelyt meglátjátok az Úrnak, a ti Isteneteknek frigyládáját és a Lévi nemzetségéből való papokat, akik hordozzák azt, ti is induljatok meg a ti helyetekről és menjetek utána."
+            "value": "And they commanded the people, saying, When ye see the ark of the covenant of the LORD your God, and the priests the Levites bearing it, then ye shall remove from your place, and go after it."
         },
         {
             "type": "line",
-            "value": "Csakhogy legyen köztetek és a között mintegy kétezer singnyi távolság; közel ne menjetek ahhoz, hogy megismerhessétek az útat, amelyen mennetek kell, mert nem jártatok ezen az úton soha ez előtt."
+            "value": "Yet there shall be a space between you and it, about two thousand cubits by measure: come not near unto it, that ye may know the way by which ye must go: for ye have not passed this way heretofore."
         },
         {
             "type": "line",
-            "value": "Józsué pedig monda a népnek: Tisztítsátok meg magatokat, mert holnap az Úr csudákat cselekszik köztetek."
+            "value": "And Joshua said unto the people, Sanctify yourselves: for to morrow the LORD will do wonders among you."
         },
         {
             "type": "line",
-            "value": "A papoknak is szóla Józsué, mondván: Vegyétek fel a frigyládát, és menjetek át a nép előtt. Felvevék azért a frigyládát, és mennek vala a nép előtt."
+            "value": "And Joshua spake unto the priests, saying, Take up the ark of the covenant, and pass over before the people. And they took up the ark of the covenant, and went before the people."
         },
         {
             "type": "line",
-            "value": "Az Úr pedig monda Józsuénak: E napon kezdelek téged felmagasztalni az egész Izráel szemei előtt, hogy megtudják, hogy amiképpen vele voltam Mózessel, te veled is veled leszek."
+            "value": "And the LORD said unto Joshua, This day will I begin to magnify thee in the sight of all Israel, that they may know that, as I was with Moses, so I will be with thee."
         },
         {
             "type": "line",
-            "value": "Te azért parancsolj a papoknak, akik a frigyládát hordozzák, mondván: Mikor bementek a Jordán vizének szélébe, álljatok meg a Jordánban."
+            "value": "And thou shalt command the priests that bear the ark of the covenant, saying, When ye are come to the brink of the water of Jordan, ye shall stand still in Jordan."
         },
         {
             "type": "line",
-            "value": "Ekkor monda Józsué Izráel fiainak: Járuljatok ide, és halljátok meg az Úrnak, a ti Isteneteknek szavait!"
+            "value": "And Joshua said unto the children of Israel, Come hither, and hear the words of the LORD your God."
         },
         {
             "type": "line",
-            "value": "És monda Józsué: Ebből tudjátok meg, hogy az élő Isten van köztetek, és hogy kétség nélkül elűzi előletek a Kananeust, a Khittheust, a Khivveust, a Perizeust, a Girgazeust, az Emoreust és a Jebuzeust:"
+            "value": "And Joshua said, Hereby ye shall know that the living God is among you, and that he will without fail drive out from before you the Canaanites, and the Hittites, and the Hivites, and the Perizzites, and the Girgashites, and the Amorites, and the Jebusites."
         },
         {
             "type": "line",
-            "value": "Íme az egész föld Urának frigyládája előttetek megy át a Jordánon!"
+            "value": "Behold, the ark of the covenant of the Lord of all the earth passeth over before you into Jordan."
         },
         {
             "type": "line",
-            "value": "Most azért válasszatok magatoknak tizenkét férfiút Izráel nemzetségeiből, egy-egy férfiút egy-egy nemzetségből."
+            "value": "Now therefore take you twelve men out of the tribes of Israel, out of every tribe a man."
         },
         {
             "type": "line",
-            "value": "És mihelyt megnyugosznak majd a Jordán vizében a papok talpai, akik az Úrnak, az egész föld Urának ládáját hordozzák: a Jordán vize ketté szakad, és a felülről aláfolyó víz megáll egy rakásban."
+            "value": "And it shall come to pass, as soon as the soles of the feet of the priests that bear the ark of the LORD, the Lord of all the earth, shall rest in the waters of Jordan, that the waters of Jordan shall be cut off from the waters that come down from above; and they shall stand upon an heap."
         },
         {
             "type": "line",
-            "value": "És lőn, hogy amint megindula a nép az ő sátraiból, hogy általmenjen a Jordánon, és a papok, a frigyládának hordozói, a nép előtt:"
+            "value": "And it came to pass, when the people removed from their tents, to pass over Jordan, and the priests bearing the ark of the covenant before the people;"
         },
         {
             "type": "line",
-            "value": "És amint a láda hordozói a Jordánhoz jutának, és a ládahordozó papok bemárták lábaikat a víznek szélébe (a Jordán pedig az egész aratási idő alatt telve vala minden ő partja felett):"
+            "value": "And as they that bare the ark were come unto Jordan, and the feet of the priests that bare the ark were dipped in the brim of the water, (for Jordan overfloweth all his banks all the time of harvest,)"
         },
         {
             "type": "line",
-            "value": "Megálla a víz, amely felülről foly vala alá, és álla egy rakásban, nagy messzire Ádám városánál, amely Carthan mellett vala; a puszta tengere, a Sóstenger felé aláfolyó víz pedig egészen elfuta, és általméne a nép Jérikhó előtt."
+            "value": "That the waters which came down from above stood and rose up upon an heap very far from the city Adam, that is beside Zaretan: and those that came down toward the sea of the plain, even the salt sea, failed, and were cut off: and the people passed over right against Jericho."
         },
         {
             "type": "line",
-            "value": "A papok pedig, az Úr frigyládájának hordozói, ott állának a szárazon a Jordán közepében bátorsággal, és az egész Izráel szárazon megy vala át, mindaddig, míg az egész nép teljesen általméne a Jordánon."
+            "value": "And the priests that bare the ark of the covenant of the LORD stood firm on dry ground in the midst of Jordan, and all the Israelites passed over on dry ground, until all the people were passed clean over Jordan."
         }
     ]
 }

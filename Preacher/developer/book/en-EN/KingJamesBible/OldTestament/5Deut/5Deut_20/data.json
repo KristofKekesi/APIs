@@ -1,88 +1,88 @@
 {
    "meta": {
    "type": "text",
-   "name": "20. Fejezet"
+   "name": "Chapter 20"
    },
    "data": [
         {
             "type": "line",
-            "value": "Mikor hadba mégy ellenséged ellen, és látsz lovakat, szekereket, náladnál nagyobb számú népet: ne félj tőlök, mert veled van az Úr, a te Istened, aki felhozott téged Égyiptom földéről."
+            "value": "When thou goest out to battle against thine enemies, and seest horses, and chariots, and a people more than thou, be not afraid of them: for the LORD thy God is with thee, which brought thee up out of the land of Egypt."
         },
         {
             "type": "line",
-            "value": "És mikor az ütközethez készültök, álljon elő a pap, és szóljon a népnek;"
+            "value": "And it shall be, when ye are come nigh unto the battle, that the priest shall approach and speak unto the people,"
         },
         {
             "type": "line",
-            "value": "És ezt mondja nékik: Hallgasd meg Izráel! Ti ma készültök megütközni ellenségeitekkel: A ti szívetek meg ne lágyuljon, ne féljetek, és meg ne rettenjetek, se meg ne rémüljetek előttök;"
+            "value": "And shall say unto them, Hear, O Israel, ye approach this day unto battle against your enemies: let not your hearts faint, fear not, and do not tremble, neither be ye terrified because of them;"
         },
         {
             "type": "line",
-            "value": "Mert az Úr, a ti Istenetek veletek megy, hogy harcoljon érettetek a ti ellenségeitekkel, hogy megtartson titeket."
+            "value": "For the LORD your God is he that goeth with you, to fight for you against your enemies, to save you."
         },
         {
             "type": "line",
-            "value": "Az előljárók pedig szóljanak a népnek, mondván: Kicsoda az olyan férfi, aki új házat épített, de még fel nem avatta azt? Menjen el, és térjen vissza az ő házába, hogy meg ne haljon a harcban, és más valaki avassa fel azt."
+            "value": "And the officers shall speak unto the people, saying, What man is there that hath built a new house, and hath not dedicated it? let him go and return to his house, lest he die in the battle, and another man dedicate it."
         },
         {
             "type": "line",
-            "value": "És kicsoda olyan férfi, aki szőlőt ültetett és nem vette el annak hasznát? Menjen el, és térjen vissza az ő házába, hogy meg ne haljon a harcban, és más valaki vegye el annak hasznát."
+            "value": "And what man is he that hath planted a vineyard, and hath not yet eaten of it? let him also go and return unto his house, lest he die in the battle, and another man eat of it."
         },
         {
             "type": "line",
-            "value": "És kicsoda olyan férfi, aki feleséget jegyzett el magának, de még el nem vette? Menjen el, és térjen vissza házába, hogy meg ne haljon a harcban, és más valaki vegye azt el."
+            "value": "And what man is there that hath betrothed a wife, and hath not taken her? let him go and return unto his house, lest he die in the battle, and another man take her."
         },
         {
             "type": "line",
-            "value": "Még tovább is szóljanak az előljárók a néphez, és ezt mondják: Kicsoda olyan férfi, aki félénk és lágy szívű? Menjen el, és térjen vissza az ő házába, hogy az ő atyjafiainak szíve úgy meg ne olvadjon, mint az ő szíve."
+            "value": "And the officers shall speak further unto the people, and they shall say, What man is there that is fearful and fainthearted? let him go and return unto his house, lest his brethren's heart faint as well as his heart."
         },
         {
             "type": "line",
-            "value": "És mikor elvégzik az előljárók beszédöket a néphez, állítsanak seregvezéreket a nép élére."
+            "value": "And it shall be, when the officers have made an end of speaking unto the people, that they shall make captains of the armies to lead the people."
         },
         {
             "type": "line",
-            "value": "Mikor valamely város alá mégy, hogy azt megostromold, békességgel kínáld meg azt."
+            "value": "When thou comest nigh unto a city to fight against it, then proclaim peace unto it."
         },
         {
             "type": "line",
-            "value": "És ha békességgel felel néked, és kaput nyit, akkor az egész nép, amely találtatik abban, adófizetőd legyen, és szolgáljon néked."
+            "value": "And it shall be, if it make thee answer of peace, and open unto thee, then it shall be, that all the people that is found therein shall be tributaries unto thee, and they shall serve thee."
         },
         {
             "type": "line",
-            "value": "Ha pedig nem köt békességet veled, hanem harcra kél veled, akkor zárd azt körül;"
+            "value": "And if it will make no peace with thee, but will make war against thee, then thou shalt besiege it:"
         },
         {
             "type": "line",
-            "value": "És ha az Úr, a te Istened kezedbe adja azt: vágj le abban minden fineműt fegyver élével;"
+            "value": "And when the LORD thy God hath delivered it into thine hands, thou shalt smite every male thereof with the edge of the sword:"
         },
         {
             "type": "line",
-            "value": "De az asszonyokat, a kis gyermekeket, a barmokat és mind azt, ami lesz a városban, az egész zsákmányolni valót magadnak prédáljad; és fogyaszd el a te ellenségeidtől való zsákmányt, akiket kezedbe ad néked az Úr, a te Istened."
+            "value": "But the women, and the little ones, and the cattle, and all that is in the city, even all the spoil thereof, shalt thou take unto thyself; and thou shalt eat the spoil of thine enemies, which the LORD thy God hath given thee."
         },
         {
             "type": "line",
-            "value": "Így cselekedjél mindazokkal a városokkal, amelyek igen messze esnek tőled, amelyek nem e nemzetek városai közül valók."
+            "value": "Thus shalt thou do unto all the cities which are very far off from thee, which are not of the cities of these nations."
         },
         {
             "type": "line",
-            "value": "De e népek városaiban, amelyeket örökségül ad néked az Úr, a te Istened, ne hagyj élni csak egy lelket is;"
+            "value": "But of the cities of these people, which the LORD thy God doth give thee for an inheritance, thou shalt save alive nothing that breatheth:"
         },
         {
             "type": "line",
-            "value": "Hanem mindenestől veszítsd el őket: a Khittheust, az Emoreust, a Kananeust, a Perizeust, a Khivveust és a Jebuzeust, amint megparancsolta néked az Úr, a te Istened;"
+            "value": "But thou shalt utterly destroy them; namely, the Hittites, and the Amorites, the Canaanites, and the Perizzites, the Hivites, and the Jebusites; as the LORD thy God hath commanded thee:"
         },
         {
             "type": "line",
-            "value": "Azért, hogy meg ne tanítsanak titeket az ő mindenféle útálatosságaik szerint cselekedni, amelyeket ők cselekesznek az ő isteneiknek, és hogy ne vétkezzetek az Úr ellen, a ti Istenetek ellen."
+            "value": "That they teach you not to do after all their abominations, which they have done unto their gods; so should ye sin against the LORD your God."
         },
         {
             "type": "line",
-            "value": "Mikor valamely várost hosszabb ideig tartasz körülzárva, hadakozván az ellen, hogy bevegyed azt: ki ne veszítsd annak egy élőfáját sem, fejszével vágván azt; hanem egyél arról, és azt magát ki ne irtsad; mert ember-é a mezőnek fája, hogy ostrom alá jusson miattad?"
+            "value": "When thou shalt besiege a city a long time, in making war against it to take it, thou shalt not destroy the trees thereof by forcing an axe against them: for thou mayest eat of them, and thou shalt not cut them down (for the tree of the field is man's life) to employ them in the siege:"
         },
         {
             "type": "line",
-            "value": "Csak amely fáról tudod, hogy nem gyümölcstermő, azt veszítsd el és irtsd ki, és abból építs erősséget az ellen a város ellen, amely te ellened hadakozik, mindaddig, amíg leomlik az."
+            "value": "Only the trees which thou knowest that they be not trees for meat, thou shalt destroy and cut them down; and thou shalt build bulwarks against the city that maketh war with thee, until it be subdued."
         }
     ]
 }
