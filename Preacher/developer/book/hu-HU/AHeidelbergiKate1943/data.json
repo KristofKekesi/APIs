@@ -1,5 +1,6 @@
 {
   "meta": {
+	"id": "1",
     "type": "book",
     "url": "book/hu-HU/AHeidelbergiKate1943/",
     "name": "Részei",
@@ -7,7 +8,24 @@
     "finished": false,
     "exclusive": false,
 	"status": "visible",
-	"contains": "text"
+	"contains": "text",
+	
+	"name": "A Heidelbergi Káté",
+    "authors": "Magyar Református Egyház",
+    "year": 2016,
+    "color": "0xff4b9e71",
+	"images": [
+	  {
+		"height": 1000,
+		"width": 650,
+		"dir": "1000x650.png"
+	  },
+	  {
+		"height": 500,
+		"width": 325,
+		"dir": "500x325.png"
+	  }
+	]
   },
   "data": [
     {

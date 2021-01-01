@@ -1,5 +1,6 @@
 {
   "meta": {
+    "id": 0,
     "type": "book",
     "url": "book/hu-HU/Karoli2014/",
     "name": "Szövetségek",
@@ -7,7 +8,24 @@
     "finished": false,
     "exclusive": false,
 	"status": "visible",
-	"contains": "folder"
+	"contains": "folder",
+	
+    "name": "Károli Biblia",
+    "authors": "Magyar Bibliatársulat",
+    "year": 2014,
+    "color": "0xff586ad7",
+	"images": [
+	  {
+		"height": 1000,
+		"width": 650,
+		"dir": "1000x650.png"
+	  },
+	  {
+		"height": 500,
+		"width": 325,
+		"dir": "500x325.png"
+	  }
+	]
   },
   "data": [
     {

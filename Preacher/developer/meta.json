@@ -1,23 +1,5 @@
 {
 	"outdated": false,
 	"latestSupportedBuild": 1,
-	"latest": {
-      "dir": "book/en-EN/KingJamesBible/data.json",
-      "name": "King James Bible",
-      "authors": "",
-      "year": "",
-	  "color": "0xffaa1630",
-	  "images": [
-		{
-			"height": 1000,
-			"width": 650,
-			"dir": "book/en-EN/KingJamesBible/1000x650.png"
-		},
-		{
-			"height": 500,
-			"width": 325,
-			"dir": "KingJamesBible/500x325.png"
-		}
-	  ]
-    }
+	"latestContent": 2
 }

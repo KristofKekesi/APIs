@@ -1,5 +1,6 @@
 {
   "meta": {
+	"id": 2,
     "type": "book",
     "url": "book/en-EN/KingJamesBible/",
     "name": "Testaments",
@@ -7,7 +8,23 @@
     "finished": false,
     "exclusive": false,
 	"status": "visible",
-	"contains": "folder"
+	"contains": "folder",
+	
+	"name": "King James Bible",
+    "authors": "",
+    "year": "",
+	"color": "0xff586ad7",
+	"images": [
+	  {
+		"height": 1000,
+		"width": 650,
+		"dir": "1000x650.png"
+	  }, {
+		"height": 500,
+		"width": 325,
+		"dir": "500x325.png"
+	  }
+	]
   },
   "data": [
     {

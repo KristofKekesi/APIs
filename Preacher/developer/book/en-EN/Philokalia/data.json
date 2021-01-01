@@ -1,18 +1,18 @@
 {
   "meta": {
     "type": "book",
-    "url": "book/en-EN/Quran/",
+    "url": "book/en-EN/Philokalia/",
     "name": "",
     "hidden": false,
     "finished": false,
     "exclusive": false,
-	"status": "error",
+	"status": "maintenance",
 	"contains": "folder",
 	
-	"name": "Quran",
+	"name": "Philokalia",
     "authors": "",
     "year": "",
-	"color": "0xffCB5D3B",
+	"color": "0xffaa1630",
 	"images": [
 	  {
 		"height": 1000,

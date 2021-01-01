@@ -2,65 +2,10 @@
   "meta": {
     "type": "group",
     "url": "book/en-EN/",
-	"status": "maintenance",
+	"status": "visible",
 	"contains": "book"
   },
   "data": [
-	{
-      "dir": "Philokalia/data.json",
-      "name": "Philokalia",
-      "authors": "",
-      "year": "",
-	  "color": "0xffaa1630",
-	  "images": [
-		{
-			"height": 1000,
-			"width": 650,
-			"dir": "Hadith/1000x650.png"
-		},
-		{
-			"height": 500,
-			"width": 325,
-			"dir": "Hadith/500x325.png"
-		}
-	  ]
-    },
-    {
-      "dir": "Quran/data.json",
-      "name": "Quran",
-      "authors": "",
-      "year": "",
-	  "color": "0xffCB5D3B",
-	  "images": [
-		{
-			"height": 1000,
-			"width": 650,
-			"dir": "Quran/1000x650.png"
-		},
-		{
-			"height": 500,
-			"width": 325,
-			"dir": "Quran/500x325.png"
-		}
-	  ]
-    },
-	{
-      "dir": "KingJamesBible/data.json",
-      "name": "King James Bible",
-      "authors": "",
-      "year": "",
-	  "color": "0xff586ad7",
-	  "images": [
-		{
-			"height": 1000,
-			"width": 650,
-			"dir": "KingJamesBible/1000x650.png"
-		}, {
-			"height": 500,
-			"width": 325,
-			"dir": "KingJamesBible/500x325.png"
-		}
-	  ]
-    }
+    {"id": 2}
   ]
 }

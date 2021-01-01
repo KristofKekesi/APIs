@@ -2,66 +2,11 @@
   "meta": {
     "type": "group",
     "url": "book/hu-HU/",
-	"status": "error",
+	"status": "visible",
 	"contains": "book"
   },
   "data": [
-    {
-      "dir": "Karoli2014/data.json",
-      "name": "Károli Biblia",
-      "authors": "Magyar Bibliatársulat",
-      "year": 2014,
-      "color": "0xff586ad7",
-	  "images": [
-		{
-			"height": 1000,
-			"width": 650,
-			"dir": "Karoli2014/1000x650.png"
-		},
-		{
-			"height": 500,
-			"width": 325,
-			"dir": "Karoli2014/500x325.png"
-		}
-	  ]
-    },
-	{
-      "dir": "AHeidelbergiKate1943/data.json",
-      "name": "A Heidelbergi Káté",
-      "authors": "Magyar Református Egyház",
-      "year": 2016,
-      "color": "0xff4b9e71",
-	  "images": [
-		{
-			"height": 1000,
-			"width": 650,
-			"dir": "AHeidelbergiKate1943/1000x650.png"
-		},
-		{
-			"height": 500,
-			"width": 325,
-			"dir": "AHeidelbergiKate1943/500x325.png"
-		}
-	  ]
-    },
-	{
-      "dir": "Koran/data.json",
-      "name": "Korán",
-      "authors": "",
-      "year": "",
-	  "color": "0xffCB5D3B",
-	  "images": [
-		{
-			"height": 1000,
-			"width": 650,
-			"dir": "Koran/1000x650.png"
-		},
-		{
-			"height": 500,
-			"width": 325,
-			"dir": "Koran/500x325.png"
-		}
-	  ]
-    }
+	{"id": 0},
+	{"id": 1}
   ]
 }
