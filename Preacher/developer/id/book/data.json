@@ -6,8 +6,8 @@
 	"contains": "book"
   },
   "data": [
-	{"id": 0, "dir": "hu-HU/Karoli2014/data.json"},
-	{"id": 1, "dir": "hu-HU/AHeidelbergiKate1943/data.json"},
-	{"id": 2, "dir": "en-EN/KingJamesBible/data.json"}
+	{"id": "BOOK-0", "dir": "hu-HU/Karoli2014/data.json"},
+	{"id": "BOOK-1", "dir": "hu-HU/AHeidelbergiKate1943/data.json"},
+	{"id": "BOOK-2", "dir": "en-EN/KingJamesBible/data.json"}
   ]
 }
