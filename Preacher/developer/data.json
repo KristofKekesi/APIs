@@ -13,5 +13,15 @@
       "dir": "story/data.json",
 	  "type": "circle"
     }
+  ],
+  "layout": [
+	{
+		"platform": "android", "build": "3", layout: [
+			{"value": "ShowcaseWithStories"},
+			{"value": "FeaturedLanguage"},
+			{"value": "FeaturedBooks"},
+			{"value": "FeaturedBooks"}
+		]
+	}
   ]
 }
