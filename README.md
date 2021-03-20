@@ -19,7 +19,7 @@
 <p align="center">
    <img width="128" align="center" src="Elements/elements-api.svg"></p>
 <h1 align="center">
-  Preacher API
+  Elements API
 </h1>
 
 [Documentation](https://github.com/KristofKekesi/APIs/blob/master/Elements/README.md)
