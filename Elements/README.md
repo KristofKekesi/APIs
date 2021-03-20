@@ -29,20 +29,20 @@
 
 #### Get all elements
 ```http
-GET https://api.kekesi.dev/Elements/pre0/element/data.json
+GET https://api.kekesi.dev/Elements/v1/element/data.json
 ```
 
 #### Get specified element
 ```http
-GET https://api.kekesi.dev/Elements/pre0/element/[ELEMENTSNUMBER]/data.json
+GET https://api.kekesi.dev/Elements/v1/element/[ELEMENTSNUMBER]/data.json
 ```
 
 #### Get all isotopes
 ```http
-GET https://api.kekesi.dev/Elements/pre0/element/1/isotope/data.json
+GET https://api.kekesi.dev/Elements/v1/element/1/isotope/data.json
 ```
 
 #### Get all isotopes
 ```http
-GET https://api.kekesi.dev/Elements/pre0/element/1/isotope/[ISOTOPENUMBER]/data.json
+GET https://api.kekesi.dev/Elements/v1/element/1/isotope/[ISOTOPENUMBER]/data.json
 ```
