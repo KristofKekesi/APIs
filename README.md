@@ -27,17 +27,11 @@
 ## Contributors <img src="https://img.shields.io/badge/1-blue.svg" alt="">
 * _[Programming]_  - [__Kristóf Kékesi__](https://github.com/KristofKekesi)
  
-## Contacts [![Discord](https://img.shields.io/discord/639186082214445116.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/7URAMuc)
+<h1 align="center">
+  Prime API
+</h1>
 
-<table>
- <tr><td>
-  Discord:
- </td><td>
-  https://discord.gg/7URAMuc
- </td></tr>
- <tr><td>
-  mail:
- </td><td>
-  kristofkekesiofficial@gmail.com
- </td></tr>
-</table>
+[Documentation](https://github.com/KristofKekesi/APIs/blob/master/Prime/README.md)
+
+## Contributors <img src="https://img.shields.io/badge/1-blue.svg" alt="">
+* _[Programming]_  - [__Kristóf Kékesi__](https://github.com/KristofKekesi)
