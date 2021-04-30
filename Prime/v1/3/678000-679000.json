@@ -67,5 +67,6 @@
    {"value": 3678877, "isPrime": true},
    {"value": 3678881, "isPrime": true},
    {"value": 3678887, "isPrime": true},
-   {"value": 3678893, "isPrime": true}
+   {"value": 3678893, "isPrime": true},
+   {"value": 3678923, "isPrime": true}
 ]
