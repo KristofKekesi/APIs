@@ -68,5 +68,14 @@
    {"value": 3678881, "isPrime": true},
    {"value": 3678887, "isPrime": true},
    {"value": 3678893, "isPrime": true},
-   {"value": 3678923, "isPrime": true}
+   {"value": 3678923, "isPrime": true},
+   {"value": 3678929, "isPrime": true},
+   {"value": 3678931, "isPrime": true},
+   {"value": 3678937, "isPrime": true},
+   {"value": 3678943, "isPrime": true},
+   {"value": 3678949, "isPrime": true},
+   {"value": 3678967, "isPrime": true},
+   {"value": 3678973, "isPrime": true},
+   {"value": 3678977, "isPrime": true},
+   {"value": 3678979, "isPrime": true}
 ]
