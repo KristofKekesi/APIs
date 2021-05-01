@@ -50,5 +50,12 @@
    {"value": 7268819, "isPrime": true},
    {"value": 7268827, "isPrime": true},
    {"value": 7268857, "isPrime": true},
-   {"value": 7268881, "isPrime": true}
+   {"value": 7268881, "isPrime": true},
+   {"value": 7268903, "isPrime": true},
+   {"value": 7268923, "isPrime": true},
+   {"value": 7268953, "isPrime": true},
+   {"value": 7268969, "isPrime": true},
+   {"value": 7268971, "isPrime": true},
+   {"value": 7268981, "isPrime": true},
+   {"value": 7268999, "isPrime": true}
 ]
